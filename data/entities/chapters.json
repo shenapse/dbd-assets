@@ -1,0 +1,314 @@
+{
+  "a-binding-of-kin": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "A Binding of Kin",
+    "release_date": "2020-12-01"
+  },
+  "a-lullaby-for-the-dark": {
+    "dlc_type": "free_chapter",
+    "is_licensed": false,
+    "name": "A Lullaby for the Dark",
+    "release_date": "2017-07-27"
+  },
+  "a-nightmare-on-elm-street": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "A Nightmare on Elm Street™",
+    "release_date": "2017-10-26"
+  },
+  "alan-wake": {
+    "dlc_type": "half_chapter",
+    "is_licensed": true,
+    "name": "Alan Wake®",
+    "release_date": "2024-01-30"
+  },
+  "alien": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Alien",
+    "release_date": "2023-08-29"
+  },
+  "all-kill": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "All-Kill",
+    "release_date": "2021-03-30"
+  },
+  "all-kill-comeback": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "All-Kill: Comeback",
+    "release_date": "2026-03-17"
+  },
+  "all-things-wicked": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "All Things Wicked",
+    "release_date": "2024-03-12"
+  },
+  "ash-vs-evil-dead": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Ash vs Evil Dead",
+    "release_date": "2019-04-02"
+  },
+  "base-game": {
+    "dlc_type": "base_game",
+    "is_licensed": false,
+    "name": "Base Game",
+    "release_date": "2016-06-14"
+  },
+  "castlevania": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Castlevania",
+    "release_date": "2024-08-27"
+  },
+  "chains-of-hate": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Chains of Hate",
+    "release_date": "2020-03-10"
+  },
+  "chorus-of-sin": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Chorus of Sin",
+    "release_date": "2026-08-25"
+  },
+  "chucky": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Chucky",
+    "release_date": "2023-11-28"
+  },
+  "cursed-legacy": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Cursed Legacy",
+    "release_date": "2019-12-03"
+  },
+  "curtain-call": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Curtain Call",
+    "release_date": "2018-06-12"
+  },
+  "darkness-among-us": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Darkness Among Us",
+    "release_date": "2018-12-11"
+  },
+  "demise-of-the-faithful": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Demise of the Faithful",
+    "release_date": "2019-03-19"
+  },
+  "descend-beyond": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Descend Beyond",
+    "release_date": "2020-09-08"
+  },
+  "doomed-course": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Doomed Course",
+    "release_date": "2024-11-28"
+  },
+  "dungeons-dragons": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Dungeons & Dragons",
+    "release_date": "2024-06-03"
+  },
+  "end-transmission": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "End Transmission",
+    "release_date": "2023-06-13"
+  },
+  "five-nights-at-freddy-s": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Five Nights at Freddy's",
+    "release_date": "2025-06-17"
+  },
+  "forged-in-fog": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Forged in Fog",
+    "release_date": "2022-11-22"
+  },
+  "ghost-face": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Ghost Face®",
+    "release_date": "2019-06-18"
+  },
+  "hellraiser": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Hellraiser™",
+    "release_date": "2021-09-07"
+  },
+  "hour-of-the-witch": {
+    "dlc_type": "half_chapter",
+    "is_licensed": false,
+    "name": "Hour of the Witch",
+    "release_date": "2021-10-19"
+  },
+  "jason": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Jason",
+    "release_date": "2026-06-16"
+  },
+  "leatherface": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "LEATHERFACE™",
+    "release_date": "2017-09-14"
+  },
+  "left-behind": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Left Behind",
+    "release_date": "2017-03-08"
+  },
+  "nicolas-cage": {
+    "dlc_type": "half_chapter",
+    "is_licensed": true,
+    "name": "Nicolas Cage",
+    "release_date": "2023-07-25"
+  },
+  "of-flesh-and-mud": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Of Flesh and Mud",
+    "release_date": "2016-12-08"
+  },
+  "portrait-of-a-murder": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Portrait of a Murder",
+    "release_date": "2021-11-30"
+  },
+  "resident-evil": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Resident Evil™",
+    "release_date": "2021-06-15"
+  },
+  "resident-evil-project-w": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Resident Evil™: PROJECT W",
+    "release_date": "2022-08-30"
+  },
+  "roots-of-dread": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Roots of Dread",
+    "release_date": "2022-06-07"
+  },
+  "sadako-rising": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Sadako Rising",
+    "release_date": "2022-03-08"
+  },
+  "shattered-bloodline": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Shattered Bloodline",
+    "release_date": "2018-09-18"
+  },
+  "silent-hill": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Silent Hill",
+    "release_date": "2020-06-16"
+  },
+  "sinister-grace": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Sinister Grace",
+    "release_date": "2025-09-23"
+  },
+  "spark-of-madness": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Spark of Madness",
+    "release_date": "2017-05-11"
+  },
+  "steady-pulse": {
+    "dlc_type": "half_chapter",
+    "is_licensed": false,
+    "name": "Steady Pulse",
+    "release_date": "2025-05-06"
+  },
+  "stranger-things": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Stranger Things",
+    "release_date": "2019-09-17"
+  },
+  "stranger-things-chapter-2": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Stranger Things Chapter 2",
+    "release_date": "2026-01-27"
+  },
+  "the-halloween-chapter": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "The HALLOWEEN® Chapter",
+    "release_date": "2016-10-25"
+  },
+  "the-last-breath-chapter": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "The Last Breath Chapter",
+    "release_date": "2016-08-18"
+  },
+  "the-life-road": {
+    "dlc_type": "half_chapter",
+    "is_licensed": false,
+    "name": "The Life Road",
+    "release_date": "2026-06-25"
+  },
+  "the-saw-chapter": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "The SAW™ Chapter",
+    "release_date": "2018-01-23"
+  },
+  "the-walking-dead": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "The Walking Dead",
+    "release_date": "2025-07-29"
+  },
+  "tokyo-ghoul": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Tokyo Ghoul",
+    "release_date": "2025-04-02"
+  },
+  "tomb-raider": {
+    "dlc_type": "half_chapter",
+    "is_licensed": true,
+    "name": "Tomb Raider™",
+    "release_date": "2024-07-16"
+  },
+  "tools-of-torment": {
+    "dlc_type": "chapter",
+    "is_licensed": false,
+    "name": "Tools of Torment",
+    "release_date": "2023-03-07"
+  }
+}

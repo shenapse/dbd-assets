@@ -1,0 +1,131 @@
+{
+  "the-animatronic": {
+    "name": "The Animatronic"
+  },
+  "the-artist": {
+    "name": "The Artist"
+  },
+  "the-blight": {
+    "name": "The Blight"
+  },
+  "the-cannibal": {
+    "name": "The Cannibal"
+  },
+  "the-cenobite": {
+    "name": "The Cenobite"
+  },
+  "the-clown": {
+    "name": "The Clown"
+  },
+  "the-dark-lord": {
+    "name": "The Dark Lord"
+  },
+  "the-deathslinger": {
+    "name": "The Deathslinger"
+  },
+  "the-demogorgon": {
+    "name": "The Demogorgon"
+  },
+  "the-doctor": {
+    "name": "The Doctor"
+  },
+  "the-dredge": {
+    "name": "The Dredge"
+  },
+  "the-executioner": {
+    "name": "The Executioner"
+  },
+  "the-first": {
+    "name": "The First"
+  },
+  "the-ghost-face": {
+    "name": "The Ghost Face"
+  },
+  "the-ghoul": {
+    "name": "The Ghoul"
+  },
+  "the-good-guy": {
+    "name": "The Good Guy"
+  },
+  "the-hag": {
+    "name": "The Hag"
+  },
+  "the-hillbilly": {
+    "name": "The Hillbilly"
+  },
+  "the-houndmaster": {
+    "name": "The Houndmaster"
+  },
+  "the-huntress": {
+    "name": "The Huntress"
+  },
+  "the-knight": {
+    "name": "The Knight"
+  },
+  "the-krasue": {
+    "name": "The Krasue"
+  },
+  "the-legion": {
+    "name": "The Legion"
+  },
+  "the-lich": {
+    "name": "The Lich"
+  },
+  "the-mastermind": {
+    "name": "The Mastermind"
+  },
+  "the-nemesis": {
+    "name": "The Nemesis"
+  },
+  "the-nightmare": {
+    "name": "The Nightmare"
+  },
+  "the-nurse": {
+    "name": "The Nurse"
+  },
+  "the-oni": {
+    "name": "The Oni"
+  },
+  "the-onryo": {
+    "name": "The Onryo"
+  },
+  "the-pig": {
+    "name": "The Pig"
+  },
+  "the-plague": {
+    "name": "The Plague"
+  },
+  "the-shape": {
+    "name": "The Shape"
+  },
+  "the-singularity": {
+    "name": "The Singularity"
+  },
+  "the-skull-merchant": {
+    "name": "The Skull Merchant"
+  },
+  "the-slasher": {
+    "name": "The Slasher"
+  },
+  "the-spirit": {
+    "name": "The Spirit"
+  },
+  "the-trapper": {
+    "name": "The Trapper"
+  },
+  "the-trickster": {
+    "name": "The Trickster"
+  },
+  "the-twins": {
+    "name": "The Twins"
+  },
+  "the-unknown": {
+    "name": "The Unknown"
+  },
+  "the-wraith": {
+    "name": "The Wraith"
+  },
+  "the-xenomorph": {
+    "name": "The Xenomorph"
+  }
+}

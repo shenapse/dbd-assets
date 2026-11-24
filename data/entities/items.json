@@ -1,0 +1,169 @@
+{
+  "firecracker": {
+    "name": "Firecracker",
+    "variants": {
+      "firecracker": {
+        "name": "Firecracker",
+        "rarity": 5
+      }
+    }
+  },
+  "flashlight": {
+    "name": "Flashlight",
+    "variants": {
+      "anniversary-flashlight": {
+        "name": "Anniversary Flashlight",
+        "rarity": 5
+      },
+      "flashlight": {
+        "name": "Flashlight",
+        "rarity": 1
+      },
+      "masquerade-flashlight": {
+        "name": "Masquerade Flashlight",
+        "rarity": 5
+      },
+      "sport-flashlight": {
+        "name": "Sport Flashlight",
+        "rarity": 2
+      },
+      "utility-flashlight": {
+        "name": "Utility Flashlight",
+        "rarity": 3
+      },
+      "will-o-wisp": {
+        "name": "Will O' Wisp",
+        "rarity": 5
+      }
+    }
+  },
+  "fog-vial": {
+    "name": "Fog Vial",
+    "variants": {
+      "apprentice-s-fog-vial": {
+        "name": "Apprentice's Fog Vial",
+        "rarity": 0
+      },
+      "artisan-s-fog-vial": {
+        "name": "Artisan's Fog Vial",
+        "rarity": 1
+      },
+      "vigo-s-fog-vial": {
+        "name": "Vigo's Fog Vial",
+        "rarity": 2
+      }
+    }
+  },
+  "key": {
+    "name": "Key",
+    "variants": {
+      "broken-key": {
+        "name": "Broken Key",
+        "rarity": 0
+      },
+      "dull-key": {
+        "name": "Dull Key",
+        "rarity": 1
+      },
+      "skeleton-key": {
+        "name": "Skeleton Key",
+        "rarity": 2
+      }
+    }
+  },
+  "map": {
+    "name": "Map",
+    "variants": {
+      "annotated-map": {
+        "name": "Annotated Map",
+        "rarity": 2
+      },
+      "bloodsense-map": {
+        "name": "Bloodsense Map",
+        "rarity": 5
+      },
+      "cryptic-map": {
+        "name": "Cryptic Map",
+        "rarity": 0
+      },
+      "scribbled-map": {
+        "name": "Scribbled Map",
+        "rarity": 1
+      }
+    }
+  },
+  "med-kit": {
+    "name": "Med-Kit",
+    "variants": {
+      "all-hallows-eve-lunchbox": {
+        "name": "All Hallows' Eve Lunchbox",
+        "rarity": 5
+      },
+      "anniversary-med-kit": {
+        "name": "Anniversary Med-Kit",
+        "rarity": 5
+      },
+      "camping-aid-kit": {
+        "name": "Camping Aid Kit",
+        "rarity": 0
+      },
+      "emergency-med-kit": {
+        "name": "Emergency Med-Kit",
+        "rarity": 2
+      },
+      "first-aid-kit": {
+        "name": "First Aid Kit",
+        "rarity": 1
+      },
+      "masquerade-med-kit": {
+        "name": "Masquerade Med-Kit",
+        "rarity": 5
+      },
+      "ranger-med-kit": {
+        "name": "Ranger Med-Kit",
+        "rarity": 3
+      }
+    }
+  },
+  "toolbox": {
+    "name": "Toolbox",
+    "variants": {
+      "alex-s-toolbox": {
+        "name": "Alex's Toolbox",
+        "rarity": 3
+      },
+      "anniversary-toolbox": {
+        "name": "Anniversary Toolbox",
+        "rarity": 5
+      },
+      "commodious-toolbox": {
+        "name": "Commodious Toolbox",
+        "rarity": 2
+      },
+      "engineer-s-toolbox": {
+        "name": "Engineer's Toolbox",
+        "rarity": 3
+      },
+      "festive-toolbox": {
+        "name": "Festive Toolbox",
+        "rarity": 5
+      },
+      "masquerade-toolbox": {
+        "name": "Masquerade Toolbox",
+        "rarity": 5
+      },
+      "mechanic-s-toolbox": {
+        "name": "Mechanic's Toolbox",
+        "rarity": 2
+      },
+      "toolbox": {
+        "name": "Toolbox",
+        "rarity": 1
+      },
+      "worn-out-tools": {
+        "name": "Worn-Out Tools",
+        "rarity": 0
+      }
+    }
+  }
+}

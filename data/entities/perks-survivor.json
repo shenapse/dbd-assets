@@ -1,0 +1,515 @@
+{
+  "a-place-for-us": {
+    "name": "A Place For Us"
+  },
+  "ace-in-the-hole": {
+    "name": "Ace in the Hole"
+  },
+  "adrenaline": {
+    "name": "Adrenaline"
+  },
+  "aftercare": {
+    "name": "Aftercare"
+  },
+  "alert": {
+    "name": "Alert"
+  },
+  "any-means-necessary": {
+    "name": "Any Means Necessary"
+  },
+  "apocalyptic-ingenuity": {
+    "name": "Apocalyptic Ingenuity"
+  },
+  "appraisal": {
+    "name": "Appraisal"
+  },
+  "autodidact": {
+    "name": "Autodidact"
+  },
+  "babysitter": {
+    "name": "Babysitter"
+  },
+  "background-player": {
+    "name": "Background Player"
+  },
+  "bada-bada-boom": {
+    "name": "Bada Bada Boom"
+  },
+  "balanced-landing": {
+    "name": "Balanced Landing"
+  },
+  "bardic-inspiration": {
+    "name": "Bardic Inspiration"
+  },
+  "better-than-new": {
+    "name": "Better than New"
+  },
+  "better-together": {
+    "name": "Better Together"
+  },
+  "bite-the-bullet": {
+    "name": "Bite the Bullet"
+  },
+  "blast-mine": {
+    "name": "Blast Mine"
+  },
+  "blood-pact": {
+    "name": "Blood Pact"
+  },
+  "blood-rush": {
+    "name": "Blood Rush"
+  },
+  "boil-over": {
+    "name": "Boil Over"
+  },
+  "bond": {
+    "name": "Bond"
+  },
+  "boon-circle-of-healing": {
+    "name": "Boon: Circle of Healing"
+  },
+  "boon-dark-theory": {
+    "name": "Boon: Dark Theory"
+  },
+  "boon-exponential": {
+    "name": "Boon: Exponential"
+  },
+  "boon-illumination": {
+    "name": "Boon: Illumination"
+  },
+  "boon-shadow-step": {
+    "name": "Boon: Shadow Step"
+  },
+  "borrowed-time": {
+    "name": "Borrowed Time"
+  },
+  "botany-knowledge": {
+    "name": "Botany Knowledge"
+  },
+  "bound-by-obsession": {
+    "name": "Bound by Obsession"
+  },
+  "breakdown": {
+    "name": "Breakdown"
+  },
+  "breakout": {
+    "name": "Breakout"
+  },
+  "buckle-up": {
+    "name": "Buckle Up"
+  },
+  "built-to-last": {
+    "name": "Built to Last"
+  },
+  "calm-spirit": {
+    "name": "Calm Spirit"
+  },
+  "camaraderie": {
+    "name": "Camaraderie"
+  },
+  "champion-of-light": {
+    "name": "Champion of Light"
+  },
+  "change-of-plan": {
+    "name": "Change of Plan"
+  },
+  "chemical-trap": {
+    "name": "Chemical Trap"
+  },
+  "clairvoyance": {
+    "name": "Clairvoyance"
+  },
+  "clean-break": {
+    "name": "Clean Break"
+  },
+  "come-and-get-me": {
+    "name": "Come and Get Me!"
+  },
+  "conviction": {
+    "name": "Conviction"
+  },
+  "corrective-action": {
+    "name": "Corrective Action"
+  },
+  "counterforce": {
+    "name": "Counterforce"
+  },
+  "cut-loose": {
+    "name": "Cut Loose"
+  },
+  "dance-with-me": {
+    "name": "Dance with Me"
+  },
+  "dark-sense": {
+    "name": "Dark Sense"
+  },
+  "dead-hard": {
+    "name": "Dead Hard"
+  },
+  "deadline": {
+    "name": "Deadline"
+  },
+  "deception": {
+    "name": "Deception"
+  },
+  "deja-vu": {
+    "name": "Deja Vu"
+  },
+  "deliverance": {
+    "name": "Deliverance"
+  },
+  "desperate-measures": {
+    "name": "Desperate Measures"
+  },
+  "detective-s-hunch": {
+    "name": "Detective's Hunch"
+  },
+  "distortion": {
+    "name": "Distortion"
+  },
+  "diversion": {
+    "name": "Diversion"
+  },
+  "do-no-harm": {
+    "name": "Do No Harm"
+  },
+  "down-to-the-last": {
+    "name": "Down to the Last"
+  },
+  "dramaturgy": {
+    "name": "Dramaturgy"
+  },
+  "duty-of-care": {
+    "name": "Duty of Care"
+  },
+  "empathic-connection": {
+    "name": "Empathic Connection"
+  },
+  "empathy": {
+    "name": "Empathy"
+  },
+  "extrasensory-perception": {
+    "name": "Extrasensory Perception"
+  },
+  "exultation": {
+    "name": "Exultation"
+  },
+  "eyes-of-belmont": {
+    "name": "Eyes of Belmont"
+  },
+  "fast-track": {
+    "name": "Fast Track"
+  },
+  "finesse": {
+    "name": "Finesse"
+  },
+  "five-moves-ahead": {
+    "name": "Five Moves Ahead"
+  },
+  "fixated": {
+    "name": "Fixated"
+  },
+  "flashbang": {
+    "name": "Flashbang"
+  },
+  "flip-flop": {
+    "name": "Flip-Flop"
+  },
+  "flow-state": {
+    "name": "Flow State"
+  },
+  "fogwise": {
+    "name": "Fogwise"
+  },
+  "for-the-people": {
+    "name": "For the People"
+  },
+  "friendly-competition": {
+    "name": "Friendly Competition"
+  },
+  "ghost-notes": {
+    "name": "Ghost Notes"
+  },
+  "hardened": {
+    "name": "Hardened"
+  },
+  "head-on": {
+    "name": "Head On"
+  },
+  "hope": {
+    "name": "Hope"
+  },
+  "hyperfocus": {
+    "name": "Hyperfocus"
+  },
+  "inner-focus": {
+    "name": "Inner Focus"
+  },
+  "inner-strength": {
+    "name": "Inner Strength"
+  },
+  "invocation-treacherous-crows": {
+    "name": "Invocation: Treacherous Crows"
+  },
+  "invocation-weaving-spiders": {
+    "name": "Invocation: Weaving Spiders"
+  },
+  "iron-will": {
+    "name": "Iron Will"
+  },
+  "kindred": {
+    "name": "Kindred"
+  },
+  "last-stand": {
+    "name": "Last Stand"
+  },
+  "leader": {
+    "name": "Leader"
+  },
+  "left-behind": {
+    "name": "Left Behind"
+  },
+  "lend-a-hand": {
+    "name": "Lend a Hand"
+  },
+  "light-footed": {
+    "name": "Light-Footed"
+  },
+  "lightweight": {
+    "name": "Lightweight"
+  },
+  "lithe": {
+    "name": "Lithe"
+  },
+  "low-profile": {
+    "name": "Low Profile"
+  },
+  "lucky-break": {
+    "name": "Lucky Break"
+  },
+  "lucky-star": {
+    "name": "Lucky Star"
+  },
+  "made-for-this": {
+    "name": "Made for This"
+  },
+  "mettle-of-man": {
+    "name": "Mettle of Man"
+  },
+  "mirrored-illusion": {
+    "name": "Mirrored Illusion"
+  },
+  "moment-of-glory": {
+    "name": "Moment of Glory"
+  },
+  "no-mither": {
+    "name": "No Mither"
+  },
+  "no-one-left-behind": {
+    "name": "No One Left Behind"
+  },
+  "off-the-record": {
+    "name": "Off the Record"
+  },
+  "one-two-three-four": {
+    "name": "One-Two-Three-Four!"
+  },
+  "open-handed": {
+    "name": "Open-Handed"
+  },
+  "overcome": {
+    "name": "Overcome"
+  },
+  "overzealous": {
+    "name": "Overzealous"
+  },
+  "parental-guidance": {
+    "name": "Parental Guidance"
+  },
+  "pharmacy": {
+    "name": "Pharmacy"
+  },
+  "plot-twist": {
+    "name": "Plot Twist"
+  },
+  "plunderer-s-instinct": {
+    "name": "Plunderer's Instinct"
+  },
+  "poised": {
+    "name": "Poised"
+  },
+  "potential-energy": {
+    "name": "Potential Energy"
+  },
+  "power-struggle": {
+    "name": "Power Struggle"
+  },
+  "premonition": {
+    "name": "Premonition"
+  },
+  "prove-thyself": {
+    "name": "Prove Thyself"
+  },
+  "quick-and-quiet": {
+    "name": "Quick and Quiet"
+  },
+  "quick-gambit": {
+    "name": "Quick Gambit"
+  },
+  "rapid-response": {
+    "name": "Rapid Response"
+  },
+  "reactive-healing": {
+    "name": "Reactive Healing"
+  },
+  "reassurance": {
+    "name": "Reassurance"
+  },
+  "red-herring": {
+    "name": "Red Herring"
+  },
+  "repressed-alliance": {
+    "name": "Repressed Alliance"
+  },
+  "residual-manifest": {
+    "name": "Residual Manifest"
+  },
+  "resilience": {
+    "name": "Resilience"
+  },
+  "resurgence": {
+    "name": "Resurgence"
+  },
+  "road-life": {
+    "name": "Road Life"
+  },
+  "rookie-spirit": {
+    "name": "Rookie Spirit"
+  },
+  "saboteur": {
+    "name": "Saboteur"
+  },
+  "scavenger": {
+    "name": "Scavenger"
+  },
+  "scene-partner": {
+    "name": "Scene Partner"
+  },
+  "second-wind": {
+    "name": "Second Wind"
+  },
+  "self-care": {
+    "name": "Self-Care"
+  },
+  "self-preservation": {
+    "name": "Self-Preservation"
+  },
+  "shoulder-the-burden": {
+    "name": "Shoulder the Burden"
+  },
+  "slippery-meat": {
+    "name": "Slippery Meat"
+  },
+  "small-game": {
+    "name": "Small Game"
+  },
+  "smash-hit": {
+    "name": "Smash Hit"
+  },
+  "solidarity": {
+    "name": "Solidarity"
+  },
+  "soul-guard": {
+    "name": "Soul Guard"
+  },
+  "specialist": {
+    "name": "Specialist"
+  },
+  "spine-chill": {
+    "name": "Spine Chill"
+  },
+  "sprint-burst": {
+    "name": "Sprint Burst"
+  },
+  "stake-out": {
+    "name": "Stake Out"
+  },
+  "still-sight": {
+    "name": "Still Sight"
+  },
+  "streetwise": {
+    "name": "Streetwise"
+  },
+  "strength-in-shadows": {
+    "name": "Strength in Shadows"
+  },
+  "teamwork-collective-stealth": {
+    "name": "Teamwork: Collective Stealth"
+  },
+  "teamwork-full-circuit": {
+    "name": "Teamwork: Full Circuit"
+  },
+  "teamwork-power-of-two": {
+    "name": "Teamwork: Power of Two"
+  },
+  "teamwork-soft-spoken": {
+    "name": "Teamwork: Soft-Spoken"
+  },
+  "teamwork-throw-down": {
+    "name": "Teamwork: Throw Down"
+  },
+  "teamwork-toughen-up": {
+    "name": "Teamwork: Toughen Up"
+  },
+  "technician": {
+    "name": "Technician"
+  },
+  "tenacity": {
+    "name": "Tenacity"
+  },
+  "this-is-not-happening": {
+    "name": "This is Not Happening"
+  },
+  "troubleshooter": {
+    "name": "Troubleshooter"
+  },
+  "unbreakable": {
+    "name": "Unbreakable"
+  },
+  "up-the-ante": {
+    "name": "Up the Ante"
+  },
+  "urban-evasion": {
+    "name": "Urban Evasion"
+  },
+  "vigil": {
+    "name": "Vigil"
+  },
+  "visionary": {
+    "name": "Visionary"
+  },
+  "wake-up": {
+    "name": "Wake Up!"
+  },
+  "we-ll-make-it": {
+    "name": "We'll Make It"
+  },
+  "we-re-gonna-live-forever": {
+    "name": "We're Gonna Live Forever"
+  },
+  "we-see-you": {
+    "name": "We See You"
+  },
+  "wicked": {
+    "name": "Wicked"
+  },
+  "will-to-live": {
+    "name": "Will to Live"
+  },
+  "windows-of-opportunity": {
+    "name": "Windows of Opportunity"
+  },
+  "wiretap": {
+    "name": "Wiretap"
+  }
+}

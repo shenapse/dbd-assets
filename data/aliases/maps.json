@@ -1,0 +1,65 @@
+{
+  "azarov-s-resting-place": {
+    "abbreviations": [
+      "Azarov"
+    ]
+  },
+  "badham-preschool": {
+    "aliases": [
+      "Badham"
+    ]
+  },
+  "coal-tower-1": {
+    "abbreviations": [
+      "CT1"
+    ]
+  },
+  "coal-tower-2": {
+    "abbreviations": [
+      "CT2"
+    ]
+  },
+  "dead-dawg-saloon": {
+    "abbreviations": [
+      "DDS"
+    ]
+  },
+  "hawkins-national-laboratory": {
+    "abbreviations": [
+      "Hawkins"
+    ]
+  },
+  "midwich-elementary-school": {
+    "abbreviations": [
+      "Midwich"
+    ]
+  },
+  "mount-ormond-resort": {
+    "aliases": [
+      "Ormond Resort",
+      "MOR"
+    ]
+  },
+  "ormond-lake-mine": {
+    "abbreviations": [
+      "OLM"
+    ]
+  },
+  "raccoon-city-police-station": {
+    "abbreviations": [
+      "RPD"
+    ]
+  },
+  "treatment-theatre": {
+    "aliases": [
+      "Lery"
+    ]
+  },
+  "wrecker-s-yard": {
+    "abbreviations": [
+      "Wreckers",
+      "Wrecker's",
+      "Yard"
+    ]
+  }
+}

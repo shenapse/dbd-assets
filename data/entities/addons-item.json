@@ -1,0 +1,272 @@
+{
+  "flashlight/battery": {
+    "item": "flashlight",
+    "name": "Battery",
+    "rarity": 0
+  },
+  "flashlight/broken-bulb": {
+    "item": "flashlight",
+    "name": "Broken Bulb",
+    "rarity": 5
+  },
+  "flashlight/focus-lens": {
+    "item": "flashlight",
+    "name": "Focus Lens",
+    "rarity": 1
+  },
+  "flashlight/heavy-duty-battery": {
+    "item": "flashlight",
+    "name": "Heavy Duty Battery",
+    "rarity": 1
+  },
+  "flashlight/high-end-sapphire-lens": {
+    "item": "flashlight",
+    "name": "High-End Sapphire Lens",
+    "rarity": 3
+  },
+  "flashlight/intense-halogen": {
+    "item": "flashlight",
+    "name": "Intense Halogen",
+    "rarity": 2
+  },
+  "flashlight/leather-grip": {
+    "item": "flashlight",
+    "name": "Leather Grip",
+    "rarity": 0
+  },
+  "flashlight/long-life-battery": {
+    "item": "flashlight",
+    "name": "Long Life Battery",
+    "rarity": 2
+  },
+  "flashlight/low-amp-filament": {
+    "item": "flashlight",
+    "name": "Low Amp Filament",
+    "rarity": 1
+  },
+  "flashlight/odd-bulb": {
+    "item": "flashlight",
+    "name": "Odd Bulb",
+    "rarity": 4
+  },
+  "flashlight/power-bulb": {
+    "item": "flashlight",
+    "name": "Power Bulb",
+    "rarity": 0
+  },
+  "flashlight/rubber-grip": {
+    "item": "flashlight",
+    "name": "Rubber Grip",
+    "rarity": 1
+  },
+  "flashlight/tir-optic": {
+    "item": "flashlight",
+    "name": "Tir Optic",
+    "rarity": 1
+  },
+  "flashlight/wide-lens": {
+    "item": "flashlight",
+    "name": "Wide Lens",
+    "rarity": 0
+  },
+  "fog-vial/mushroom-formula": {
+    "item": "fog-vial",
+    "name": "Mushroom Formula",
+    "rarity": 3
+  },
+  "fog-vial/oily-sap": {
+    "item": "fog-vial",
+    "name": "Oily Sap",
+    "rarity": 2
+  },
+  "fog-vial/potent-extract": {
+    "item": "fog-vial",
+    "name": "Potent Extract",
+    "rarity": 4
+  },
+  "fog-vial/reactive-compound": {
+    "item": "fog-vial",
+    "name": "Reactive Compound",
+    "rarity": 1
+  },
+  "fog-vial/volcanic-stone": {
+    "item": "fog-vial",
+    "name": "Volcanic Stone",
+    "rarity": 0
+  },
+  "key/blood-amber": {
+    "item": "key",
+    "name": "Blood-Amber",
+    "rarity": 4
+  },
+  "key/braided-bauble": {
+    "item": "key",
+    "name": "Braided Bauble",
+    "rarity": 2
+  },
+  "key/friendship-charm": {
+    "item": "key",
+    "name": "Friendship Charm",
+    "rarity": 0
+  },
+  "key/shrill-whistle": {
+    "item": "key",
+    "name": "Shrill Whistle",
+    "rarity": 1
+  },
+  "key/unique-wedding-ring": {
+    "item": "key",
+    "name": "Unique Wedding Ring",
+    "rarity": 3
+  },
+  "map/battered-tape": {
+    "item": "map",
+    "name": "Battered Tape",
+    "rarity": 2
+  },
+  "map/crimson-stamp": {
+    "item": "map",
+    "name": "Crimson Stamp",
+    "rarity": 4
+  },
+  "map/glowing-ink": {
+    "item": "map",
+    "name": "Glowing Ink",
+    "rarity": 0
+  },
+  "map/gnarled-compass": {
+    "item": "map",
+    "name": "Gnarled Compass",
+    "rarity": 1
+  },
+  "map/sharpened-flint": {
+    "item": "map",
+    "name": "Sharpened Flint",
+    "rarity": 3
+  },
+  "med-kit/abdominal-dressing": {
+    "item": "med-kit",
+    "name": "Abdominal Dressing",
+    "rarity": 3
+  },
+  "med-kit/anti-haemorrhagic-syringe": {
+    "item": "med-kit",
+    "name": "Anti-Haemorrhagic Syringe",
+    "rarity": 4
+  },
+  "med-kit/bandages": {
+    "item": "med-kit",
+    "name": "Bandages",
+    "rarity": 0
+  },
+  "med-kit/butterfly-tape": {
+    "item": "med-kit",
+    "name": "Butterfly Tape",
+    "rarity": 0
+  },
+  "med-kit/gauze-roll": {
+    "item": "med-kit",
+    "name": "Gauze Roll",
+    "rarity": 2
+  },
+  "med-kit/gel-dressings": {
+    "item": "med-kit",
+    "name": "Gel Dressings",
+    "rarity": 4
+  },
+  "med-kit/medical-scissors": {
+    "item": "med-kit",
+    "name": "Medical Scissors",
+    "rarity": 1
+  },
+  "med-kit/needle-thread": {
+    "item": "med-kit",
+    "name": "Needle & Thread",
+    "rarity": 1
+  },
+  "med-kit/refined-serum": {
+    "item": "med-kit",
+    "name": "Refined Serum",
+    "rarity": 5
+  },
+  "med-kit/rubber-gloves": {
+    "item": "med-kit",
+    "name": "Rubber Gloves",
+    "rarity": 0
+  },
+  "med-kit/self-adherent-wrap": {
+    "item": "med-kit",
+    "name": "Self Adherent Wrap",
+    "rarity": 1
+  },
+  "med-kit/sponge": {
+    "item": "med-kit",
+    "name": "Sponge",
+    "rarity": 1
+  },
+  "med-kit/styptic-agent": {
+    "item": "med-kit",
+    "name": "Styptic Agent",
+    "rarity": 3
+  },
+  "med-kit/surgical-suture": {
+    "item": "med-kit",
+    "name": "Surgical Suture",
+    "rarity": 2
+  },
+  "toolbox/brand-new-part": {
+    "item": "toolbox",
+    "name": "Brand New Part",
+    "rarity": 4
+  },
+  "toolbox/clean-rag": {
+    "item": "toolbox",
+    "name": "Clean Rag",
+    "rarity": 0
+  },
+  "toolbox/cutting-wire": {
+    "item": "toolbox",
+    "name": "Cutting Wire",
+    "rarity": 1
+  },
+  "toolbox/grip-wrench": {
+    "item": "toolbox",
+    "name": "Grip Wrench",
+    "rarity": 2
+  },
+  "toolbox/hacksaw": {
+    "item": "toolbox",
+    "name": "Hacksaw",
+    "rarity": 2
+  },
+  "toolbox/instructions": {
+    "item": "toolbox",
+    "name": "Instructions",
+    "rarity": 0
+  },
+  "toolbox/protective-gloves": {
+    "item": "toolbox",
+    "name": "Protective Gloves",
+    "rarity": 1
+  },
+  "toolbox/scraps": {
+    "item": "toolbox",
+    "name": "Scraps",
+    "rarity": 0
+  },
+  "toolbox/socket-swivels": {
+    "item": "toolbox",
+    "name": "Socket Swivels",
+    "rarity": 1
+  },
+  "toolbox/spring-clamp": {
+    "item": "toolbox",
+    "name": "Spring Clamp",
+    "rarity": 1
+  },
+  "toolbox/wire-spool": {
+    "item": "toolbox",
+    "name": "Wire Spool",
+    "rarity": 1
+  }
+}

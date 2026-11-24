@@ -1,0 +1,4302 @@
+{
+  "the-animatronic/access-panel": {
+    "killer": "the-animatronic",
+    "name": "Access Panel",
+    "rarity": 3
+  },
+  "the-animatronic/bonnie-s-guitar-strings": {
+    "killer": "the-animatronic",
+    "name": "Bonnie's Guitar Strings",
+    "rarity": 2
+  },
+  "the-animatronic/celebrate-poster": {
+    "killer": "the-animatronic",
+    "name": "Celebrate! Poster",
+    "rarity": 3
+  },
+  "the-animatronic/chica-s-bib": {
+    "killer": "the-animatronic",
+    "name": "Chica's Bib",
+    "rarity": 2
+  },
+  "the-animatronic/endo-cpu": {
+    "killer": "the-animatronic",
+    "name": "Endo CPU",
+    "rarity": 3
+  },
+  "the-animatronic/faz-coin": {
+    "killer": "the-animatronic",
+    "name": "Faz-Coin",
+    "rarity": 4
+  },
+  "the-animatronic/foxy-s-hook": {
+    "killer": "the-animatronic",
+    "name": "Foxy's Hook",
+    "rarity": 2
+  },
+  "the-animatronic/freddy-s-hat": {
+    "killer": "the-animatronic",
+    "name": "Freddy's Hat",
+    "rarity": 2
+  },
+  "the-animatronic/greasy-paper-plate": {
+    "killer": "the-animatronic",
+    "name": "Greasy Paper Plate",
+    "rarity": 0
+  },
+  "the-animatronic/help-wanted-ad": {
+    "killer": "the-animatronic",
+    "name": "Help Wanted Ad",
+    "rarity": 0
+  },
+  "the-animatronic/iridescent-remnant": {
+    "killer": "the-animatronic",
+    "name": "Iridescent Remnant",
+    "rarity": 4
+  },
+  "the-animatronic/loot-bag": {
+    "killer": "the-animatronic",
+    "name": "Loot Bag",
+    "rarity": 3
+  },
+  "the-animatronic/office-phone": {
+    "killer": "the-animatronic",
+    "name": "Office Phone",
+    "rarity": 1
+  },
+  "the-animatronic/party-hat": {
+    "killer": "the-animatronic",
+    "name": "Party Hat",
+    "rarity": 1
+  },
+  "the-animatronic/purple-guy-drawing": {
+    "killer": "the-animatronic",
+    "name": "Purple Guy Drawing",
+    "rarity": 2
+  },
+  "the-animatronic/restaurant-menu": {
+    "killer": "the-animatronic",
+    "name": "Restaurant Menu",
+    "rarity": 0
+  },
+  "the-animatronic/ripped-curtain": {
+    "killer": "the-animatronic",
+    "name": "Ripped Curtain",
+    "rarity": 1
+  },
+  "the-animatronic/rotten-pizza": {
+    "killer": "the-animatronic",
+    "name": "Rotten Pizza",
+    "rarity": 0
+  },
+  "the-animatronic/security-guard-s-badge": {
+    "killer": "the-animatronic",
+    "name": "Security Guard's Badge",
+    "rarity": 1
+  },
+  "the-animatronic/streamers": {
+    "killer": "the-animatronic",
+    "name": "Streamers",
+    "rarity": 1
+  },
+  "the-artist/automatic-drawing": {
+    "killer": "the-artist",
+    "name": "Automatic Drawing",
+    "rarity": 1
+  },
+  "the-artist/charcoal-stick": {
+    "killer": "the-artist",
+    "name": "Charcoal Stick",
+    "rarity": 2
+  },
+  "the-artist/choclo-corn": {
+    "killer": "the-artist",
+    "name": "Choclo Corn",
+    "rarity": 0
+  },
+  "the-artist/darkest-ink": {
+    "killer": "the-artist",
+    "name": "Darkest Ink",
+    "rarity": 2
+  },
+  "the-artist/festering-carrion": {
+    "killer": "the-artist",
+    "name": "Festering Carrion",
+    "rarity": 1
+  },
+  "the-artist/garden-of-rot": {
+    "killer": "the-artist",
+    "name": "Garden of Rot",
+    "rarity": 4
+  },
+  "the-artist/ink-egg": {
+    "killer": "the-artist",
+    "name": "Ink Egg",
+    "rarity": 3
+  },
+  "the-artist/iridescent-feather": {
+    "killer": "the-artist",
+    "name": "Iridescent Feather",
+    "rarity": 4
+  },
+  "the-artist/matias-baby-shoes": {
+    "killer": "the-artist",
+    "name": "Matias' Baby Shoes",
+    "rarity": 3
+  },
+  "the-artist/o-grief-o-lover": {
+    "killer": "the-artist",
+    "name": "O Grief, O Lover",
+    "rarity": 2
+  },
+  "the-artist/oil-paints": {
+    "killer": "the-artist",
+    "name": "Oil Paints",
+    "rarity": 0
+  },
+  "the-artist/severed-hands": {
+    "killer": "the-artist",
+    "name": "Severed Hands",
+    "rarity": 3
+  },
+  "the-artist/severed-tongue": {
+    "killer": "the-artist",
+    "name": "Severed Tongue",
+    "rarity": 3
+  },
+  "the-artist/silver-bell": {
+    "killer": "the-artist",
+    "name": "Silver Bell",
+    "rarity": 2
+  },
+  "the-artist/still-life-crow": {
+    "killer": "the-artist",
+    "name": "Still Life Crow",
+    "rarity": 1
+  },
+  "the-artist/thick-tar": {
+    "killer": "the-artist",
+    "name": "Thick Tar",
+    "rarity": 0
+  },
+  "the-artist/thorny-nest": {
+    "killer": "the-artist",
+    "name": "Thorny Nest",
+    "rarity": 2
+  },
+  "the-artist/untitled-agony": {
+    "killer": "the-artist",
+    "name": "Untitled Agony",
+    "rarity": 1
+  },
+  "the-artist/velvet-fabric": {
+    "killer": "the-artist",
+    "name": "Velvet Fabric",
+    "rarity": 1
+  },
+  "the-artist/vibrant-obituary": {
+    "killer": "the-artist",
+    "name": "Vibrant Obituary",
+    "rarity": 0
+  },
+  "the-blight/adrenaline-vial": {
+    "killer": "the-blight",
+    "name": "Adrenaline Vial",
+    "rarity": 2
+  },
+  "the-blight/alchemist-s-ring": {
+    "killer": "the-blight",
+    "name": "Alchemist's Ring",
+    "rarity": 3
+  },
+  "the-blight/blighted-crow": {
+    "killer": "the-blight",
+    "name": "Blighted Crow",
+    "rarity": 2
+  },
+  "the-blight/blighted-rat": {
+    "killer": "the-blight",
+    "name": "Blighted Rat",
+    "rarity": 1
+  },
+  "the-blight/canker-thorn": {
+    "killer": "the-blight",
+    "name": "Canker Thorn",
+    "rarity": 1
+  },
+  "the-blight/chipped-monocle": {
+    "killer": "the-blight",
+    "name": "Chipped Monocle",
+    "rarity": 0
+  },
+  "the-blight/compound-seven": {
+    "killer": "the-blight",
+    "name": "Compound Seven",
+    "rarity": 0
+  },
+  "the-blight/compound-thirty-three": {
+    "killer": "the-blight",
+    "name": "Compound Thirty-Three",
+    "rarity": 4
+  },
+  "the-blight/compound-twenty-one": {
+    "killer": "the-blight",
+    "name": "Compound Twenty-One",
+    "rarity": 2
+  },
+  "the-blight/foxglove": {
+    "killer": "the-blight",
+    "name": "Foxglove",
+    "rarity": 0
+  },
+  "the-blight/iridescent-blight-tag": {
+    "killer": "the-blight",
+    "name": "Iridescent Blight Tag",
+    "rarity": 4
+  },
+  "the-blight/placebo-tablet": {
+    "killer": "the-blight",
+    "name": "Placebo Tablet",
+    "rarity": 0
+  },
+  "the-blight/plague-bile": {
+    "killer": "the-blight",
+    "name": "Plague Bile",
+    "rarity": 1
+  },
+  "the-blight/pustula-dust": {
+    "killer": "the-blight",
+    "name": "Pustula Dust",
+    "rarity": 1
+  },
+  "the-blight/rose-tonic": {
+    "killer": "the-blight",
+    "name": "Rose Tonic",
+    "rarity": 2
+  },
+  "the-blight/shredded-notes": {
+    "killer": "the-blight",
+    "name": "Shredded Notes",
+    "rarity": 1
+  },
+  "the-blight/soul-chemical": {
+    "killer": "the-blight",
+    "name": "Soul Chemical",
+    "rarity": 3
+  },
+  "the-blight/summoning-stone": {
+    "killer": "the-blight",
+    "name": "Summoning Stone",
+    "rarity": 3
+  },
+  "the-blight/umbra-salts": {
+    "killer": "the-blight",
+    "name": "Umbra Salts",
+    "rarity": 2
+  },
+  "the-blight/vigo-s-journal": {
+    "killer": "the-blight",
+    "name": "Vigo's Journal",
+    "rarity": 3
+  },
+  "the-cannibal/award-winning-chili": {
+    "killer": "the-cannibal",
+    "name": "Award-winning Chili",
+    "rarity": 3
+  },
+  "the-cannibal/begrimed-chains": {
+    "killer": "the-cannibal",
+    "name": "Begrimed Chains",
+    "rarity": 2
+  },
+  "the-cannibal/carburettor-tuning-guide": {
+    "killer": "the-cannibal",
+    "name": "Carburettor Tuning Guide",
+    "rarity": 4
+  },
+  "the-cannibal/chainsaw-file": {
+    "killer": "the-cannibal",
+    "name": "Chainsaw File",
+    "rarity": 0
+  },
+  "the-cannibal/chili": {
+    "killer": "the-cannibal",
+    "name": "Chili",
+    "rarity": 1
+  },
+  "the-cannibal/depth-gauge-rake": {
+    "killer": "the-cannibal",
+    "name": "Depth Gauge Rake",
+    "rarity": 3
+  },
+  "the-cannibal/grisly-chains": {
+    "killer": "the-cannibal",
+    "name": "Grisly Chains",
+    "rarity": 2
+  },
+  "the-cannibal/homemade-muffler": {
+    "killer": "the-cannibal",
+    "name": "Homemade Muffler",
+    "rarity": 1
+  },
+  "the-cannibal/iridescent-flesh": {
+    "killer": "the-cannibal",
+    "name": "Iridescent Flesh",
+    "rarity": 4
+  },
+  "the-cannibal/knife-scratches": {
+    "killer": "the-cannibal",
+    "name": "Knife Scratches",
+    "rarity": 1
+  },
+  "the-cannibal/light-chassis": {
+    "killer": "the-cannibal",
+    "name": "Light Chassis",
+    "rarity": 3
+  },
+  "the-cannibal/long-guide-bar": {
+    "killer": "the-cannibal",
+    "name": "Long Guide Bar",
+    "rarity": 1
+  },
+  "the-cannibal/primer-bulb": {
+    "killer": "the-cannibal",
+    "name": "Primer Bulb",
+    "rarity": 1
+  },
+  "the-cannibal/rusted-chains": {
+    "killer": "the-cannibal",
+    "name": "Rusted Chains",
+    "rarity": 3
+  },
+  "the-cannibal/shop-lubricant": {
+    "killer": "the-cannibal",
+    "name": "Shop Lubricant",
+    "rarity": 2
+  },
+  "the-cannibal/spark-plug": {
+    "killer": "the-cannibal",
+    "name": "Spark Plug",
+    "rarity": 0
+  },
+  "the-cannibal/speed-limiter": {
+    "killer": "the-cannibal",
+    "name": "Speed Limiter",
+    "rarity": 0
+  },
+  "the-cannibal/the-beast-s-marks": {
+    "killer": "the-cannibal",
+    "name": "The Beast's Marks",
+    "rarity": 2
+  },
+  "the-cannibal/the-grease": {
+    "killer": "the-cannibal",
+    "name": "The Grease",
+    "rarity": 2
+  },
+  "the-cannibal/vegetable-oil": {
+    "killer": "the-cannibal",
+    "name": "Vegetable Oil",
+    "rarity": 0
+  },
+  "the-cenobite/bent-nail": {
+    "killer": "the-cenobite",
+    "name": "Bent Nail",
+    "rarity": 0
+  },
+  "the-cenobite/burning-candle": {
+    "killer": "the-cenobite",
+    "name": "Burning Candle",
+    "rarity": 0
+  },
+  "the-cenobite/chatterer-s-tooth": {
+    "killer": "the-cenobite",
+    "name": "Chatterer's Tooth",
+    "rarity": 3
+  },
+  "the-cenobite/engineer-s-fang": {
+    "killer": "the-cenobite",
+    "name": "Engineer's Fang",
+    "rarity": 4
+  },
+  "the-cenobite/flickering-television": {
+    "killer": "the-cenobite",
+    "name": "Flickering Television",
+    "rarity": 1
+  },
+  "the-cenobite/frank-s-heart": {
+    "killer": "the-cenobite",
+    "name": "Frank's Heart",
+    "rarity": 2
+  },
+  "the-cenobite/greasy-black-lens": {
+    "killer": "the-cenobite",
+    "name": "Greasy Black Lens",
+    "rarity": 3
+  },
+  "the-cenobite/impaling-wire": {
+    "killer": "the-cenobite",
+    "name": "Impaling Wire",
+    "rarity": 3
+  },
+  "the-cenobite/iridescent-lament-configuration": {
+    "killer": "the-cenobite",
+    "name": "Iridescent Lament Configuration",
+    "rarity": 4
+  },
+  "the-cenobite/larry-s-blood": {
+    "killer": "the-cenobite",
+    "name": "Larry's Blood",
+    "rarity": 2
+  },
+  "the-cenobite/larry-s-remains": {
+    "killer": "the-cenobite",
+    "name": "Larry's Remains",
+    "rarity": 2
+  },
+  "the-cenobite/leather-strip": {
+    "killer": "the-cenobite",
+    "name": "Leather Strip",
+    "rarity": 0
+  },
+  "the-cenobite/liquified-gore": {
+    "killer": "the-cenobite",
+    "name": "Liquified gORE",
+    "rarity": 1
+  },
+  "the-cenobite/lively-crickets": {
+    "killer": "the-cenobite",
+    "name": "Lively Crickets",
+    "rarity": 0
+  },
+  "the-cenobite/original-pain": {
+    "killer": "the-cenobite",
+    "name": "Original Pain",
+    "rarity": 3
+  },
+  "the-cenobite/skewered-rat": {
+    "killer": "the-cenobite",
+    "name": "Skewered Rat",
+    "rarity": 1
+  },
+  "the-cenobite/slice-of-frank": {
+    "killer": "the-cenobite",
+    "name": "Slice of Frank",
+    "rarity": 2
+  },
+  "the-cenobite/spoiled-meal": {
+    "killer": "the-cenobite",
+    "name": "Spoiled Meal",
+    "rarity": 1
+  },
+  "the-cenobite/torture-pillar": {
+    "killer": "the-cenobite",
+    "name": "Torture Pillar",
+    "rarity": 2
+  },
+  "the-cenobite/wriggling-maggots": {
+    "killer": "the-cenobite",
+    "name": "Wriggling Maggots",
+    "rarity": 1
+  },
+  "the-clown/bottle-of-chloroform": {
+    "killer": "the-clown",
+    "name": "Bottle of Chloroform",
+    "rarity": 2
+  },
+  "the-clown/cheap-gin-bottle": {
+    "killer": "the-clown",
+    "name": "Cheap Gin Bottle",
+    "rarity": 3
+  },
+  "the-clown/cigar-box": {
+    "killer": "the-clown",
+    "name": "Cigar Box",
+    "rarity": 3
+  },
+  "the-clown/ether-15-vol": {
+    "killer": "the-clown",
+    "name": "Ether 15% Vol",
+    "rarity": 3
+  },
+  "the-clown/fingerless-parade-gloves": {
+    "killer": "the-clown",
+    "name": "Fingerless Parade Gloves",
+    "rarity": 0
+  },
+  "the-clown/flask-of-bleach": {
+    "killer": "the-clown",
+    "name": "Flask of Bleach",
+    "rarity": 2
+  },
+  "the-clown/garish-make-up-kit": {
+    "killer": "the-clown",
+    "name": "Garish Make-Up Kit",
+    "rarity": 3
+  },
+  "the-clown/kerosene-can": {
+    "killer": "the-clown",
+    "name": "Kerosene Can",
+    "rarity": 1
+  },
+  "the-clown/party-bottle": {
+    "killer": "the-clown",
+    "name": "Party Bottle",
+    "rarity": 0
+  },
+  "the-clown/redhead-s-pinky-finger": {
+    "killer": "the-clown",
+    "name": "Redhead's Pinky Finger",
+    "rarity": 4
+  },
+  "the-clown/robin-feather": {
+    "killer": "the-clown",
+    "name": "Robin Feather",
+    "rarity": 0
+  },
+  "the-clown/smelly-inner-soles": {
+    "killer": "the-clown",
+    "name": "Smelly Inner Soles",
+    "rarity": 2
+  },
+  "the-clown/solvent-jug": {
+    "killer": "the-clown",
+    "name": "Solvent Jug",
+    "rarity": 1
+  },
+  "the-clown/spirit-of-hartshorn": {
+    "killer": "the-clown",
+    "name": "Spirit of Hartshorn",
+    "rarity": 2
+  },
+  "the-clown/starling-feather": {
+    "killer": "the-clown",
+    "name": "Starling Feather",
+    "rarity": 1
+  },
+  "the-clown/sticky-soda-bottle": {
+    "killer": "the-clown",
+    "name": "Sticky Soda Bottle",
+    "rarity": 1
+  },
+  "the-clown/sulphuric-acid-vial": {
+    "killer": "the-clown",
+    "name": "Sulphuric Acid Vial",
+    "rarity": 2
+  },
+  "the-clown/tattoo-s-middle-finger": {
+    "killer": "the-clown",
+    "name": "Tattoo's Middle Finger",
+    "rarity": 4
+  },
+  "the-clown/thick-cork-stopper": {
+    "killer": "the-clown",
+    "name": "Thick Cork Stopper",
+    "rarity": 1
+  },
+  "the-clown/vhs-porn": {
+    "killer": "the-clown",
+    "name": "VHS Porn",
+    "rarity": 0
+  },
+  "the-dark-lord/alucard-s-shield": {
+    "killer": "the-dark-lord",
+    "name": "Alucard's Shield",
+    "rarity": 4
+  },
+  "the-dark-lord/blood-filled-goblet": {
+    "killer": "the-dark-lord",
+    "name": "Blood-Filled Goblet",
+    "rarity": 1
+  },
+  "the-dark-lord/cerberus-talon": {
+    "killer": "the-dark-lord",
+    "name": "Cerberus Talon",
+    "rarity": 0
+  },
+  "the-dark-lord/clock-tower-gear": {
+    "killer": "the-dark-lord",
+    "name": "Clock Tower Gear",
+    "rarity": 0
+  },
+  "the-dark-lord/cube-of-zoe": {
+    "killer": "the-dark-lord",
+    "name": "Cube of Zoe",
+    "rarity": 3
+  },
+  "the-dark-lord/force-of-echo": {
+    "killer": "the-dark-lord",
+    "name": "Force of Echo",
+    "rarity": 2
+  },
+  "the-dark-lord/iridescent-ring-of-vlad": {
+    "killer": "the-dark-lord",
+    "name": "Iridescent Ring of Vlad",
+    "rarity": 4
+  },
+  "the-dark-lord/killer-doll": {
+    "killer": "the-dark-lord",
+    "name": "Killer Doll",
+    "rarity": 2
+  },
+  "the-dark-lord/lapis-lazuli": {
+    "killer": "the-dark-lord",
+    "name": "Lapis Lazuli",
+    "rarity": 3
+  },
+  "the-dark-lord/magical-ticket": {
+    "killer": "the-dark-lord",
+    "name": "Magical Ticket",
+    "rarity": 1
+  },
+  "the-dark-lord/medusa-s-hair": {
+    "killer": "the-dark-lord",
+    "name": "Medusa's Hair",
+    "rarity": 3
+  },
+  "the-dark-lord/moonstone-necklace": {
+    "killer": "the-dark-lord",
+    "name": "Moonstone Necklace",
+    "rarity": 1
+  },
+  "the-dark-lord/pocket-watch": {
+    "killer": "the-dark-lord",
+    "name": "Pocket Watch",
+    "rarity": 2
+  },
+  "the-dark-lord/ruby-circlet": {
+    "killer": "the-dark-lord",
+    "name": "Ruby Circlet",
+    "rarity": 0
+  },
+  "the-dark-lord/sunglasses": {
+    "killer": "the-dark-lord",
+    "name": "Sunglasses",
+    "rarity": 2
+  },
+  "the-dark-lord/sylpth-feather": {
+    "killer": "the-dark-lord",
+    "name": "Sylpth Feather",
+    "rarity": 2
+  },
+  "the-dark-lord/traveler-s-hat": {
+    "killer": "the-dark-lord",
+    "name": "Traveler's Hat",
+    "rarity": 0
+  },
+  "the-dark-lord/warg-s-fang": {
+    "killer": "the-dark-lord",
+    "name": "Warg's Fang",
+    "rarity": 3
+  },
+  "the-dark-lord/white-wolf-medallion": {
+    "killer": "the-dark-lord",
+    "name": "White Wolf Medallion",
+    "rarity": 1
+  },
+  "the-dark-lord/winged-boots": {
+    "killer": "the-dark-lord",
+    "name": "Winged Boots",
+    "rarity": 1
+  },
+  "the-deathslinger/barbed-wire": {
+    "killer": "the-deathslinger",
+    "name": "Barbed Wire",
+    "rarity": 3
+  },
+  "the-deathslinger/bayshore-s-cigar": {
+    "killer": "the-deathslinger",
+    "name": "Bayshore's Cigar",
+    "rarity": 3
+  },
+  "the-deathslinger/bayshore-s-gold-tooth": {
+    "killer": "the-deathslinger",
+    "name": "Bayshore's Gold Tooth",
+    "rarity": 2
+  },
+  "the-deathslinger/chewing-tobacco": {
+    "killer": "the-deathslinger",
+    "name": "Chewing Tobacco",
+    "rarity": 1
+  },
+  "the-deathslinger/gold-creek-whiskey": {
+    "killer": "the-deathslinger",
+    "name": "Gold Creek Whiskey",
+    "rarity": 3
+  },
+  "the-deathslinger/hellshire-iron": {
+    "killer": "the-deathslinger",
+    "name": "Hellshire Iron",
+    "rarity": 4
+  },
+  "the-deathslinger/honey-locust-thorn": {
+    "killer": "the-deathslinger",
+    "name": "Honey Locust Thorn",
+    "rarity": 2
+  },
+  "the-deathslinger/iridescent-coin": {
+    "killer": "the-deathslinger",
+    "name": "Iridescent Coin",
+    "rarity": 4
+  },
+  "the-deathslinger/jaw-smasher": {
+    "killer": "the-deathslinger",
+    "name": "Jaw Smasher",
+    "rarity": 1
+  },
+  "the-deathslinger/marshal-s-badge": {
+    "killer": "the-deathslinger",
+    "name": "Marshal's Badge",
+    "rarity": 1
+  },
+  "the-deathslinger/modified-ammo-belt": {
+    "killer": "the-deathslinger",
+    "name": "Modified Ammo Belt",
+    "rarity": 0
+  },
+  "the-deathslinger/poison-oak-leaves": {
+    "killer": "the-deathslinger",
+    "name": "Poison Oak Leaves",
+    "rarity": 1
+  },
+  "the-deathslinger/prison-chain": {
+    "killer": "the-deathslinger",
+    "name": "Prison Chain",
+    "rarity": 3
+  },
+  "the-deathslinger/rickety-chain": {
+    "killer": "the-deathslinger",
+    "name": "Rickety Chain",
+    "rarity": 0
+  },
+  "the-deathslinger/rusted-spike": {
+    "killer": "the-deathslinger",
+    "name": "Rusted Spike",
+    "rarity": 1
+  },
+  "the-deathslinger/snake-oil": {
+    "killer": "the-deathslinger",
+    "name": "Snake Oil",
+    "rarity": 0
+  },
+  "the-deathslinger/spit-polish-rag": {
+    "killer": "the-deathslinger",
+    "name": "Spit Polish Rag",
+    "rarity": 0
+  },
+  "the-deathslinger/tin-oil-can": {
+    "killer": "the-deathslinger",
+    "name": "Tin Oil Can",
+    "rarity": 2
+  },
+  "the-deathslinger/wanted-poster": {
+    "killer": "the-deathslinger",
+    "name": "Wanted Poster",
+    "rarity": 2
+  },
+  "the-deathslinger/warden-s-keys": {
+    "killer": "the-deathslinger",
+    "name": "Warden's Keys",
+    "rarity": 2
+  },
+  "the-demogorgon/barb-s-glasses": {
+    "killer": "the-demogorgon",
+    "name": "Barb's Glasses",
+    "rarity": 1
+  },
+  "the-demogorgon/black-heart": {
+    "killer": "the-demogorgon",
+    "name": "Black Heart",
+    "rarity": 0
+  },
+  "the-demogorgon/brass-case-lighter": {
+    "killer": "the-demogorgon",
+    "name": "Brass Case Lighter",
+    "rarity": 2
+  },
+  "the-demogorgon/deer-lung": {
+    "killer": "the-demogorgon",
+    "name": "Deer Lung",
+    "rarity": 2
+  },
+  "the-demogorgon/eleven-s-soda": {
+    "killer": "the-demogorgon",
+    "name": "Eleven's Soda",
+    "rarity": 2
+  },
+  "the-demogorgon/leprose-lichen": {
+    "killer": "the-demogorgon",
+    "name": "Leprose Lichen",
+    "rarity": 4
+  },
+  "the-demogorgon/lifeguard-whistle": {
+    "killer": "the-demogorgon",
+    "name": "Lifeguard Whistle",
+    "rarity": 3
+  },
+  "the-demogorgon/mew-s-guts": {
+    "killer": "the-demogorgon",
+    "name": "Mew's Guts",
+    "rarity": 1
+  },
+  "the-demogorgon/rat-liver": {
+    "killer": "the-demogorgon",
+    "name": "Rat Liver",
+    "rarity": 0
+  },
+  "the-demogorgon/rat-tail": {
+    "killer": "the-demogorgon",
+    "name": "Rat Tail",
+    "rarity": 0
+  },
+  "the-demogorgon/red-moss": {
+    "killer": "the-demogorgon",
+    "name": "Red Moss",
+    "rarity": 4
+  },
+  "the-demogorgon/rotten-green-tripe": {
+    "killer": "the-demogorgon",
+    "name": "Rotten Green Tripe",
+    "rarity": 1
+  },
+  "the-demogorgon/rotten-pumpkin": {
+    "killer": "the-demogorgon",
+    "name": "Rotten Pumpkin",
+    "rarity": 0
+  },
+  "the-demogorgon/sticky-lining": {
+    "killer": "the-demogorgon",
+    "name": "Sticky Lining",
+    "rarity": 1
+  },
+  "the-demogorgon/thorny-vines": {
+    "killer": "the-demogorgon",
+    "name": "Thorny Vines",
+    "rarity": 2
+  },
+  "the-demogorgon/unknown-egg": {
+    "killer": "the-demogorgon",
+    "name": "Unknown Egg",
+    "rarity": 3
+  },
+  "the-demogorgon/upside-down-resin": {
+    "killer": "the-demogorgon",
+    "name": "Upside Down Resin",
+    "rarity": 3
+  },
+  "the-demogorgon/vermillion-webcap": {
+    "killer": "the-demogorgon",
+    "name": "Vermillion Webcap",
+    "rarity": 3
+  },
+  "the-demogorgon/violet-waxcap": {
+    "killer": "the-demogorgon",
+    "name": "Violet Waxcap",
+    "rarity": 2
+  },
+  "the-demogorgon/viscous-webbing": {
+    "killer": "the-demogorgon",
+    "name": "Viscous Webbing",
+    "rarity": 1
+  },
+  "the-doctor/calm-carter-s-notes": {
+    "killer": "the-doctor",
+    "name": "\"Calm\" - Carter's Notes",
+    "rarity": 3
+  },
+  "the-doctor/calm-class-i": {
+    "killer": "the-doctor",
+    "name": "\"Calm\" - Class I",
+    "rarity": 0
+  },
+  "the-doctor/calm-class-ii": {
+    "killer": "the-doctor",
+    "name": "\"Calm\" - Class II",
+    "rarity": 1
+  },
+  "the-doctor/discipline-carter-s-notes": {
+    "killer": "the-doctor",
+    "name": "\"Discipline\" - Carter's Notes",
+    "rarity": 3
+  },
+  "the-doctor/discipline-class-ii": {
+    "killer": "the-doctor",
+    "name": "\"Discipline\" - Class II",
+    "rarity": 1
+  },
+  "the-doctor/discipline-class-iii": {
+    "killer": "the-doctor",
+    "name": "\"Discipline\" - Class III",
+    "rarity": 2
+  },
+  "the-doctor/high-stimulus-electrode": {
+    "killer": "the-doctor",
+    "name": "High Stimulus Electrode",
+    "rarity": 2
+  },
+  "the-doctor/interview-tape": {
+    "killer": "the-doctor",
+    "name": "Interview Tape",
+    "rarity": 2
+  },
+  "the-doctor/iridescent-king": {
+    "killer": "the-doctor",
+    "name": "Iridescent King",
+    "rarity": 4
+  },
+  "the-doctor/iridescent-queen": {
+    "killer": "the-doctor",
+    "name": "Iridescent Queen",
+    "rarity": 4
+  },
+  "the-doctor/maple-knight": {
+    "killer": "the-doctor",
+    "name": "Maple Knight",
+    "rarity": 0
+  },
+  "the-doctor/mouldy-electrode": {
+    "killer": "the-doctor",
+    "name": "Mouldy Electrode",
+    "rarity": 0
+  },
+  "the-doctor/order-carter-s-notes": {
+    "killer": "the-doctor",
+    "name": "\"Order\" - Carter's Notes",
+    "rarity": 3
+  },
+  "the-doctor/order-class-i": {
+    "killer": "the-doctor",
+    "name": "\"Order\" - Class I",
+    "rarity": 0
+  },
+  "the-doctor/order-class-ii": {
+    "killer": "the-doctor",
+    "name": "\"Order\" - Class II",
+    "rarity": 1
+  },
+  "the-doctor/polished-electrode": {
+    "killer": "the-doctor",
+    "name": "Polished Electrode",
+    "rarity": 1
+  },
+  "the-doctor/restraint-carter-s-notes": {
+    "killer": "the-doctor",
+    "name": "\"Restraint\" - Carter's Notes",
+    "rarity": 3
+  },
+  "the-doctor/restraint-class-ii": {
+    "killer": "the-doctor",
+    "name": "\"Restraint\" - Class II",
+    "rarity": 1
+  },
+  "the-doctor/restraint-class-iii": {
+    "killer": "the-doctor",
+    "name": "\"Restraint\" - Class III",
+    "rarity": 2
+  },
+  "the-doctor/scrapped-tape": {
+    "killer": "the-doctor",
+    "name": "Scrapped Tape",
+    "rarity": 2
+  },
+  "the-dredge/air-freshener": {
+    "killer": "the-dredge",
+    "name": "Air Freshener",
+    "rarity": 1
+  },
+  "the-dredge/boat-key": {
+    "killer": "the-dredge",
+    "name": "Boat Key",
+    "rarity": 3
+  },
+  "the-dredge/broken-doll": {
+    "killer": "the-dredge",
+    "name": "Broken Doll",
+    "rarity": 2
+  },
+  "the-dredge/burnt-letters": {
+    "killer": "the-dredge",
+    "name": "Burnt Letters",
+    "rarity": 1
+  },
+  "the-dredge/caffeine-tablets": {
+    "killer": "the-dredge",
+    "name": "Caffeine Tablets",
+    "rarity": 0
+  },
+  "the-dredge/destroyed-pillow": {
+    "killer": "the-dredge",
+    "name": "Destroyed Pillow",
+    "rarity": 2
+  },
+  "the-dredge/fallen-shingle": {
+    "killer": "the-dredge",
+    "name": "Fallen Shingle",
+    "rarity": 1
+  },
+  "the-dredge/field-recorder": {
+    "killer": "the-dredge",
+    "name": "Field Recorder",
+    "rarity": 3
+  },
+  "the-dredge/follower-s-cowl": {
+    "killer": "the-dredge",
+    "name": "Follower's Cowl",
+    "rarity": 0
+  },
+  "the-dredge/haddie-s-calendar": {
+    "killer": "the-dredge",
+    "name": "Haddie's Calendar",
+    "rarity": 1
+  },
+  "the-dredge/iridescent-wooden-plank": {
+    "killer": "the-dredge",
+    "name": "Iridescent Wooden Plank",
+    "rarity": 4
+  },
+  "the-dredge/lavalier-microphone": {
+    "killer": "the-dredge",
+    "name": "Lavalier Microphone",
+    "rarity": 3
+  },
+  "the-dredge/malthinker-s-skull": {
+    "killer": "the-dredge",
+    "name": "Malthinker's Skull",
+    "rarity": 1
+  },
+  "the-dredge/mortar-and-pestle": {
+    "killer": "the-dredge",
+    "name": "Mortar and Pestle",
+    "rarity": 0
+  },
+  "the-dredge/ottomarian-writing": {
+    "killer": "the-dredge",
+    "name": "Ottomarian Writing",
+    "rarity": 2
+  },
+  "the-dredge/sacrificial-knife": {
+    "killer": "the-dredge",
+    "name": "Sacrificial Knife",
+    "rarity": 4
+  },
+  "the-dredge/tilling-blade": {
+    "killer": "the-dredge",
+    "name": "Tilling Blade",
+    "rarity": 3
+  },
+  "the-dredge/war-helmet": {
+    "killer": "the-dredge",
+    "name": "War Helmet",
+    "rarity": 2
+  },
+  "the-dredge/wooden-plank": {
+    "killer": "the-dredge",
+    "name": "Wooden Plank",
+    "rarity": 0
+  },
+  "the-dredge/worry-stone": {
+    "killer": "the-dredge",
+    "name": "Worry Stone",
+    "rarity": 2
+  },
+  "the-executioner/black-strap": {
+    "killer": "the-executioner",
+    "name": "Black Strap",
+    "rarity": 0
+  },
+  "the-executioner/burning-man-painting": {
+    "killer": "the-executioner",
+    "name": "Burning Man Painting",
+    "rarity": 2
+  },
+  "the-executioner/cinderella-music-box": {
+    "killer": "the-executioner",
+    "name": "Cinderella Music Box",
+    "rarity": 1
+  },
+  "the-executioner/copper-ring": {
+    "killer": "the-executioner",
+    "name": "Copper Ring",
+    "rarity": 0
+  },
+  "the-executioner/crimson-ceremony-book": {
+    "killer": "the-executioner",
+    "name": "Crimson Ceremony Book",
+    "rarity": 3
+  },
+  "the-executioner/dead-butterfly": {
+    "killer": "the-executioner",
+    "name": "Dead Butterfly",
+    "rarity": 0
+  },
+  "the-executioner/forgotten-videotape": {
+    "killer": "the-executioner",
+    "name": "Forgotten Videotape",
+    "rarity": 1
+  },
+  "the-executioner/iridescent-seal-of-metatron": {
+    "killer": "the-executioner",
+    "name": "Iridescent Seal of Metatron",
+    "rarity": 4
+  },
+  "the-executioner/lead-ring": {
+    "killer": "the-executioner",
+    "name": "Lead Ring",
+    "rarity": 0
+  },
+  "the-executioner/leopard-print-fabric": {
+    "killer": "the-executioner",
+    "name": "Leopard-Print Fabric",
+    "rarity": 1
+  },
+  "the-executioner/lost-memories-book": {
+    "killer": "the-executioner",
+    "name": "Lost Memories Book",
+    "rarity": 3
+  },
+  "the-executioner/mannequin-foot": {
+    "killer": "the-executioner",
+    "name": "Mannequin Foot",
+    "rarity": 2
+  },
+  "the-executioner/misty-day-remains-of-judgement": {
+    "killer": "the-executioner",
+    "name": "Misty Day, Remains of Judgement",
+    "rarity": 2
+  },
+  "the-executioner/obsidian-goblet": {
+    "killer": "the-executioner",
+    "name": "Obsidian Goblet",
+    "rarity": 4
+  },
+  "the-executioner/rust-coloured-egg": {
+    "killer": "the-executioner",
+    "name": "Rust-Coloured Egg",
+    "rarity": 3
+  },
+  "the-executioner/scarlet-egg": {
+    "killer": "the-executioner",
+    "name": "Scarlet Egg",
+    "rarity": 3
+  },
+  "the-executioner/spearhead": {
+    "killer": "the-executioner",
+    "name": "Spearhead",
+    "rarity": 1
+  },
+  "the-executioner/tablet-of-the-oppressor": {
+    "killer": "the-executioner",
+    "name": "Tablet of the Oppressor",
+    "rarity": 2
+  },
+  "the-executioner/valtiel-sect-photograph": {
+    "killer": "the-executioner",
+    "name": "Valtiel Sect Photograph",
+    "rarity": 2
+  },
+  "the-executioner/wax-doll": {
+    "killer": "the-executioner",
+    "name": "Wax Doll",
+    "rarity": 1
+  },
+  "the-first/bead-maze": {
+    "killer": "the-first",
+    "name": "Bead Maze",
+    "rarity": 0
+  },
+  "the-first/black-widow-spider": {
+    "killer": "the-first",
+    "name": "Black Widow Spider",
+    "rarity": 3
+  },
+  "the-first/bloody-roller-skate": {
+    "killer": "the-first",
+    "name": "Bloody Roller Skate",
+    "rarity": 1
+  },
+  "the-first/broken-skateboard": {
+    "killer": "the-first",
+    "name": "Broken Skateboard",
+    "rarity": 3
+  },
+  "the-first/chess-piece": {
+    "killer": "the-first",
+    "name": "Chess Piece",
+    "rarity": 4
+  },
+  "the-first/clock-hands": {
+    "killer": "the-first",
+    "name": "Clock Hands",
+    "rarity": 1
+  },
+  "the-first/electrode-cap": {
+    "killer": "the-first",
+    "name": "Electrode Cap",
+    "rarity": 2
+  },
+  "the-first/electroshock-collar": {
+    "killer": "the-first",
+    "name": "Electroshock Collar",
+    "rarity": 3
+  },
+  "the-first/forged-death-certificate": {
+    "killer": "the-first",
+    "name": "Forged Death Certificate",
+    "rarity": 2
+  },
+  "the-first/gutted-supercom": {
+    "killer": "the-first",
+    "name": "Gutted Supercom",
+    "rarity": 1
+  },
+  "the-first/iridescent-soteria-chip": {
+    "killer": "the-first",
+    "name": "Iridescent Soteria Chip",
+    "rarity": 4
+  },
+  "the-first/mid-century-radio": {
+    "killer": "the-first",
+    "name": "Mid-Century Radio",
+    "rarity": 0
+  },
+  "the-first/neck-tendril": {
+    "killer": "the-first",
+    "name": "Neck Tendril",
+    "rarity": 2
+  },
+  "the-first/orderly-id": {
+    "killer": "the-first",
+    "name": "Orderly ID",
+    "rarity": 0
+  },
+  "the-first/pizza-goggles": {
+    "killer": "the-first",
+    "name": "Pizza Goggles",
+    "rarity": 2
+  },
+  "the-first/rabbit-remains": {
+    "killer": "the-first",
+    "name": "Rabbit Remains",
+    "rarity": 3
+  },
+  "the-first/shattered-wrist-rocket": {
+    "killer": "the-first",
+    "name": "Shattered Wrist Rocket",
+    "rarity": 1
+  },
+  "the-first/smashed-cassette-deck": {
+    "killer": "the-first",
+    "name": "Smashed Cassette Deck",
+    "rarity": 1
+  },
+  "the-first/stained-glass-mural": {
+    "killer": "the-first",
+    "name": "Stained Glass Mural",
+    "rarity": 0
+  },
+  "the-first/victor-s-razor-blade": {
+    "killer": "the-first",
+    "name": "Victor's Razor Blade",
+    "rarity": 2
+  },
+  "the-ghost-face/cheap-cologne": {
+    "killer": "the-ghost-face",
+    "name": "Cheap Cologne",
+    "rarity": 0
+  },
+  "the-ghost-face/chewed-pen": {
+    "killer": "the-ghost-face",
+    "name": "Chewed Pen",
+    "rarity": 2
+  },
+  "the-ghost-face/cinch-straps": {
+    "killer": "the-ghost-face",
+    "name": "Cinch Straps",
+    "rarity": 1
+  },
+  "the-ghost-face/driver-s-license": {
+    "killer": "the-ghost-face",
+    "name": "Driver's License",
+    "rarity": 3
+  },
+  "the-ghost-face/drop-leg-knife-sheath": {
+    "killer": "the-ghost-face",
+    "name": "Drop-Leg Knife Sheath",
+    "rarity": 3
+  },
+  "the-ghost-face/ghost-face-caught-on-tape": {
+    "killer": "the-ghost-face",
+    "name": "\"Ghost Face Caught on Tape\"",
+    "rarity": 4
+  },
+  "the-ghost-face/headline-cut-outs": {
+    "killer": "the-ghost-face",
+    "name": "Headline Cut-Outs",
+    "rarity": 0
+  },
+  "the-ghost-face/knife-belt-clip": {
+    "killer": "the-ghost-face",
+    "name": "Knife Belt Clip",
+    "rarity": 2
+  },
+  "the-ghost-face/lasting-perfume": {
+    "killer": "the-ghost-face",
+    "name": "Lasting Perfume",
+    "rarity": 2
+  },
+  "the-ghost-face/leather-knife-sheath": {
+    "killer": "the-ghost-face",
+    "name": "Leather Knife Sheath",
+    "rarity": 2
+  },
+  "the-ghost-face/marked-map": {
+    "killer": "the-ghost-face",
+    "name": "Marked Map",
+    "rarity": 1
+  },
+  "the-ghost-face/night-vision-monocular": {
+    "killer": "the-ghost-face",
+    "name": "Night Vision Monocular",
+    "rarity": 3
+  },
+  "the-ghost-face/olsen-s-address-book": {
+    "killer": "the-ghost-face",
+    "name": "Olsen's Address Book",
+    "rarity": 1
+  },
+  "the-ghost-face/olsen-s-journal": {
+    "killer": "the-ghost-face",
+    "name": "Olsen's Journal",
+    "rarity": 1
+  },
+  "the-ghost-face/olsen-s-wallet": {
+    "killer": "the-ghost-face",
+    "name": "Olsen's Wallet",
+    "rarity": 2
+  },
+  "the-ghost-face/outdoor-security-camera": {
+    "killer": "the-ghost-face",
+    "name": "Outdoor Security Camera",
+    "rarity": 4
+  },
+  "the-ghost-face/philly": {
+    "killer": "the-ghost-face",
+    "name": "Philly",
+    "rarity": 0
+  },
+  "the-ghost-face/telephoto-lens": {
+    "killer": "the-ghost-face",
+    "name": "Telephoto Lens",
+    "rarity": 1
+  },
+  "the-ghost-face/victim-s-detailed-routine": {
+    "killer": "the-ghost-face",
+    "name": "Victim's Detailed Routine",
+    "rarity": 3
+  },
+  "the-ghost-face/walleye-s-matchbook": {
+    "killer": "the-ghost-face",
+    "name": "Walleye's Matchbook",
+    "rarity": 0
+  },
+  "the-ghoul/amon-s-necktie": {
+    "killer": "the-ghoul",
+    "name": "Amon's Necktie",
+    "rarity": 2
+  },
+  "the-ghoul/anteiku-apron": {
+    "killer": "the-ghoul",
+    "name": "Anteiku Apron",
+    "rarity": 0
+  },
+  "the-ghoul/aogiri-tree-robe": {
+    "killer": "the-ghoul",
+    "name": "Aogiri Tree Robe",
+    "rarity": 2
+  },
+  "the-ghoul/blood-stained-handkerchief": {
+    "killer": "the-ghoul",
+    "name": "Blood-Stained Handkerchief",
+    "rarity": 1
+  },
+  "the-ghoul/broken-chain": {
+    "killer": "the-ghoul",
+    "name": "Broken Chain",
+    "rarity": 1
+  },
+  "the-ghoul/ccg-id-card": {
+    "killer": "the-ghoul",
+    "name": "CCG ID Card",
+    "rarity": 3
+  },
+  "the-ghoul/fresh-coffee": {
+    "killer": "the-ghoul",
+    "name": "Fresh Coffee",
+    "rarity": 3
+  },
+  "the-ghoul/hide-s-headphones": {
+    "killer": "the-ghoul",
+    "name": "Hide's Headphones",
+    "rarity": 1
+  },
+  "the-ghoul/hinami-s-umbrella": {
+    "killer": "the-ghoul",
+    "name": "Hinami's Umbrella",
+    "rarity": 1
+  },
+  "the-ghoul/iridescent-eye-patch": {
+    "killer": "the-ghoul",
+    "name": "Iridescent Eye Patch",
+    "rarity": 4
+  },
+  "the-ghoul/kaneki-s-satchel": {
+    "killer": "the-ghoul",
+    "name": "Kaneki's Satchel",
+    "rarity": 1
+  },
+  "the-ghoul/kaneki-s-wallet": {
+    "killer": "the-ghoul",
+    "name": "Kaneki's Wallet",
+    "rarity": 0
+  },
+  "the-ghoul/mado-s-glove": {
+    "killer": "the-ghoul",
+    "name": "Mado's Glove",
+    "rarity": 2
+  },
+  "the-ghoul/red-headed-centipede": {
+    "killer": "the-ghoul",
+    "name": "Red-Headed Centipede",
+    "rarity": 3
+  },
+  "the-ghoul/red-spider-lily": {
+    "killer": "the-ghoul",
+    "name": "Red Spider Lily",
+    "rarity": 2
+  },
+  "the-ghoul/rize-s-glasses": {
+    "killer": "the-ghoul",
+    "name": "Rize's Glasses",
+    "rarity": 2
+  },
+  "the-ghoul/taiyaki": {
+    "killer": "the-ghoul",
+    "name": "Taiyaki",
+    "rarity": 0
+  },
+  "the-ghoul/the-black-goat-s-egg": {
+    "killer": "the-ghoul",
+    "name": "The Black Goat's Egg",
+    "rarity": 0
+  },
+  "the-ghoul/torture-apparatus": {
+    "killer": "the-ghoul",
+    "name": "Torture Apparatus",
+    "rarity": 3
+  },
+  "the-ghoul/yamori-s-mask": {
+    "killer": "the-ghoul",
+    "name": "Yamori's Mask",
+    "rarity": 4
+  },
+  "the-good-guy/automatic-screwdriver": {
+    "killer": "the-good-guy",
+    "name": "Automatic Screwdriver",
+    "rarity": 1
+  },
+  "the-good-guy/doll-eyes": {
+    "killer": "the-good-guy",
+    "name": "Doll Eyes",
+    "rarity": 0
+  },
+  "the-good-guy/electric-carving-knife": {
+    "killer": "the-good-guy",
+    "name": "Electric Carving Knife",
+    "rarity": 1
+  },
+  "the-good-guy/good-guy-box": {
+    "killer": "the-good-guy",
+    "name": "Good Guy Box",
+    "rarity": 0
+  },
+  "the-good-guy/hair-spray-candle": {
+    "killer": "the-good-guy",
+    "name": "Hair Spray & Candle",
+    "rarity": 1
+  },
+  "the-good-guy/hard-hat": {
+    "killer": "the-good-guy",
+    "name": "Hard Hat",
+    "rarity": 4
+  },
+  "the-good-guy/iridescent-amulet": {
+    "killer": "the-good-guy",
+    "name": "Iridescent Amulet",
+    "rarity": 4
+  },
+  "the-good-guy/jump-rope": {
+    "killer": "the-good-guy",
+    "name": "Jump Rope",
+    "rarity": 1
+  },
+  "the-good-guy/mirror-shards": {
+    "killer": "the-good-guy",
+    "name": "Mirror Shards",
+    "rarity": 3
+  },
+  "the-good-guy/pile-of-nails": {
+    "killer": "the-good-guy",
+    "name": "Pile of Nails",
+    "rarity": 3
+  },
+  "the-good-guy/plastic-bag": {
+    "killer": "the-good-guy",
+    "name": "Plastic Bag",
+    "rarity": 3
+  },
+  "the-good-guy/portable-tv": {
+    "killer": "the-good-guy",
+    "name": "Portable TV",
+    "rarity": 2
+  },
+  "the-good-guy/power-drill": {
+    "killer": "the-good-guy",
+    "name": "Power Drill",
+    "rarity": 1
+  },
+  "the-good-guy/rat-poison": {
+    "killer": "the-good-guy",
+    "name": "Rat Poison",
+    "rarity": 2
+  },
+  "the-good-guy/running-shoes": {
+    "killer": "the-good-guy",
+    "name": "Running Shoes",
+    "rarity": 2
+  },
+  "the-good-guy/silk-pillow": {
+    "killer": "the-good-guy",
+    "name": "Silk Pillow",
+    "rarity": 2
+  },
+  "the-good-guy/straight-razor": {
+    "killer": "the-good-guy",
+    "name": "Straight Razor",
+    "rarity": 3
+  },
+  "the-good-guy/strobing-light": {
+    "killer": "the-good-guy",
+    "name": "Strobing Light",
+    "rarity": 0
+  },
+  "the-good-guy/tiny-scalpel": {
+    "killer": "the-good-guy",
+    "name": "Tiny Scalpel",
+    "rarity": 0
+  },
+  "the-good-guy/yardstick": {
+    "killer": "the-good-guy",
+    "name": "Yardstick",
+    "rarity": 2
+  },
+  "the-hag/bloodied-mud": {
+    "killer": "the-hag",
+    "name": "Bloodied Mud",
+    "rarity": 2
+  },
+  "the-hag/bloodied-water": {
+    "killer": "the-hag",
+    "name": "Bloodied Water",
+    "rarity": 1
+  },
+  "the-hag/bog-water": {
+    "killer": "the-hag",
+    "name": "Bog Water",
+    "rarity": 0
+  },
+  "the-hag/cracked-turtle-egg": {
+    "killer": "the-hag",
+    "name": "Cracked Turtle Egg",
+    "rarity": 2
+  },
+  "the-hag/cypress-necklet": {
+    "killer": "the-hag",
+    "name": "Cypress Necklet",
+    "rarity": 1
+  },
+  "the-hag/dead-fly-mud": {
+    "killer": "the-hag",
+    "name": "Dead Fly Mud",
+    "rarity": 0
+  },
+  "the-hag/disfigured-ear": {
+    "killer": "the-hag",
+    "name": "Disfigured Ear",
+    "rarity": 3
+  },
+  "the-hag/dragonfly-wings": {
+    "killer": "the-hag",
+    "name": "Dragonfly Wings",
+    "rarity": 1
+  },
+  "the-hag/dried-cicada": {
+    "killer": "the-hag",
+    "name": "Dried Cicada",
+    "rarity": 2
+  },
+  "the-hag/grandma-s-heart": {
+    "killer": "the-hag",
+    "name": "Grandma's Heart",
+    "rarity": 3
+  },
+  "the-hag/half-eggshell": {
+    "killer": "the-hag",
+    "name": "Half Eggshell",
+    "rarity": 1
+  },
+  "the-hag/mint-rag": {
+    "killer": "the-hag",
+    "name": "Mint Rag",
+    "rarity": 4
+  },
+  "the-hag/powdered-eggshell": {
+    "killer": "the-hag",
+    "name": "Powdered Eggshell",
+    "rarity": 0
+  },
+  "the-hag/pussy-willow-catkins": {
+    "killer": "the-hag",
+    "name": "Pussy Willow Catkins",
+    "rarity": 1
+  },
+  "the-hag/rope-necklet": {
+    "killer": "the-hag",
+    "name": "Rope Necklet",
+    "rarity": 0
+  },
+  "the-hag/rusty-shackles": {
+    "killer": "the-hag",
+    "name": "Rusty Shackles",
+    "rarity": 3
+  },
+  "the-hag/scarred-hand": {
+    "killer": "the-hag",
+    "name": "Scarred Hand",
+    "rarity": 3
+  },
+  "the-hag/swamp-orchid-necklet": {
+    "killer": "the-hag",
+    "name": "Swamp Orchid Necklet",
+    "rarity": 2
+  },
+  "the-hag/waterlogged-shoe": {
+    "killer": "the-hag",
+    "name": "Waterlogged Shoe",
+    "rarity": 4
+  },
+  "the-hag/willow-wreath": {
+    "killer": "the-hag",
+    "name": "Willow Wreath",
+    "rarity": 2
+  },
+  "the-hillbilly/apex-muffler": {
+    "killer": "the-hillbilly",
+    "name": "Apex Muffler",
+    "rarity": 3
+  },
+  "the-hillbilly/begrimed-chains": {
+    "killer": "the-hillbilly",
+    "name": "Begrimed Chains",
+    "rarity": 2
+  },
+  "the-hillbilly/clogged-intake": {
+    "killer": "the-hillbilly",
+    "name": "Clogged Intake",
+    "rarity": 1
+  },
+  "the-hillbilly/counterweight": {
+    "killer": "the-hillbilly",
+    "name": "Counterweight",
+    "rarity": 0
+  },
+  "the-hillbilly/cracked-primer-bulb": {
+    "killer": "the-hillbilly",
+    "name": "Cracked Primer Bulb",
+    "rarity": 0
+  },
+  "the-hillbilly/dad-s-boots": {
+    "killer": "the-hillbilly",
+    "name": "Dad's Boots",
+    "rarity": 2
+  },
+  "the-hillbilly/discarded-air-filter": {
+    "killer": "the-hillbilly",
+    "name": "Discarded Air Filter",
+    "rarity": 0
+  },
+  "the-hillbilly/filthy-slippers": {
+    "killer": "the-hillbilly",
+    "name": "Filthy Slippers",
+    "rarity": 3
+  },
+  "the-hillbilly/greased-throttle": {
+    "killer": "the-hillbilly",
+    "name": "Greased Throttle",
+    "rarity": 1
+  },
+  "the-hillbilly/high-speed-idler-screw": {
+    "killer": "the-hillbilly",
+    "name": "High-Speed Idler Screw",
+    "rarity": 1
+  },
+  "the-hillbilly/iridescent-engravings": {
+    "killer": "the-hillbilly",
+    "name": "Iridescent Engravings",
+    "rarity": 4
+  },
+  "the-hillbilly/lo-pro-chains": {
+    "killer": "the-hillbilly",
+    "name": "Lo Pro Chains",
+    "rarity": 3
+  },
+  "the-hillbilly/low-kickback-chains": {
+    "killer": "the-hillbilly",
+    "name": "Low Kickback Chains",
+    "rarity": 2
+  },
+  "the-hillbilly/off-brand-motor-oil": {
+    "killer": "the-hillbilly",
+    "name": "Off-Brand Motor Oil",
+    "rarity": 1
+  },
+  "the-hillbilly/ragged-engine": {
+    "killer": "the-hillbilly",
+    "name": "Ragged Engine",
+    "rarity": 2
+  },
+  "the-hillbilly/spiked-boots": {
+    "killer": "the-hillbilly",
+    "name": "Spiked Boots",
+    "rarity": 3
+  },
+  "the-hillbilly/steel-toe-boots": {
+    "killer": "the-hillbilly",
+    "name": "Steel Toe Boots",
+    "rarity": 0
+  },
+  "the-hillbilly/the-thompsons-mix": {
+    "killer": "the-hillbilly",
+    "name": "The Thompsons' Mix",
+    "rarity": 2
+  },
+  "the-hillbilly/thermal-casing": {
+    "killer": "the-hillbilly",
+    "name": "Thermal Casing",
+    "rarity": 1
+  },
+  "the-hillbilly/tuned-carburetor": {
+    "killer": "the-hillbilly",
+    "name": "Tuned Carburetor",
+    "rarity": 4
+  },
+  "the-houndmaster/barley-meal": {
+    "killer": "the-houndmaster",
+    "name": "Barley Meal",
+    "rarity": 1
+  },
+  "the-houndmaster/belaying-pins": {
+    "killer": "the-houndmaster",
+    "name": "Belaying Pins",
+    "rarity": 1
+  },
+  "the-houndmaster/creature-s-bone": {
+    "killer": "the-houndmaster",
+    "name": "Creature's Bone",
+    "rarity": 0
+  },
+  "the-houndmaster/fatty-meat": {
+    "killer": "the-houndmaster",
+    "name": "Fatty Meat",
+    "rarity": 2
+  },
+  "the-houndmaster/gunpowder-tin": {
+    "killer": "the-houndmaster",
+    "name": "Gunpowder Tin",
+    "rarity": 3
+  },
+  "the-houndmaster/iridescent-wheel-handle": {
+    "killer": "the-houndmaster",
+    "name": "Iridescent Wheel Handle",
+    "rarity": 4
+  },
+  "the-houndmaster/knotted-rope": {
+    "killer": "the-houndmaster",
+    "name": "Knotted Rope",
+    "rarity": 1
+  },
+  "the-houndmaster/leather-harness": {
+    "killer": "the-houndmaster",
+    "name": "Leather Harness",
+    "rarity": 3
+  },
+  "the-houndmaster/marlinspike": {
+    "killer": "the-houndmaster",
+    "name": "Marlinspike",
+    "rarity": 3
+  },
+  "the-houndmaster/ship-figurehead": {
+    "killer": "the-houndmaster",
+    "name": "Ship Figurehead",
+    "rarity": 3
+  },
+  "the-houndmaster/smoked-snapper": {
+    "killer": "the-houndmaster",
+    "name": "Smoked Snapper",
+    "rarity": 1
+  },
+  "the-houndmaster/spiked-collar": {
+    "killer": "the-houndmaster",
+    "name": "Spiked Collar",
+    "rarity": 2
+  },
+  "the-houndmaster/spyglass": {
+    "killer": "the-houndmaster",
+    "name": "Spyglass",
+    "rarity": 1
+  },
+  "the-houndmaster/sticky-pitch": {
+    "killer": "the-houndmaster",
+    "name": "Sticky Pitch",
+    "rarity": 0
+  },
+  "the-houndmaster/torn-novel": {
+    "killer": "the-houndmaster",
+    "name": "Torn Novel",
+    "rarity": 4
+  },
+  "the-houndmaster/trainer-s-book": {
+    "killer": "the-houndmaster",
+    "name": "Trainer's Book",
+    "rarity": 0
+  },
+  "the-houndmaster/training-bell": {
+    "killer": "the-houndmaster",
+    "name": "Training Bell",
+    "rarity": 2
+  },
+  "the-houndmaster/unfinished-map": {
+    "killer": "the-houndmaster",
+    "name": "Unfinished Map",
+    "rarity": 2
+  },
+  "the-houndmaster/waterskin": {
+    "killer": "the-houndmaster",
+    "name": "Waterskin",
+    "rarity": 2
+  },
+  "the-houndmaster/young-coconut": {
+    "killer": "the-houndmaster",
+    "name": "Young Coconut",
+    "rarity": 0
+  },
+  "the-huntress/amanita-toxin": {
+    "killer": "the-huntress",
+    "name": "Amanita Toxin",
+    "rarity": 0
+  },
+  "the-huntress/bandaged-haft": {
+    "killer": "the-huntress",
+    "name": "Bandaged Haft",
+    "rarity": 0
+  },
+  "the-huntress/begrimed-head": {
+    "killer": "the-huntress",
+    "name": "Begrimed Head",
+    "rarity": 3
+  },
+  "the-huntress/coarse-stone": {
+    "killer": "the-huntress",
+    "name": "Coarse Stone",
+    "rarity": 0
+  },
+  "the-huntress/deerskin-gloves": {
+    "killer": "the-huntress",
+    "name": "Deerskin Gloves",
+    "rarity": 2
+  },
+  "the-huntress/flower-babushka": {
+    "killer": "the-huntress",
+    "name": "Flower Babushka",
+    "rarity": 2
+  },
+  "the-huntress/glowing-concoction": {
+    "killer": "the-huntress",
+    "name": "Glowing Concoction",
+    "rarity": 3
+  },
+  "the-huntress/infantry-belt": {
+    "killer": "the-huntress",
+    "name": "Infantry Belt",
+    "rarity": 3
+  },
+  "the-huntress/iridescent-head": {
+    "killer": "the-huntress",
+    "name": "Iridescent Head",
+    "rarity": 4
+  },
+  "the-huntress/leather-loop": {
+    "killer": "the-huntress",
+    "name": "Leather Loop",
+    "rarity": 1
+  },
+  "the-huntress/manna-grass-braid": {
+    "killer": "the-huntress",
+    "name": "Manna Grass Braid",
+    "rarity": 1
+  },
+  "the-huntress/oak-haft": {
+    "killer": "the-huntress",
+    "name": "Oak Haft",
+    "rarity": 1
+  },
+  "the-huntress/rose-root": {
+    "killer": "the-huntress",
+    "name": "Rose Root",
+    "rarity": 2
+  },
+  "the-huntress/rusty-head": {
+    "killer": "the-huntress",
+    "name": "Rusty Head",
+    "rarity": 2
+  },
+  "the-huntress/shiny-pin": {
+    "killer": "the-huntress",
+    "name": "Shiny Pin",
+    "rarity": 1
+  },
+  "the-huntress/soldier-s-puttee": {
+    "killer": "the-huntress",
+    "name": "Soldier's Puttee",
+    "rarity": 4
+  },
+  "the-huntress/venomous-concoction": {
+    "killer": "the-huntress",
+    "name": "Venomous Concoction",
+    "rarity": 2
+  },
+  "the-huntress/weighted-head": {
+    "killer": "the-huntress",
+    "name": "Weighted Head",
+    "rarity": 1
+  },
+  "the-huntress/wooden-fox": {
+    "killer": "the-huntress",
+    "name": "Wooden Fox",
+    "rarity": 3
+  },
+  "the-huntress/yellowed-cloth": {
+    "killer": "the-huntress",
+    "name": "Yellowed Cloth",
+    "rarity": 0
+  },
+  "the-knight/battle-axe-head": {
+    "killer": "the-knight",
+    "name": "Battle Axe Head",
+    "rarity": 1
+  },
+  "the-knight/blacksmith-s-hammer": {
+    "killer": "the-knight",
+    "name": "Blacksmith's Hammer",
+    "rarity": 3
+  },
+  "the-knight/broken-hilt": {
+    "killer": "the-knight",
+    "name": "Broken Hilt",
+    "rarity": 2
+  },
+  "the-knight/call-to-arms": {
+    "killer": "the-knight",
+    "name": "Call To Arms",
+    "rarity": 1
+  },
+  "the-knight/cold-steel-manacles": {
+    "killer": "the-knight",
+    "name": "Cold Steel Manacles",
+    "rarity": 1
+  },
+  "the-knight/dried-horsemeat": {
+    "killer": "the-knight",
+    "name": "Dried Horsemeat",
+    "rarity": 1
+  },
+  "the-knight/flint-and-steel": {
+    "killer": "the-knight",
+    "name": "Flint and Steel",
+    "rarity": 3
+  },
+  "the-knight/grim-iron-mask": {
+    "killer": "the-knight",
+    "name": "Grim Iron Mask",
+    "rarity": 2
+  },
+  "the-knight/gritty-lump": {
+    "killer": "the-knight",
+    "name": "Gritty Lump",
+    "rarity": 0
+  },
+  "the-knight/healing-poultice": {
+    "killer": "the-knight",
+    "name": "Healing Poultice",
+    "rarity": 3
+  },
+  "the-knight/iridescent-company-banner": {
+    "killer": "the-knight",
+    "name": "Iridescent Company Banner",
+    "rarity": 4
+  },
+  "the-knight/ironworker-s-tongs": {
+    "killer": "the-knight",
+    "name": "Ironworker's Tongs",
+    "rarity": 2
+  },
+  "the-knight/jailer-s-chimes": {
+    "killer": "the-knight",
+    "name": "Jailer's Chimes",
+    "rarity": 3
+  },
+  "the-knight/knight-s-contract": {
+    "killer": "the-knight",
+    "name": "Knight's Contract",
+    "rarity": 4
+  },
+  "the-knight/map-of-the-realm": {
+    "killer": "the-knight",
+    "name": "Map of the Realm",
+    "rarity": 0
+  },
+  "the-knight/pillaged-mead": {
+    "killer": "the-knight",
+    "name": "Pillaged Mead",
+    "rarity": 0
+  },
+  "the-knight/sharpened-mount": {
+    "killer": "the-knight",
+    "name": "Sharpened Mount",
+    "rarity": 2
+  },
+  "the-knight/tattered-tabard": {
+    "killer": "the-knight",
+    "name": "Tattered Tabard",
+    "rarity": 0
+  },
+  "the-knight/town-watch-s-torch": {
+    "killer": "the-knight",
+    "name": "Town Watch's Torch",
+    "rarity": 2
+  },
+  "the-knight/treated-blade": {
+    "killer": "the-knight",
+    "name": "Treated Blade",
+    "rarity": 1
+  },
+  "the-krasue/broken-tiara": {
+    "killer": "the-krasue",
+    "name": "Broken Tiara",
+    "rarity": 0
+  },
+  "the-krasue/chicken-head": {
+    "killer": "the-krasue",
+    "name": "Chicken Head",
+    "rarity": 4
+  },
+  "the-krasue/chunk-of-malai": {
+    "killer": "the-krasue",
+    "name": "Chunk of Malai",
+    "rarity": 1
+  },
+  "the-krasue/crumpled-sheet-music": {
+    "killer": "the-krasue",
+    "name": "Crumpled Sheet Music",
+    "rarity": 1
+  },
+  "the-krasue/defective-metronome": {
+    "killer": "the-krasue",
+    "name": "Defective Metronome",
+    "rarity": 1
+  },
+  "the-krasue/dulled-knife": {
+    "killer": "the-krasue",
+    "name": "Dulled Knife",
+    "rarity": 2
+  },
+  "the-krasue/first-libretto": {
+    "killer": "the-krasue",
+    "name": "First Libretto",
+    "rarity": 0
+  },
+  "the-krasue/framed-newspaper": {
+    "killer": "the-krasue",
+    "name": "Framed Newspaper",
+    "rarity": 2
+  },
+  "the-krasue/janjira-s-hand": {
+    "killer": "the-krasue",
+    "name": "Janjira's Hand",
+    "rarity": 2
+  },
+  "the-krasue/lorenza-s-remains": {
+    "killer": "the-krasue",
+    "name": "Lorenza's Remains",
+    "rarity": 3
+  },
+  "the-krasue/luckless-mouse": {
+    "killer": "the-krasue",
+    "name": "Luckless Mouse",
+    "rarity": 0
+  },
+  "the-krasue/mysterious-elixir": {
+    "killer": "the-krasue",
+    "name": "Mysterious Elixir",
+    "rarity": 3
+  },
+  "the-krasue/pig-s-eye": {
+    "killer": "the-krasue",
+    "name": "Pig's Eye",
+    "rarity": 1
+  },
+  "the-krasue/queen-s-sceptre": {
+    "killer": "the-krasue",
+    "name": "Queen's Sceptre",
+    "rarity": 3
+  },
+  "the-krasue/rotten-swine": {
+    "killer": "the-krasue",
+    "name": "Rotten Swine",
+    "rarity": 3
+  },
+  "the-krasue/shredded-gown": {
+    "killer": "the-krasue",
+    "name": "Shredded Gown",
+    "rarity": 4
+  },
+  "the-krasue/spattered-handkerchief": {
+    "killer": "the-krasue",
+    "name": "Spattered Handkerchief",
+    "rarity": 2
+  },
+  "the-krasue/sticky-lozenge": {
+    "killer": "the-krasue",
+    "name": "Sticky Lozenge",
+    "rarity": 0
+  },
+  "the-krasue/theatre-binoculars": {
+    "killer": "the-krasue",
+    "name": "Theatre Binoculars",
+    "rarity": 2
+  },
+  "the-krasue/wriggling-parasite": {
+    "killer": "the-krasue",
+    "name": "Wriggling Parasite",
+    "rarity": 1
+  },
+  "the-legion/bffs": {
+    "killer": "the-legion",
+    "name": "BFFs",
+    "rarity": 3
+  },
+  "the-legion/defaced-smiley-pin": {
+    "killer": "the-legion",
+    "name": "Defaced Smiley Pin",
+    "rarity": 1
+  },
+  "the-legion/etched-ruler": {
+    "killer": "the-legion",
+    "name": "Etched Ruler",
+    "rarity": 1
+  },
+  "the-legion/filthy-blade": {
+    "killer": "the-legion",
+    "name": "Filthy Blade",
+    "rarity": 3
+  },
+  "the-legion/frank-s-mix-tape": {
+    "killer": "the-legion",
+    "name": "Frank's Mix Tape",
+    "rarity": 3
+  },
+  "the-legion/friendship-bracelet": {
+    "killer": "the-legion",
+    "name": "Friendship Bracelet",
+    "rarity": 0
+  },
+  "the-legion/fuming-mix-tape": {
+    "killer": "the-legion",
+    "name": "Fuming Mix Tape",
+    "rarity": 4
+  },
+  "the-legion/iridescent-button": {
+    "killer": "the-legion",
+    "name": "Iridescent Button",
+    "rarity": 4
+  },
+  "the-legion/joey-s-mix-tape": {
+    "killer": "the-legion",
+    "name": "Joey's Mix Tape",
+    "rarity": 2
+  },
+  "the-legion/julie-s-mix-tape": {
+    "killer": "the-legion",
+    "name": "Julie's Mix Tape",
+    "rarity": 1
+  },
+  "the-legion/mischief-list": {
+    "killer": "the-legion",
+    "name": "Mischief List",
+    "rarity": 0
+  },
+  "the-legion/mural-sketch": {
+    "killer": "the-legion",
+    "name": "Mural Sketch",
+    "rarity": 1
+  },
+  "the-legion/never-sleep-pills": {
+    "killer": "the-legion",
+    "name": "Never-Sleep Pills",
+    "rarity": 1
+  },
+  "the-legion/scratched-ruler": {
+    "killer": "the-legion",
+    "name": "Scratched Ruler",
+    "rarity": 0
+  },
+  "the-legion/smiley-face-pin": {
+    "killer": "the-legion",
+    "name": "Smiley Face Pin",
+    "rarity": 0
+  },
+  "the-legion/stab-wounds-study": {
+    "killer": "the-legion",
+    "name": "Stab Wounds Study",
+    "rarity": 3
+  },
+  "the-legion/stolen-sketch-book": {
+    "killer": "the-legion",
+    "name": "Stolen Sketch Book",
+    "rarity": 2
+  },
+  "the-legion/stylish-sunglasses": {
+    "killer": "the-legion",
+    "name": "Stylish Sunglasses",
+    "rarity": 2
+  },
+  "the-legion/susie-s-mix-tape": {
+    "killer": "the-legion",
+    "name": "Susie's Mix Tape",
+    "rarity": 2
+  },
+  "the-legion/the-legion-pin": {
+    "killer": "the-legion",
+    "name": "The Legion Pin",
+    "rarity": 2
+  },
+  "the-lich/bag-of-holding": {
+    "killer": "the-lich",
+    "name": "Bag of Holding",
+    "rarity": 3
+  },
+  "the-lich/boots-of-speed": {
+    "killer": "the-lich",
+    "name": "Boots of Speed",
+    "rarity": 2
+  },
+  "the-lich/cloak-of-elvenkind": {
+    "killer": "the-lich",
+    "name": "Cloak of Elvenkind",
+    "rarity": 2
+  },
+  "the-lich/cloak-of-invisibility": {
+    "killer": "the-lich",
+    "name": "Cloak of Invisibility",
+    "rarity": 3
+  },
+  "the-lich/crystal-ball": {
+    "killer": "the-lich",
+    "name": "Crystal Ball",
+    "rarity": 0
+  },
+  "the-lich/dragontooth-dagger": {
+    "killer": "the-lich",
+    "name": "Dragontooth Dagger",
+    "rarity": 3
+  },
+  "the-lich/glass-eye": {
+    "killer": "the-lich",
+    "name": "Glass Eye",
+    "rarity": 1
+  },
+  "the-lich/iridescent-book-of-vile-darkness": {
+    "killer": "the-lich",
+    "name": "Iridescent Book of Vile Darkness",
+    "rarity": 4
+  },
+  "the-lich/lantern-of-revealing": {
+    "killer": "the-lich",
+    "name": "Lantern of Revealing",
+    "rarity": 1
+  },
+  "the-lich/ornate-horn": {
+    "killer": "the-lich",
+    "name": "Ornate Horn",
+    "rarity": 2
+  },
+  "the-lich/pearl-of-power": {
+    "killer": "the-lich",
+    "name": "Pearl of Power",
+    "rarity": 2
+  },
+  "the-lich/potion-of-speed": {
+    "killer": "the-lich",
+    "name": "Potion of Speed",
+    "rarity": 1
+  },
+  "the-lich/raven-s-feather": {
+    "killer": "the-lich",
+    "name": "Raven's Feather",
+    "rarity": 0
+  },
+  "the-lich/ring-of-spell-storing": {
+    "killer": "the-lich",
+    "name": "Ring of Spell Storing",
+    "rarity": 1
+  },
+  "the-lich/ring-of-telekinesis": {
+    "killer": "the-lich",
+    "name": "Ring of Telekinesis",
+    "rarity": 1
+  },
+  "the-lich/robe-of-eyes": {
+    "killer": "the-lich",
+    "name": "Robe of Eyes",
+    "rarity": 3
+  },
+  "the-lich/staff-of-withering": {
+    "killer": "the-lich",
+    "name": "Staff of Withering",
+    "rarity": 2
+  },
+  "the-lich/tattered-headband": {
+    "killer": "the-lich",
+    "name": "Tattered Headband",
+    "rarity": 0
+  },
+  "the-lich/trickster-s-glove": {
+    "killer": "the-lich",
+    "name": "Trickster's Glove",
+    "rarity": 0
+  },
+  "the-lich/vorpal-sword": {
+    "killer": "the-lich",
+    "name": "Vorpal Sword",
+    "rarity": 4
+  },
+  "the-mastermind/bullhorn": {
+    "killer": "the-mastermind",
+    "name": "Bullhorn",
+    "rarity": 1
+  },
+  "the-mastermind/chalice-gold": {
+    "killer": "the-mastermind",
+    "name": "Chalice (Gold)",
+    "rarity": 1
+  },
+  "the-mastermind/dark-sunglasses": {
+    "killer": "the-mastermind",
+    "name": "Dark Sunglasses",
+    "rarity": 3
+  },
+  "the-mastermind/egg-gold": {
+    "killer": "the-mastermind",
+    "name": "Egg (Gold)",
+    "rarity": 2
+  },
+  "the-mastermind/green-herb": {
+    "killer": "the-mastermind",
+    "name": "Green Herb",
+    "rarity": 3
+  },
+  "the-mastermind/helicopter-stick": {
+    "killer": "the-mastermind",
+    "name": "Helicopter Stick",
+    "rarity": 3
+  },
+  "the-mastermind/iridescent-uroboros-vial": {
+    "killer": "the-mastermind",
+    "name": "Iridescent Uroboros Vial",
+    "rarity": 4
+  },
+  "the-mastermind/jewel-beetle": {
+    "killer": "the-mastermind",
+    "name": "Jewel Beetle",
+    "rarity": 0
+  },
+  "the-mastermind/lab-photo": {
+    "killer": "the-mastermind",
+    "name": "Lab Photo",
+    "rarity": 4
+  },
+  "the-mastermind/leather-gloves": {
+    "killer": "the-mastermind",
+    "name": "Leather Gloves",
+    "rarity": 1
+  },
+  "the-mastermind/lion-medallion": {
+    "killer": "the-mastermind",
+    "name": "Lion Medallion",
+    "rarity": 1
+  },
+  "the-mastermind/loose-crank": {
+    "killer": "the-mastermind",
+    "name": "Loose Crank",
+    "rarity": 1
+  },
+  "the-mastermind/maiden-medallion": {
+    "killer": "the-mastermind",
+    "name": "Maiden Medallion",
+    "rarity": 2
+  },
+  "the-mastermind/portable-safe": {
+    "killer": "the-mastermind",
+    "name": "Portable Safe",
+    "rarity": 2
+  },
+  "the-mastermind/r-p-d-shoulder-walkie": {
+    "killer": "the-mastermind",
+    "name": "R.P.D. Shoulder Walkie",
+    "rarity": 0
+  },
+  "the-mastermind/red-herb": {
+    "killer": "the-mastermind",
+    "name": "Red Herb",
+    "rarity": 2
+  },
+  "the-mastermind/unicorn-medallion": {
+    "killer": "the-mastermind",
+    "name": "Unicorn Medallion",
+    "rarity": 0
+  },
+  "the-mastermind/uroboros-tendril": {
+    "killer": "the-mastermind",
+    "name": "Uroboros Tendril",
+    "rarity": 0
+  },
+  "the-mastermind/uroboros-virus": {
+    "killer": "the-mastermind",
+    "name": "Uroboros Virus",
+    "rarity": 3
+  },
+  "the-mastermind/video-conference-device": {
+    "killer": "the-mastermind",
+    "name": "Video Conference Device",
+    "rarity": 2
+  },
+  "the-nemesis/admin-wristband": {
+    "killer": "the-nemesis",
+    "name": "Admin Wristband",
+    "rarity": 1
+  },
+  "the-nemesis/adrenaline-injector": {
+    "killer": "the-nemesis",
+    "name": "Adrenaline Injector",
+    "rarity": 1
+  },
+  "the-nemesis/brian-s-intestine": {
+    "killer": "the-nemesis",
+    "name": "Brian's Intestine",
+    "rarity": 0
+  },
+  "the-nemesis/broken-recovery-coin": {
+    "killer": "the-nemesis",
+    "name": "Broken Recovery Coin",
+    "rarity": 3
+  },
+  "the-nemesis/damaged-syringe": {
+    "killer": "the-nemesis",
+    "name": "Damaged Syringe",
+    "rarity": 0
+  },
+  "the-nemesis/depleted-ink-ribbon": {
+    "killer": "the-nemesis",
+    "name": "Depleted Ink Ribbon",
+    "rarity": 3
+  },
+  "the-nemesis/iridescent-umbrella-badge": {
+    "killer": "the-nemesis",
+    "name": "Iridescent Umbrella Badge",
+    "rarity": 4
+  },
+  "the-nemesis/jill-s-sandwich": {
+    "killer": "the-nemesis",
+    "name": "Jill's Sandwich",
+    "rarity": 3
+  },
+  "the-nemesis/licker-tongue": {
+    "killer": "the-nemesis",
+    "name": "Licker Tongue",
+    "rarity": 2
+  },
+  "the-nemesis/marvin-s-blood": {
+    "killer": "the-nemesis",
+    "name": "Marvin's Blood",
+    "rarity": 1
+  },
+  "the-nemesis/mikhail-s-eye": {
+    "killer": "the-nemesis",
+    "name": "Mikhail's Eye",
+    "rarity": 1
+  },
+  "the-nemesis/ne-a-parasite": {
+    "killer": "the-nemesis",
+    "name": "NE-a Parasite",
+    "rarity": 3
+  },
+  "the-nemesis/plant-43-vine": {
+    "killer": "the-nemesis",
+    "name": "Plant 43 Vine",
+    "rarity": 2
+  },
+  "the-nemesis/s-t-a-r-s-field-combat-manual": {
+    "killer": "the-nemesis",
+    "name": "S.T.A.R.S. Field Combat Manual",
+    "rarity": 0
+  },
+  "the-nemesis/serotonin-injector": {
+    "killer": "the-nemesis",
+    "name": "Serotonin Injector",
+    "rarity": 2
+  },
+  "the-nemesis/shattered-s-t-a-r-s-badge": {
+    "killer": "the-nemesis",
+    "name": "Shattered S.T.A.R.S. Badge",
+    "rarity": 4
+  },
+  "the-nemesis/t-virus-sample": {
+    "killer": "the-nemesis",
+    "name": "T-Virus Sample",
+    "rarity": 2
+  },
+  "the-nemesis/tyrant-gore": {
+    "killer": "the-nemesis",
+    "name": "Tyrant Gore",
+    "rarity": 2
+  },
+  "the-nemesis/visitor-wristband": {
+    "killer": "the-nemesis",
+    "name": "Visitor Wristband",
+    "rarity": 0
+  },
+  "the-nemesis/zombie-heart": {
+    "killer": "the-nemesis",
+    "name": "Zombie Heart",
+    "rarity": 1
+  },
+  "the-nightmare/black-box": {
+    "killer": "the-nightmare",
+    "name": "Black Box",
+    "rarity": 4
+  },
+  "the-nightmare/blue-dress": {
+    "killer": "the-nightmare",
+    "name": "Blue Dress",
+    "rarity": 2
+  },
+  "the-nightmare/cat-block": {
+    "killer": "the-nightmare",
+    "name": "Cat Block",
+    "rarity": 1
+  },
+  "the-nightmare/class-photo": {
+    "killer": "the-nightmare",
+    "name": "Class Photo",
+    "rarity": 3
+  },
+  "the-nightmare/garden-rake": {
+    "killer": "the-nightmare",
+    "name": "Garden Rake",
+    "rarity": 0
+  },
+  "the-nightmare/green-dress": {
+    "killer": "the-nightmare",
+    "name": "Green Dress",
+    "rarity": 1
+  },
+  "the-nightmare/jump-rope": {
+    "killer": "the-nightmare",
+    "name": "Jump Rope",
+    "rarity": 2
+  },
+  "the-nightmare/kid-s-drawing": {
+    "killer": "the-nightmare",
+    "name": "Kid's Drawing",
+    "rarity": 0
+  },
+  "the-nightmare/nancy-s-masterpiece": {
+    "killer": "the-nightmare",
+    "name": "Nancy's Masterpiece",
+    "rarity": 2
+  },
+  "the-nightmare/nancy-s-sketch": {
+    "killer": "the-nightmare",
+    "name": "Nancy's Sketch",
+    "rarity": 1
+  },
+  "the-nightmare/outdoor-rope": {
+    "killer": "the-nightmare",
+    "name": "Outdoor Rope",
+    "rarity": 1
+  },
+  "the-nightmare/paint-thinner": {
+    "killer": "the-nightmare",
+    "name": "Paint Thinner",
+    "rarity": 2
+  },
+  "the-nightmare/pill-bottle": {
+    "killer": "the-nightmare",
+    "name": "Pill Bottle",
+    "rarity": 3
+  },
+  "the-nightmare/prototype-claws": {
+    "killer": "the-nightmare",
+    "name": "Prototype Claws",
+    "rarity": 1
+  },
+  "the-nightmare/red-paint-brush": {
+    "killer": "the-nightmare",
+    "name": "Red Paint Brush",
+    "rarity": 4
+  },
+  "the-nightmare/sheep-block": {
+    "killer": "the-nightmare",
+    "name": "Sheep Block",
+    "rarity": 0
+  },
+  "the-nightmare/swing-chains": {
+    "killer": "the-nightmare",
+    "name": "Swing Chains",
+    "rarity": 3
+  },
+  "the-nightmare/unicorn-block": {
+    "killer": "the-nightmare",
+    "name": "Unicorn Block",
+    "rarity": 2
+  },
+  "the-nightmare/wool-shirt": {
+    "killer": "the-nightmare",
+    "name": "Wool Shirt",
+    "rarity": 0
+  },
+  "the-nightmare/z-block": {
+    "killer": "the-nightmare",
+    "name": "\"Z\" Block",
+    "rarity": 3
+  },
+  "the-nurse/anxious-gasp": {
+    "killer": "the-nurse",
+    "name": "Anxious Gasp",
+    "rarity": 2
+  },
+  "the-nurse/ataxic-respiration": {
+    "killer": "the-nurse",
+    "name": "Ataxic Respiration",
+    "rarity": 2
+  },
+  "the-nurse/bad-man-keepsake": {
+    "killer": "the-nurse",
+    "name": "Bad Man Keepsake",
+    "rarity": 1
+  },
+  "the-nurse/bad-man-s-last-breath": {
+    "killer": "the-nurse",
+    "name": "\"Bad Man's\" Last Breath",
+    "rarity": 3
+  },
+  "the-nurse/campbell-s-last-breath": {
+    "killer": "the-nurse",
+    "name": "Campbell's Last Breath",
+    "rarity": 3
+  },
+  "the-nurse/catatonic-boy-s-treasure": {
+    "killer": "the-nurse",
+    "name": "Catatonic Boy's Treasure",
+    "rarity": 1
+  },
+  "the-nurse/dark-cincture": {
+    "killer": "the-nurse",
+    "name": "Dark Cincture",
+    "rarity": 1
+  },
+  "the-nurse/dull-bracelet": {
+    "killer": "the-nurse",
+    "name": "Dull Bracelet",
+    "rarity": 1
+  },
+  "the-nurse/fragile-wheeze": {
+    "killer": "the-nurse",
+    "name": "Fragile Wheeze",
+    "rarity": 2
+  },
+  "the-nurse/heavy-panting": {
+    "killer": "the-nurse",
+    "name": "Heavy Panting",
+    "rarity": 2
+  },
+  "the-nurse/jenner-s-last-breath": {
+    "killer": "the-nurse",
+    "name": "Jenner's Last Breath",
+    "rarity": 3
+  },
+  "the-nurse/kavanagh-s-last-breath": {
+    "killer": "the-nurse",
+    "name": "Kavanagh's Last Breath",
+    "rarity": 3
+  },
+  "the-nurse/matchbox": {
+    "killer": "the-nurse",
+    "name": "Matchbox",
+    "rarity": 4
+  },
+  "the-nurse/metal-spoon": {
+    "killer": "the-nurse",
+    "name": "Metal Spoon",
+    "rarity": 0
+  },
+  "the-nurse/plaid-flannel": {
+    "killer": "the-nurse",
+    "name": "Plaid Flannel",
+    "rarity": 0
+  },
+  "the-nurse/pocket-watch": {
+    "killer": "the-nurse",
+    "name": "Pocket Watch",
+    "rarity": 1
+  },
+  "the-nurse/spasmodic-breath": {
+    "killer": "the-nurse",
+    "name": "Spasmodic Breath",
+    "rarity": 2
+  },
+  "the-nurse/torn-bookmark": {
+    "killer": "the-nurse",
+    "name": "Torn Bookmark",
+    "rarity": 4
+  },
+  "the-nurse/white-nit-comb": {
+    "killer": "the-nurse",
+    "name": "White Nit Comb",
+    "rarity": 0
+  },
+  "the-nurse/wooden-horse": {
+    "killer": "the-nurse",
+    "name": "Wooden Horse",
+    "rarity": 0
+  },
+  "the-oni/akito-s-crutch": {
+    "killer": "the-oni",
+    "name": "Akito's Crutch",
+    "rarity": 3
+  },
+  "the-oni/blackened-toenail": {
+    "killer": "the-oni",
+    "name": "Blackened Toenail",
+    "rarity": 0
+  },
+  "the-oni/bloody-sash": {
+    "killer": "the-oni",
+    "name": "Bloody Sash",
+    "rarity": 1
+  },
+  "the-oni/child-s-wooden-sword": {
+    "killer": "the-oni",
+    "name": "Child's Wooden Sword",
+    "rarity": 1
+  },
+  "the-oni/chipped-saihai": {
+    "killer": "the-oni",
+    "name": "Chipped Saihai",
+    "rarity": 1
+  },
+  "the-oni/cracked-sakazuki": {
+    "killer": "the-oni",
+    "name": "Cracked Sakazuki",
+    "rarity": 0
+  },
+  "the-oni/ink-lion": {
+    "killer": "the-oni",
+    "name": "Ink Lion",
+    "rarity": 1
+  },
+  "the-oni/iridescent-family-crest": {
+    "killer": "the-oni",
+    "name": "Iridescent Family Crest",
+    "rarity": 4
+  },
+  "the-oni/kanai-anzen-talisman": {
+    "killer": "the-oni",
+    "name": "Kanai-Anzen Talisman",
+    "rarity": 2
+  },
+  "the-oni/lion-fang": {
+    "killer": "the-oni",
+    "name": "Lion Fang",
+    "rarity": 3
+  },
+  "the-oni/paper-lantern": {
+    "killer": "the-oni",
+    "name": "Paper Lantern",
+    "rarity": 0
+  },
+  "the-oni/polished-maedate": {
+    "killer": "the-oni",
+    "name": "Polished Maedate",
+    "rarity": 1
+  },
+  "the-oni/renjiro-s-bloody-glove": {
+    "killer": "the-oni",
+    "name": "Renjiro's Bloody Glove",
+    "rarity": 4
+  },
+  "the-oni/rotting-rope": {
+    "killer": "the-oni",
+    "name": "Rotting Rope",
+    "rarity": 0
+  },
+  "the-oni/scalped-topknot": {
+    "killer": "the-oni",
+    "name": "Scalped Topknot",
+    "rarity": 2
+  },
+  "the-oni/shattered-wakizashi": {
+    "killer": "the-oni",
+    "name": "Shattered Wakizashi",
+    "rarity": 2
+  },
+  "the-oni/splintered-hull": {
+    "killer": "the-oni",
+    "name": "Splintered Hull",
+    "rarity": 3
+  },
+  "the-oni/tear-soaked-tenugui": {
+    "killer": "the-oni",
+    "name": "Tear Soaked Tenugui",
+    "rarity": 3
+  },
+  "the-oni/wooden-oni-mask": {
+    "killer": "the-oni",
+    "name": "Wooden Oni Mask",
+    "rarity": 2
+  },
+  "the-oni/yamaoka-sashimono": {
+    "killer": "the-oni",
+    "name": "Yamaoka Sashimono",
+    "rarity": 2
+  },
+  "the-onryo/bloody-fingernails": {
+    "killer": "the-onryo",
+    "name": "Bloody Fingernails",
+    "rarity": 2
+  },
+  "the-onryo/cabin-sign": {
+    "killer": "the-onryo",
+    "name": "Cabin Sign",
+    "rarity": 0
+  },
+  "the-onryo/clump-of-hair": {
+    "killer": "the-onryo",
+    "name": "Clump of Hair",
+    "rarity": 1
+  },
+  "the-onryo/distorted-photo": {
+    "killer": "the-onryo",
+    "name": "Distorted Photo",
+    "rarity": 3
+  },
+  "the-onryo/iridescent-videotape": {
+    "killer": "the-onryo",
+    "name": "Iridescent Videotape",
+    "rarity": 4
+  },
+  "the-onryo/mother-s-comb": {
+    "killer": "the-onryo",
+    "name": "Mother's Comb",
+    "rarity": 2
+  },
+  "the-onryo/mother-s-mirror": {
+    "killer": "the-onryo",
+    "name": "Mother's Mirror",
+    "rarity": 0
+  },
+  "the-onryo/old-newspaper": {
+    "killer": "the-onryo",
+    "name": "Old Newspaper",
+    "rarity": 0
+  },
+  "the-onryo/reiko-s-watch": {
+    "killer": "the-onryo",
+    "name": "Reiko's Watch",
+    "rarity": 1
+  },
+  "the-onryo/remote-control": {
+    "killer": "the-onryo",
+    "name": "Remote Control",
+    "rarity": 4
+  },
+  "the-onryo/rickety-pinwheel": {
+    "killer": "the-onryo",
+    "name": "Rickety Pinwheel",
+    "rarity": 2
+  },
+  "the-onryo/ring-drawing": {
+    "killer": "the-onryo",
+    "name": "Ring Drawing",
+    "rarity": 2
+  },
+  "the-onryo/sea-soaked-cloth": {
+    "killer": "the-onryo",
+    "name": "Sea-Soaked Cloth",
+    "rarity": 1
+  },
+  "the-onryo/tape-editing-deck": {
+    "killer": "the-onryo",
+    "name": "Tape Editing Deck",
+    "rarity": 3
+  },
+  "the-onryo/telephone": {
+    "killer": "the-onryo",
+    "name": "Telephone",
+    "rarity": 3
+  },
+  "the-onryo/vcr": {
+    "killer": "the-onryo",
+    "name": "VCR",
+    "rarity": 3
+  },
+  "the-onryo/videotape-copy": {
+    "killer": "the-onryo",
+    "name": "Videotape Copy",
+    "rarity": 0
+  },
+  "the-onryo/well-stone": {
+    "killer": "the-onryo",
+    "name": "Well Stone",
+    "rarity": 1
+  },
+  "the-onryo/well-water": {
+    "killer": "the-onryo",
+    "name": "Well Water",
+    "rarity": 2
+  },
+  "the-onryo/yoichi-s-fishing-net": {
+    "killer": "the-onryo",
+    "name": "Yoichi's Fishing Net",
+    "rarity": 1
+  },
+  "the-pig/amanda-s-letter": {
+    "killer": "the-pig",
+    "name": "Amanda's Letter",
+    "rarity": 4
+  },
+  "the-pig/amanda-s-secret": {
+    "killer": "the-pig",
+    "name": "Amanda's Secret",
+    "rarity": 3
+  },
+  "the-pig/bag-of-gears": {
+    "killer": "the-pig",
+    "name": "Bag of Gears",
+    "rarity": 2
+  },
+  "the-pig/combat-straps": {
+    "killer": "the-pig",
+    "name": "Combat Straps",
+    "rarity": 0
+  },
+  "the-pig/crate-of-gears": {
+    "killer": "the-pig",
+    "name": "Crate of Gears",
+    "rarity": 3
+  },
+  "the-pig/face-mask": {
+    "killer": "the-pig",
+    "name": "Face Mask",
+    "rarity": 1
+  },
+  "the-pig/interlocking-razor": {
+    "killer": "the-pig",
+    "name": "Interlocking Razor",
+    "rarity": 0
+  },
+  "the-pig/jigsaw-s-annotated-plan": {
+    "killer": "the-pig",
+    "name": "Jigsaw's Annotated Plan",
+    "rarity": 2
+  },
+  "the-pig/jigsaw-s-sketch": {
+    "killer": "the-pig",
+    "name": "Jigsaw's Sketch",
+    "rarity": 3
+  },
+  "the-pig/john-s-medical-file": {
+    "killer": "the-pig",
+    "name": "John's Medical File",
+    "rarity": 0
+  },
+  "the-pig/last-will": {
+    "killer": "the-pig",
+    "name": "Last Will",
+    "rarity": 1
+  },
+  "the-pig/razor-wires": {
+    "killer": "the-pig",
+    "name": "Razor Wires",
+    "rarity": 1
+  },
+  "the-pig/rules-set-no-2": {
+    "killer": "the-pig",
+    "name": "Rules Set No.2",
+    "rarity": 2
+  },
+  "the-pig/rusty-attachments": {
+    "killer": "the-pig",
+    "name": "Rusty Attachments",
+    "rarity": 2
+  },
+  "the-pig/shattered-syringe": {
+    "killer": "the-pig",
+    "name": "Shattered Syringe",
+    "rarity": 0
+  },
+  "the-pig/slow-release-toxin": {
+    "killer": "the-pig",
+    "name": "Slow-Release Toxin",
+    "rarity": 2
+  },
+  "the-pig/tampered-timer": {
+    "killer": "the-pig",
+    "name": "Tampered Timer",
+    "rarity": 3
+  },
+  "the-pig/utility-blades": {
+    "killer": "the-pig",
+    "name": "Utility Blades",
+    "rarity": 1
+  },
+  "the-pig/video-tape": {
+    "killer": "the-pig",
+    "name": "Video Tape",
+    "rarity": 4
+  },
+  "the-pig/workshop-grease": {
+    "killer": "the-pig",
+    "name": "Workshop Grease",
+    "rarity": 1
+  },
+  "the-plague/ashen-apple": {
+    "killer": "the-plague",
+    "name": "Ashen Apple",
+    "rarity": 2
+  },
+  "the-plague/black-incense": {
+    "killer": "the-plague",
+    "name": "Black Incense",
+    "rarity": 4
+  },
+  "the-plague/blessed-apple": {
+    "killer": "the-plague",
+    "name": "Blessed Apple",
+    "rarity": 1
+  },
+  "the-plague/devotee-s-amulet": {
+    "killer": "the-plague",
+    "name": "Devotee's Amulet",
+    "rarity": 3
+  },
+  "the-plague/emetic-potion": {
+    "killer": "the-plague",
+    "name": "Emetic Potion",
+    "rarity": 1
+  },
+  "the-plague/exorcism-amulet": {
+    "killer": "the-plague",
+    "name": "Exorcism Amulet",
+    "rarity": 2
+  },
+  "the-plague/haematite-seal": {
+    "killer": "the-plague",
+    "name": "Haematite Seal",
+    "rarity": 1
+  },
+  "the-plague/healing-salve": {
+    "killer": "the-plague",
+    "name": "Healing Salve",
+    "rarity": 0
+  },
+  "the-plague/incensed-ointment": {
+    "killer": "the-plague",
+    "name": "Incensed Ointment",
+    "rarity": 2
+  },
+  "the-plague/infected-emetic": {
+    "killer": "the-plague",
+    "name": "Infected Emetic",
+    "rarity": 2
+  },
+  "the-plague/iridescent-seal": {
+    "killer": "the-plague",
+    "name": "Iridescent Seal",
+    "rarity": 4
+  },
+  "the-plague/limestone-seal": {
+    "killer": "the-plague",
+    "name": "Limestone Seal",
+    "rarity": 0
+  },
+  "the-plague/olibanum-incense": {
+    "killer": "the-plague",
+    "name": "Olibanum Incense",
+    "rarity": 0
+  },
+  "the-plague/potent-tincture": {
+    "killer": "the-plague",
+    "name": "Potent Tincture",
+    "rarity": 1
+  },
+  "the-plague/prayer-tablet-fragment": {
+    "killer": "the-plague",
+    "name": "Prayer Tablet Fragment",
+    "rarity": 0
+  },
+  "the-plague/prophylactic-amulet": {
+    "killer": "the-plague",
+    "name": "Prophylactic Amulet",
+    "rarity": 1
+  },
+  "the-plague/rubbing-oil": {
+    "killer": "the-plague",
+    "name": "Rubbing Oil",
+    "rarity": 2
+  },
+  "the-plague/severed-toe": {
+    "killer": "the-plague",
+    "name": "Severed Toe",
+    "rarity": 3
+  },
+  "the-plague/vile-emetic": {
+    "killer": "the-plague",
+    "name": "Vile Emetic",
+    "rarity": 3
+  },
+  "the-plague/worship-tablet": {
+    "killer": "the-plague",
+    "name": "Worship Tablet",
+    "rarity": 3
+  },
+  "the-shape/blond-hair": {
+    "killer": "the-shape",
+    "name": "Blond Hair",
+    "rarity": 0
+  },
+  "the-shape/boyfriend-s-memo": {
+    "killer": "the-shape",
+    "name": "Boyfriend's Memo",
+    "rarity": 0
+  },
+  "the-shape/dead-rabbit": {
+    "killer": "the-shape",
+    "name": "Dead Rabbit",
+    "rarity": 1
+  },
+  "the-shape/fragrant-tuft-of-hair": {
+    "killer": "the-shape",
+    "name": "Fragrant Tuft of Hair",
+    "rarity": 1
+  },
+  "the-shape/glass-fragment": {
+    "killer": "the-shape",
+    "name": "Glass Fragment",
+    "rarity": 1
+  },
+  "the-shape/hair-bow": {
+    "killer": "the-shape",
+    "name": "Hair Bow",
+    "rarity": 2
+  },
+  "the-shape/hair-brush": {
+    "killer": "the-shape",
+    "name": "Hair Brush",
+    "rarity": 1
+  },
+  "the-shape/j-myers-memorial": {
+    "killer": "the-shape",
+    "name": "J. Myers Memorial",
+    "rarity": 2
+  },
+  "the-shape/jewellery": {
+    "killer": "the-shape",
+    "name": "Jewellery",
+    "rarity": 1
+  },
+  "the-shape/jewellery-box": {
+    "killer": "the-shape",
+    "name": "Jewellery Box",
+    "rarity": 2
+  },
+  "the-shape/judith-s-journal": {
+    "killer": "the-shape",
+    "name": "Judith's Journal",
+    "rarity": 2
+  },
+  "the-shape/judith-s-tombstone": {
+    "killer": "the-shape",
+    "name": "Judith's Tombstone",
+    "rarity": 4
+  },
+  "the-shape/lock-of-hair": {
+    "killer": "the-shape",
+    "name": "Lock of Hair",
+    "rarity": 3
+  },
+  "the-shape/memorial-flower": {
+    "killer": "the-shape",
+    "name": "Memorial Flower",
+    "rarity": 0
+  },
+  "the-shape/mirror-shard": {
+    "killer": "the-shape",
+    "name": "Mirror Shard",
+    "rarity": 2
+  },
+  "the-shape/reflective-fragment": {
+    "killer": "the-shape",
+    "name": "Reflective Fragment",
+    "rarity": 3
+  },
+  "the-shape/scratched-mirror": {
+    "killer": "the-shape",
+    "name": "Scratched Mirror",
+    "rarity": 4
+  },
+  "the-shape/tacky-earrings": {
+    "killer": "the-shape",
+    "name": "Tacky Earrings",
+    "rarity": 0
+  },
+  "the-shape/tombstone-piece": {
+    "killer": "the-shape",
+    "name": "Tombstone Piece",
+    "rarity": 3
+  },
+  "the-shape/vanity-mirror": {
+    "killer": "the-shape",
+    "name": "Vanity Mirror",
+    "rarity": 3
+  },
+  "the-singularity/android-arm": {
+    "killer": "the-singularity",
+    "name": "Android Arm",
+    "rarity": 1
+  },
+  "the-singularity/broken-security-key": {
+    "killer": "the-singularity",
+    "name": "Broken Security Key",
+    "rarity": 0
+  },
+  "the-singularity/cremated-remains": {
+    "killer": "the-singularity",
+    "name": "Cremated Remains",
+    "rarity": 1
+  },
+  "the-singularity/crew-manifest": {
+    "killer": "the-singularity",
+    "name": "Crew Manifest",
+    "rarity": 3
+  },
+  "the-singularity/cryo-gel": {
+    "killer": "the-singularity",
+    "name": "Cryo Gel",
+    "rarity": 1
+  },
+  "the-singularity/denied-requisition-form": {
+    "killer": "the-singularity",
+    "name": "Denied Requisition Form",
+    "rarity": 4
+  },
+  "the-singularity/diagnostic-tool-construction": {
+    "killer": "the-singularity",
+    "name": "Diagnostic Tool (Construction)",
+    "rarity": 3
+  },
+  "the-singularity/diagnostic-tool-repair": {
+    "killer": "the-singularity",
+    "name": "Diagnostic Tool (Repair)",
+    "rarity": 0
+  },
+  "the-singularity/foreign-plant-fibres": {
+    "killer": "the-singularity",
+    "name": "Foreign Plant Fibres",
+    "rarity": 3
+  },
+  "the-singularity/heavy-water": {
+    "killer": "the-singularity",
+    "name": "Heavy Water",
+    "rarity": 0
+  },
+  "the-singularity/hologram-generator": {
+    "killer": "the-singularity",
+    "name": "Hologram Generator",
+    "rarity": 2
+  },
+  "the-singularity/hyperawareness-spray": {
+    "killer": "the-singularity",
+    "name": "Hyperawareness Spray",
+    "rarity": 2
+  },
+  "the-singularity/iridescent-crystal-shard": {
+    "killer": "the-singularity",
+    "name": "Iridescent Crystal Shard",
+    "rarity": 4
+  },
+  "the-singularity/kid-s-ball-glove": {
+    "killer": "the-singularity",
+    "name": "Kid's Ball Glove",
+    "rarity": 1
+  },
+  "the-singularity/live-wires": {
+    "killer": "the-singularity",
+    "name": "Live Wires",
+    "rarity": 2
+  },
+  "the-singularity/nanomachine-gel": {
+    "killer": "the-singularity",
+    "name": "Nanomachine Gel",
+    "rarity": 2
+  },
+  "the-singularity/nutritional-slurry": {
+    "killer": "the-singularity",
+    "name": "Nutritional Slurry",
+    "rarity": 0
+  },
+  "the-singularity/soma-family-photo": {
+    "killer": "the-singularity",
+    "name": "Soma Family Photo",
+    "rarity": 3
+  },
+  "the-singularity/spent-oxygen-tank": {
+    "killer": "the-singularity",
+    "name": "Spent Oxygen Tank",
+    "rarity": 2
+  },
+  "the-singularity/ultrasonic-sensor": {
+    "killer": "the-singularity",
+    "name": "Ultrasonic Sensor",
+    "rarity": 1
+  },
+  "the-skull-merchant/adaptive-lighting": {
+    "killer": "the-skull-merchant",
+    "name": "Adaptive Lighting",
+    "rarity": 1
+  },
+  "the-skull-merchant/adi-valente-issue-1": {
+    "killer": "the-skull-merchant",
+    "name": "Adi Valente Issue 1",
+    "rarity": 0
+  },
+  "the-skull-merchant/advanced-movement-prediction": {
+    "killer": "the-skull-merchant",
+    "name": "Advanced Movement Prediction",
+    "rarity": 3
+  },
+  "the-skull-merchant/brown-noise-generator": {
+    "killer": "the-skull-merchant",
+    "name": "Brown Noise Generator",
+    "rarity": 2
+  },
+  "the-skull-merchant/expired-batteries": {
+    "killer": "the-skull-merchant",
+    "name": "Expired Batteries",
+    "rarity": 4
+  },
+  "the-skull-merchant/geographical-readout": {
+    "killer": "the-skull-merchant",
+    "name": "Geographical Readout",
+    "rarity": 3
+  },
+  "the-skull-merchant/high-current-upgrade": {
+    "killer": "the-skull-merchant",
+    "name": "High-Current Upgrade",
+    "rarity": 0
+  },
+  "the-skull-merchant/high-power-floodlight": {
+    "killer": "the-skull-merchant",
+    "name": "High-Power Floodlight",
+    "rarity": 0
+  },
+  "the-skull-merchant/infrared-upgrade": {
+    "killer": "the-skull-merchant",
+    "name": "Infrared Upgrade",
+    "rarity": 2
+  },
+  "the-skull-merchant/iridescent-unpublished-manuscript": {
+    "killer": "the-skull-merchant",
+    "name": "Iridescent Unpublished Manuscript",
+    "rarity": 4
+  },
+  "the-skull-merchant/loose-screw": {
+    "killer": "the-skull-merchant",
+    "name": "Loose Screw",
+    "rarity": 2
+  },
+  "the-skull-merchant/low-power-mode": {
+    "killer": "the-skull-merchant",
+    "name": "Low-Power Mode",
+    "rarity": 1
+  },
+  "the-skull-merchant/powdered-glass": {
+    "killer": "the-skull-merchant",
+    "name": "Powdered Glass",
+    "rarity": 2
+  },
+  "the-skull-merchant/prototype-rotor": {
+    "killer": "the-skull-merchant",
+    "name": "Prototype Rotor",
+    "rarity": 3
+  },
+  "the-skull-merchant/randomised-strobes": {
+    "killer": "the-skull-merchant",
+    "name": "Randomised Strobes",
+    "rarity": 3
+  },
+  "the-skull-merchant/shotgun-speakers": {
+    "killer": "the-skull-merchant",
+    "name": "Shotgun Speakers",
+    "rarity": 1
+  },
+  "the-skull-merchant/stereo-remote-mic": {
+    "killer": "the-skull-merchant",
+    "name": "Stereo Remote Mic",
+    "rarity": 1
+  },
+  "the-skull-merchant/supercharge": {
+    "killer": "the-skull-merchant",
+    "name": "Supercharge",
+    "rarity": 1
+  },
+  "the-skull-merchant/ultrasonic-speaker": {
+    "killer": "the-skull-merchant",
+    "name": "Ultrasonic Speaker",
+    "rarity": 0
+  },
+  "the-skull-merchant/vital-targeting-processor": {
+    "killer": "the-skull-merchant",
+    "name": "Vital Targeting Processor",
+    "rarity": 2
+  },
+  "the-slasher/bent-wheel": {
+    "killer": "the-slasher",
+    "name": "Bent Wheel",
+    "rarity": 0
+  },
+  "the-slasher/bloody-smile": {
+    "killer": "the-slasher",
+    "name": "Bloody Smile",
+    "rarity": 1
+  },
+  "the-slasher/burnt-fuse": {
+    "killer": "the-slasher",
+    "name": "Burnt Fuse",
+    "rarity": 3
+  },
+  "the-slasher/coroner-s-coffee": {
+    "killer": "the-slasher",
+    "name": "Coroner's Coffee",
+    "rarity": 1
+  },
+  "the-slasher/deputy-s-badge": {
+    "killer": "the-slasher",
+    "name": "Deputy's Badge",
+    "rarity": 3
+  },
+  "the-slasher/dirty-money": {
+    "killer": "the-slasher",
+    "name": "Dirty Money",
+    "rarity": 4
+  },
+  "the-slasher/eye-goop": {
+    "killer": "the-slasher",
+    "name": "Eye Goop",
+    "rarity": 2
+  },
+  "the-slasher/garden-claw": {
+    "killer": "the-slasher",
+    "name": "Garden Claw",
+    "rarity": 0
+  },
+  "the-slasher/imprinted-aluminum": {
+    "killer": "the-slasher",
+    "name": "Imprinted Aluminum",
+    "rarity": 2
+  },
+  "the-slasher/iridescent-boat-motor": {
+    "killer": "the-slasher",
+    "name": "Iridescent Boat Motor",
+    "rarity": 4
+  },
+  "the-slasher/knitting-needle": {
+    "killer": "the-slasher",
+    "name": "Knitting Needle",
+    "rarity": 0
+  },
+  "the-slasher/mirror-shards": {
+    "killer": "the-slasher",
+    "name": "Mirror Shards",
+    "rarity": 2
+  },
+  "the-slasher/missing-corkscrew": {
+    "killer": "the-slasher",
+    "name": "Missing Corkscrew",
+    "rarity": 3
+  },
+  "the-slasher/orderly-s-shoe": {
+    "killer": "the-slasher",
+    "name": "Orderly's Shoe",
+    "rarity": 0
+  },
+  "the-slasher/party-noisemaker": {
+    "killer": "the-slasher",
+    "name": "Party Noisemaker",
+    "rarity": 1
+  },
+  "the-slasher/rabbit-remains": {
+    "killer": "the-slasher",
+    "name": "Rabbit Remains",
+    "rarity": 3
+  },
+  "the-slasher/sauna-rock": {
+    "killer": "the-slasher",
+    "name": "Sauna Rock",
+    "rarity": 2
+  },
+  "the-slasher/sleeping-bag": {
+    "killer": "the-slasher",
+    "name": "Sleeping Bag",
+    "rarity": 1
+  },
+  "the-slasher/toxic-waste": {
+    "killer": "the-slasher",
+    "name": "Toxic Waste",
+    "rarity": 1
+  },
+  "the-slasher/two-nails": {
+    "killer": "the-slasher",
+    "name": "Two Nails",
+    "rarity": 2
+  },
+  "the-spirit/dried-cherry-blossom": {
+    "killer": "the-spirit",
+    "name": "Dried Cherry Blossom",
+    "rarity": 3
+  },
+  "the-spirit/furin": {
+    "killer": "the-spirit",
+    "name": "Furin",
+    "rarity": 3
+  },
+  "the-spirit/gifted-bamboo-comb": {
+    "killer": "the-spirit",
+    "name": "Gifted Bamboo Comb",
+    "rarity": 0
+  },
+  "the-spirit/juniper-bonsai": {
+    "killer": "the-spirit",
+    "name": "Juniper Bonsai",
+    "rarity": 1
+  },
+  "the-spirit/kaiun-talisman": {
+    "killer": "the-spirit",
+    "name": "Kaiun Talisman",
+    "rarity": 1
+  },
+  "the-spirit/katana-tsuba": {
+    "killer": "the-spirit",
+    "name": "Katana Tsuba",
+    "rarity": 2
+  },
+  "the-spirit/kintsugi-teacup": {
+    "killer": "the-spirit",
+    "name": "Kintsugi Teacup",
+    "rarity": 4
+  },
+  "the-spirit/mother-daughter-ring": {
+    "killer": "the-spirit",
+    "name": "Mother-Daughter Ring",
+    "rarity": 4
+  },
+  "the-spirit/mother-s-glasses": {
+    "killer": "the-spirit",
+    "name": "Mother's Glasses",
+    "rarity": 2
+  },
+  "the-spirit/muddy-sports-day-cap": {
+    "killer": "the-spirit",
+    "name": "Muddy Sports Day Cap",
+    "rarity": 1
+  },
+  "the-spirit/origami-crane": {
+    "killer": "the-spirit",
+    "name": "Origami Crane",
+    "rarity": 0
+  },
+  "the-spirit/rin-s-broken-watch": {
+    "killer": "the-spirit",
+    "name": "Rin's Broken Watch",
+    "rarity": 1
+  },
+  "the-spirit/rusty-flute": {
+    "killer": "the-spirit",
+    "name": "Rusty Flute",
+    "rarity": 2
+  },
+  "the-spirit/senko-hanabi": {
+    "killer": "the-spirit",
+    "name": "Senko Hanabi",
+    "rarity": 2
+  },
+  "the-spirit/shiawase-amulet": {
+    "killer": "the-spirit",
+    "name": "Shiawase Amulet",
+    "rarity": 0
+  },
+  "the-spirit/uchiwa": {
+    "killer": "the-spirit",
+    "name": "Uchiwa",
+    "rarity": 2
+  },
+  "the-spirit/wakizashi-saya": {
+    "killer": "the-spirit",
+    "name": "Wakizashi Saya",
+    "rarity": 3
+  },
+  "the-spirit/white-hair-ribbon": {
+    "killer": "the-spirit",
+    "name": "White Hair Ribbon",
+    "rarity": 1
+  },
+  "the-spirit/yakuyoke-amulet": {
+    "killer": "the-spirit",
+    "name": "Yakuyoke Amulet",
+    "rarity": 3
+  },
+  "the-spirit/zori": {
+    "killer": "the-spirit",
+    "name": "Zori",
+    "rarity": 0
+  },
+  "the-trapper/4-coil-spring-kit": {
+    "killer": "the-trapper",
+    "name": "4-Coil Spring Kit",
+    "rarity": 1
+  },
+  "the-trapper/bear-oil": {
+    "killer": "the-trapper",
+    "name": "Bear Oil",
+    "rarity": 0
+  },
+  "the-trapper/bloody-coil": {
+    "killer": "the-trapper",
+    "name": "Bloody Coil",
+    "rarity": 4
+  },
+  "the-trapper/coffee-grounds": {
+    "killer": "the-trapper",
+    "name": "Coffee Grounds",
+    "rarity": 1
+  },
+  "the-trapper/fastening-tools": {
+    "killer": "the-trapper",
+    "name": "Fastening Tools",
+    "rarity": 2
+  },
+  "the-trapper/honing-stone": {
+    "killer": "the-trapper",
+    "name": "Honing Stone",
+    "rarity": 3
+  },
+  "the-trapper/iridescent-stone": {
+    "killer": "the-trapper",
+    "name": "Iridescent Stone",
+    "rarity": 4
+  },
+  "the-trapper/lengthened-jaws": {
+    "killer": "the-trapper",
+    "name": "Lengthened Jaws",
+    "rarity": 1
+  },
+  "the-trapper/makeshift-wrap": {
+    "killer": "the-trapper",
+    "name": "Makeshift Wrap",
+    "rarity": 0
+  },
+  "the-trapper/oily-coil": {
+    "killer": "the-trapper",
+    "name": "Oily Coil",
+    "rarity": 3
+  },
+  "the-trapper/padded-jaws": {
+    "killer": "the-trapper",
+    "name": "Padded Jaws",
+    "rarity": 0
+  },
+  "the-trapper/rusted-jaws": {
+    "killer": "the-trapper",
+    "name": "Rusted Jaws",
+    "rarity": 2
+  },
+  "the-trapper/secondary-coil": {
+    "killer": "the-trapper",
+    "name": "Secondary Coil",
+    "rarity": 2
+  },
+  "the-trapper/serrated-jaws": {
+    "killer": "the-trapper",
+    "name": "Serrated Jaws",
+    "rarity": 1
+  },
+  "the-trapper/tar-bottle": {
+    "killer": "the-trapper",
+    "name": "Tar Bottle",
+    "rarity": 2
+  },
+  "the-trapper/tension-spring": {
+    "killer": "the-trapper",
+    "name": "Tension Spring",
+    "rarity": 3
+  },
+  "the-trapper/trapper-bag": {
+    "killer": "the-trapper",
+    "name": "Trapper Bag",
+    "rarity": 2
+  },
+  "the-trapper/trapper-gloves": {
+    "killer": "the-trapper",
+    "name": "Trapper Gloves",
+    "rarity": 0
+  },
+  "the-trapper/trapper-sack": {
+    "killer": "the-trapper",
+    "name": "Trapper Sack",
+    "rarity": 3
+  },
+  "the-trapper/wax-brick": {
+    "killer": "the-trapper",
+    "name": "Wax Brick",
+    "rarity": 1
+  },
+  "the-trickster/bloody-boa": {
+    "killer": "the-trickster",
+    "name": "Bloody Boa",
+    "rarity": 1
+  },
+  "the-trickster/caged-heart-shoes": {
+    "killer": "the-trickster",
+    "name": "Caged Heart Shoes",
+    "rarity": 1
+  },
+  "the-trickster/cut-thru-u-single": {
+    "killer": "the-trickster",
+    "name": "Cut Thru U Single",
+    "rarity": 3
+  },
+  "the-trickster/death-throes-compilation": {
+    "killer": "the-trickster",
+    "name": "Death Throes Compilation",
+    "rarity": 4
+  },
+  "the-trickster/diamond-cufflinks": {
+    "killer": "the-trickster",
+    "name": "Diamond Cufflinks",
+    "rarity": 3
+  },
+  "the-trickster/edge-of-revival-album": {
+    "killer": "the-trickster",
+    "name": "Edge of Revival Album",
+    "rarity": 3
+  },
+  "the-trickster/fizz-spin-soda": {
+    "killer": "the-trickster",
+    "name": "Fizz-Spin Soda",
+    "rarity": 2
+  },
+  "the-trickster/inferno-wires": {
+    "killer": "the-trickster",
+    "name": "Inferno Wires",
+    "rarity": 0
+  },
+  "the-trickster/iridescent-photocard": {
+    "killer": "the-trickster",
+    "name": "Iridescent Photocard",
+    "rarity": 4
+  },
+  "the-trickster/ji-woon-s-autograph": {
+    "killer": "the-trickster",
+    "name": "Ji-Woon's Autograph",
+    "rarity": 1
+  },
+  "the-trickster/killing-part-chords": {
+    "killer": "the-trickster",
+    "name": "Killing Part Chords",
+    "rarity": 0
+  },
+  "the-trickster/lucky-blade": {
+    "killer": "the-trickster",
+    "name": "Lucky Blade",
+    "rarity": 1
+  },
+  "the-trickster/melodious-murder": {
+    "killer": "the-trickster",
+    "name": "Melodious Murder",
+    "rarity": 2
+  },
+  "the-trickster/memento-blades": {
+    "killer": "the-trickster",
+    "name": "Memento Blades",
+    "rarity": 0
+  },
+  "the-trickster/on-target-single": {
+    "killer": "the-trickster",
+    "name": "On Target Single",
+    "rarity": 2
+  },
+  "the-trickster/ripper-brace": {
+    "killer": "the-trickster",
+    "name": "Ripper Brace",
+    "rarity": 2
+  },
+  "the-trickster/tequila-moonrock": {
+    "killer": "the-trickster",
+    "name": "Tequila Moonrock",
+    "rarity": 1
+  },
+  "the-trickster/trick-blades": {
+    "killer": "the-trickster",
+    "name": "Trick Blades",
+    "rarity": 3
+  },
+  "the-trickster/trick-pouch": {
+    "killer": "the-trickster",
+    "name": "Trick Pouch",
+    "rarity": 0
+  },
+  "the-trickster/waiting-for-you-watch": {
+    "killer": "the-trickster",
+    "name": "Waiting For You Watch",
+    "rarity": 2
+  },
+  "the-twins/baby-teeth": {
+    "killer": "the-twins",
+    "name": "Baby Teeth",
+    "rarity": 1
+  },
+  "the-twins/bloody-black-hood": {
+    "killer": "the-twins",
+    "name": "Bloody Black Hood",
+    "rarity": 1
+  },
+  "the-twins/cat-figurine": {
+    "killer": "the-twins",
+    "name": "Cat Figurine",
+    "rarity": 0
+  },
+  "the-twins/cat-s-eye": {
+    "killer": "the-twins",
+    "name": "Cat's Eye",
+    "rarity": 1
+  },
+  "the-twins/ceremonial-candelabrum": {
+    "killer": "the-twins",
+    "name": "Ceremonial Candelabrum",
+    "rarity": 1
+  },
+  "the-twins/drop-of-perfume": {
+    "killer": "the-twins",
+    "name": "Drop of Perfume",
+    "rarity": 3
+  },
+  "the-twins/forest-stew": {
+    "killer": "the-twins",
+    "name": "Forest Stew",
+    "rarity": 3
+  },
+  "the-twins/iridescent-pendant": {
+    "killer": "the-twins",
+    "name": "Iridescent Pendant",
+    "rarity": 4
+  },
+  "the-twins/madeleine-s-glove": {
+    "killer": "the-twins",
+    "name": "Madeleine's Glove",
+    "rarity": 1
+  },
+  "the-twins/madeleine-s-scarf": {
+    "killer": "the-twins",
+    "name": "Madeleine's Scarf",
+    "rarity": 2
+  },
+  "the-twins/rusted-needle": {
+    "killer": "the-twins",
+    "name": "Rusted Needle",
+    "rarity": 2
+  },
+  "the-twins/sewer-sludge": {
+    "killer": "the-twins",
+    "name": "Sewer Sludge",
+    "rarity": 2
+  },
+  "the-twins/silencing-cloth": {
+    "killer": "the-twins",
+    "name": "Silencing Cloth",
+    "rarity": 4
+  },
+  "the-twins/soured-milk": {
+    "killer": "the-twins",
+    "name": "Soured Milk",
+    "rarity": 0
+  },
+  "the-twins/spinning-top": {
+    "killer": "the-twins",
+    "name": "Spinning Top",
+    "rarity": 3
+  },
+  "the-twins/stale-biscuit": {
+    "killer": "the-twins",
+    "name": "Stale Biscuit",
+    "rarity": 2
+  },
+  "the-twins/tiny-fingernail": {
+    "killer": "the-twins",
+    "name": "Tiny Fingernail",
+    "rarity": 0
+  },
+  "the-twins/toy-sword": {
+    "killer": "the-twins",
+    "name": "Toy Sword",
+    "rarity": 0
+  },
+  "the-twins/victor-s-soldier": {
+    "killer": "the-twins",
+    "name": "Victor's Soldier",
+    "rarity": 3
+  },
+  "the-twins/weighty-rattle": {
+    "killer": "the-twins",
+    "name": "Weighty Rattle",
+    "rarity": 2
+  },
+  "the-unknown/b-movie-poster": {
+    "killer": "the-unknown",
+    "name": "B-Movie Poster",
+    "rarity": 2
+  },
+  "the-unknown/blurry-photo": {
+    "killer": "the-unknown",
+    "name": "Blurry Photo",
+    "rarity": 0
+  },
+  "the-unknown/captured-by-the-dark": {
+    "killer": "the-unknown",
+    "name": "Captured by the Dark",
+    "rarity": 4
+  },
+  "the-unknown/device-of-undisclosed-origin": {
+    "killer": "the-unknown",
+    "name": "Device of Undisclosed Origin",
+    "rarity": 1
+  },
+  "the-unknown/discarded-milk-carton": {
+    "killer": "the-unknown",
+    "name": "Discarded Milk Carton",
+    "rarity": 3
+  },
+  "the-unknown/footprint-cast": {
+    "killer": "the-unknown",
+    "name": "Footprint Cast",
+    "rarity": 2
+  },
+  "the-unknown/front-page-article": {
+    "killer": "the-unknown",
+    "name": "Front-Page Article",
+    "rarity": 2
+  },
+  "the-unknown/homemade-mask": {
+    "killer": "the-unknown",
+    "name": "Homemade Mask",
+    "rarity": 3
+  },
+  "the-unknown/hypnotist-s-watch": {
+    "killer": "the-unknown",
+    "name": "Hypnotist's Watch",
+    "rarity": 2
+  },
+  "the-unknown/iridescent-oss-report": {
+    "killer": "the-unknown",
+    "name": "Iridescent OSS Report",
+    "rarity": 4
+  },
+  "the-unknown/last-known-recording": {
+    "killer": "the-unknown",
+    "name": "Last Known Recording",
+    "rarity": 1
+  },
+  "the-unknown/notebook-of-theories": {
+    "killer": "the-unknown",
+    "name": "Notebook of Theories",
+    "rarity": 1
+  },
+  "the-unknown/obscure-game-cartridge": {
+    "killer": "the-unknown",
+    "name": "Obscure Game Cartridge",
+    "rarity": 3
+  },
+  "the-unknown/punctured-eyeball": {
+    "killer": "the-unknown",
+    "name": "Punctured Eyeball",
+    "rarity": 0
+  },
+  "the-unknown/rabbit-s-foot": {
+    "killer": "the-unknown",
+    "name": "Rabbit's Foot",
+    "rarity": 0
+  },
+  "the-unknown/serum-vial": {
+    "killer": "the-unknown",
+    "name": "Serum Vial",
+    "rarity": 3
+  },
+  "the-unknown/sketch-attempt": {
+    "killer": "the-unknown",
+    "name": "Sketch Attempt",
+    "rarity": 0
+  },
+  "the-unknown/slashed-backpack": {
+    "killer": "the-unknown",
+    "name": "Slashed Backpack",
+    "rarity": 1
+  },
+  "the-unknown/vanishing-box": {
+    "killer": "the-unknown",
+    "name": "Vanishing Box",
+    "rarity": 2
+  },
+  "the-unknown/victim-s-map": {
+    "killer": "the-unknown",
+    "name": "Victim's Map",
+    "rarity": 1
+  },
+  "the-wraith/all-seeing-blood": {
+    "killer": "the-wraith",
+    "name": "\"All Seeing\" - Blood",
+    "rarity": 3
+  },
+  "the-wraith/all-seeing-spirit": {
+    "killer": "the-wraith",
+    "name": "\"All Seeing\" - Spirit",
+    "rarity": 4
+  },
+  "the-wraith/blind-warrior-mud": {
+    "killer": "the-wraith",
+    "name": "\"Blind Warrior\" - Mud",
+    "rarity": 1
+  },
+  "the-wraith/blind-warrior-white": {
+    "killer": "the-wraith",
+    "name": "\"Blind Warrior\" - White",
+    "rarity": 2
+  },
+  "the-wraith/blink-mud": {
+    "killer": "the-wraith",
+    "name": "\"Blink\" - Mud",
+    "rarity": 1
+  },
+  "the-wraith/blink-white": {
+    "killer": "the-wraith",
+    "name": "\"Blink\" - White",
+    "rarity": 2
+  },
+  "the-wraith/bone-clapper": {
+    "killer": "the-wraith",
+    "name": "Bone Clapper",
+    "rarity": 1
+  },
+  "the-wraith/coxcombed-clapper": {
+    "killer": "the-wraith",
+    "name": "Coxcombed Clapper",
+    "rarity": 4
+  },
+  "the-wraith/shadow-dance-blood": {
+    "killer": "the-wraith",
+    "name": "\"Shadow Dance\" - Blood",
+    "rarity": 3
+  },
+  "the-wraith/shadow-dance-white": {
+    "killer": "the-wraith",
+    "name": "\"Shadow Dance\" - White",
+    "rarity": 2
+  },
+  "the-wraith/swift-hunt-blood": {
+    "killer": "the-wraith",
+    "name": "\"Swift Hunt\" - Blood",
+    "rarity": 3
+  },
+  "the-wraith/swift-hunt-mud": {
+    "killer": "the-wraith",
+    "name": "\"Swift Hunt\" - Mud",
+    "rarity": 1
+  },
+  "the-wraith/swift-hunt-white": {
+    "killer": "the-wraith",
+    "name": "\"Swift Hunt\" - White",
+    "rarity": 2
+  },
+  "the-wraith/the-beast-soot": {
+    "killer": "the-wraith",
+    "name": "\"The Beast\" - Soot",
+    "rarity": 0
+  },
+  "the-wraith/the-ghost-soot": {
+    "killer": "the-wraith",
+    "name": "\"The Ghost\" - Soot",
+    "rarity": 0
+  },
+  "the-wraith/the-hound-soot": {
+    "killer": "the-wraith",
+    "name": "\"The Hound\" - Soot",
+    "rarity": 0
+  },
+  "the-wraith/the-serpent-soot": {
+    "killer": "the-wraith",
+    "name": "\"The Serpent\" - Soot",
+    "rarity": 0
+  },
+  "the-wraith/windstorm-blood": {
+    "killer": "the-wraith",
+    "name": "\"Windstorm\" - Blood",
+    "rarity": 3
+  },
+  "the-wraith/windstorm-mud": {
+    "killer": "the-wraith",
+    "name": "\"Windstorm\" - Mud",
+    "rarity": 1
+  },
+  "the-wraith/windstorm-white": {
+    "killer": "the-wraith",
+    "name": "\"Windstorm\" - White",
+    "rarity": 2
+  },
+  "the-xenomorph/acidic-blood": {
+    "killer": "the-xenomorph",
+    "name": "Acidic Blood",
+    "rarity": 4
+  },
+  "the-xenomorph/ash-s-innards": {
+    "killer": "the-xenomorph",
+    "name": "Ash's Innards",
+    "rarity": 1
+  },
+  "the-xenomorph/brett-s-cap": {
+    "killer": "the-xenomorph",
+    "name": "Brett's Cap",
+    "rarity": 1
+  },
+  "the-xenomorph/cat-carrier": {
+    "killer": "the-xenomorph",
+    "name": "Cat Carrier",
+    "rarity": 3
+  },
+  "the-xenomorph/cereal-rations": {
+    "killer": "the-xenomorph",
+    "name": "Cereal Rations",
+    "rarity": 0
+  },
+  "the-xenomorph/crew-headset": {
+    "killer": "the-xenomorph",
+    "name": "Crew Headset",
+    "rarity": 1
+  },
+  "the-xenomorph/drinking-bird": {
+    "killer": "the-xenomorph",
+    "name": "Drinking Bird",
+    "rarity": 0
+  },
+  "the-xenomorph/emergency-helmet": {
+    "killer": "the-xenomorph",
+    "name": "Emergency Helmet",
+    "rarity": 2
+  },
+  "the-xenomorph/harpoon-gun": {
+    "killer": "the-xenomorph",
+    "name": "Harpoon Gun",
+    "rarity": 3
+  },
+  "the-xenomorph/improvised-cattle-prod": {
+    "killer": "the-xenomorph",
+    "name": "Improvised Cattle Prod",
+    "rarity": 4
+  },
+  "the-xenomorph/kane-s-helmet": {
+    "killer": "the-xenomorph",
+    "name": "Kane's Helmet",
+    "rarity": 2
+  },
+  "the-xenomorph/lambert-s-star-map": {
+    "killer": "the-xenomorph",
+    "name": "Lambert's Star Map",
+    "rarity": 1
+  },
+  "the-xenomorph/light-wand": {
+    "killer": "the-xenomorph",
+    "name": "Light Wand",
+    "rarity": 1
+  },
+  "the-xenomorph/moulted-skin": {
+    "killer": "the-xenomorph",
+    "name": "Moulted Skin",
+    "rarity": 2
+  },
+  "the-xenomorph/multipurpose-hatchet": {
+    "killer": "the-xenomorph",
+    "name": "Multipurpose Hatchet",
+    "rarity": 2
+  },
+  "the-xenomorph/ovomorph": {
+    "killer": "the-xenomorph",
+    "name": "Ovomorph",
+    "rarity": 0
+  },
+  "the-xenomorph/parker-s-headband": {
+    "killer": "the-xenomorph",
+    "name": "Parker's Headband",
+    "rarity": 2
+  },
+  "the-xenomorph/ripley-s-watch": {
+    "killer": "the-xenomorph",
+    "name": "Ripley's Watch",
+    "rarity": 0
+  },
+  "the-xenomorph/self-destruct-bolt": {
+    "killer": "the-xenomorph",
+    "name": "Self-Destruct Bolt",
+    "rarity": 3
+  },
+  "the-xenomorph/semiotic-keyboard": {
+    "killer": "the-xenomorph",
+    "name": "Semiotic Keyboard",
+    "rarity": 3
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "a-nurse-s-calling": {
+    "name": "A Nurse's Calling"
+  },
+  "agitation": {
+    "name": "Agitation"
+  },
+  "alien-instinct": {
+    "name": "Alien Instinct"
+  },
+  "all-shaking-thunder": {
+    "name": "All-Shaking Thunder"
+  },
+  "awakened-awareness": {
+    "name": "Awakened Awareness"
+  },
+  "bamboozle": {
+    "name": "Bamboozle"
+  },
+  "barbecue-chili": {
+    "name": "Barbecue & Chili"
+  },
+  "batteries-included": {
+    "name": "Batteries Included"
+  },
+  "beast-of-prey": {
+    "name": "Beast of Prey"
+  },
+  "bitter-murmur": {
+    "name": "Bitter Murmur"
+  },
+  "blood-echo": {
+    "name": "Blood Echo"
+  },
+  "blood-warden": {
+    "name": "Blood Warden"
+  },
+  "bloodhound": {
+    "name": "Bloodhound"
+  },
+  "brutal-strength": {
+    "name": "Brutal Strength"
+  },
+  "call-of-brine": {
+    "name": "Call of Brine"
+  },
+  "corrupt-intervention": {
+    "name": "Corrupt Intervention"
+  },
+  "coulrophobia": {
+    "name": "Coulrophobia"
+  },
+  "coup-de-grace": {
+    "name": "Coup de Grace"
+  },
+  "cruel-limits": {
+    "name": "Cruel Limits"
+  },
+  "cull-the-weak": {
+    "name": "Cull the Weak"
+  },
+  "dark-arrogance": {
+    "name": "Dark Arrogance"
+  },
+  "dark-devotion": {
+    "name": "Dark Devotion"
+  },
+  "darkness-revealed": {
+    "name": "Darkness Revealed"
+  },
+  "dead-man-s-switch": {
+    "name": "Dead Man's Switch"
+  },
+  "deathbound": {
+    "name": "Deathbound"
+  },
+  "deerstalker": {
+    "name": "Deerstalker"
+  },
+  "discordance": {
+    "name": "Discordance"
+  },
+  "dissolution": {
+    "name": "Dissolution"
+  },
+  "distressing": {
+    "name": "Distressing"
+  },
+  "dominance": {
+    "name": "Dominance"
+  },
+  "dragon-s-grip": {
+    "name": "Dragon's Grip"
+  },
+  "enduring": {
+    "name": "Enduring"
+  },
+  "eruption": {
+    "name": "Eruption"
+  },
+  "fire-up": {
+    "name": "Fire Up"
+  },
+  "forced-hesitation": {
+    "name": "Forced Hesitation"
+  },
+  "forced-penance": {
+    "name": "Forced Penance"
+  },
+  "forever-entwined": {
+    "name": "Forever Entwined"
+  },
+  "franklin-s-demise": {
+    "name": "Franklin's Demise"
+  },
+  "friends-til-the-end": {
+    "name": "Friends 'til the End"
+  },
+  "furtive-chase": {
+    "name": "Furtive Chase"
+  },
+  "game-afoot": {
+    "name": "Game Afoot"
+  },
+  "gearhead": {
+    "name": "Gearhead"
+  },
+  "genetic-limits": {
+    "name": "Genetic Limits"
+  },
+  "grim-embrace": {
+    "name": "Grim Embrace"
+  },
+  "haywire": {
+    "name": "Haywire"
+  },
+  "help-wanted": {
+    "name": "Help Wanted"
+  },
+  "hex-blood-favor": {
+    "name": "Hex: Blood Favor"
+  },
+  "hex-crowd-control": {
+    "name": "Hex: Crowd Control"
+  },
+  "hex-devour-hope": {
+    "name": "Hex: Devour Hope"
+  },
+  "hex-face-the-darkness": {
+    "name": "Hex: Face the Darkness"
+  },
+  "hex-fortune-s-fool": {
+    "name": "Hex: Fortune's Fool"
+  },
+  "hex-haunted-grounds": {
+    "name": "Hex: Haunted Grounds"
+  },
+  "hex-hive-mind": {
+    "name": "Hex: Hive Mind"
+  },
+  "hex-huntress-lullaby": {
+    "name": "Hex: Huntress Lullaby"
+  },
+  "hex-no-one-escapes-death": {
+    "name": "Hex: No one Escapes Death"
+  },
+  "hex-nothing-but-misery": {
+    "name": "Hex: Nothing but Misery"
+  },
+  "hex-overture-of-doom": {
+    "name": "Hex: Overture of Doom"
+  },
+  "hex-pentimento": {
+    "name": "Hex: Pentimento"
+  },
+  "hex-retribution": {
+    "name": "Hex: Retribution"
+  },
+  "hex-ruin": {
+    "name": "Hex: Ruin"
+  },
+  "hex-scared-to-death": {
+    "name": "Hex: Scared To Death"
+  },
+  "hex-the-third-seal": {
+    "name": "Hex: The Third Seal"
+  },
+  "hex-thrill-of-the-hunt": {
+    "name": "Hex: Thrill of the Hunt"
+  },
+  "hex-two-can-play": {
+    "name": "Hex: Two can Play"
+  },
+  "hex-undying": {
+    "name": "Hex: Undying"
+  },
+  "hex-wretched-fate": {
+    "name": "Hex: Wretched Fate"
+  },
+  "hoarder": {
+    "name": "Hoarder"
+  },
+  "hubris": {
+    "name": "Hubris"
+  },
+  "human-greed": {
+    "name": "Human Greed"
+  },
+  "hysteria": {
+    "name": "Hysteria"
+  },
+  "i-m-all-ears": {
+    "name": "I'm All Ears"
+  },
+  "infectious-fright": {
+    "name": "Infectious Fright"
+  },
+  "insidious": {
+    "name": "Insidious"
+  },
+  "iron-grasp": {
+    "name": "Iron Grasp"
+  },
+  "iron-maiden": {
+    "name": "Iron Maiden"
+  },
+  "keep-them-waiting": {
+    "name": "Keep Them Waiting"
+  },
+  "knockout": {
+    "name": "Knockout"
+  },
+  "languid-touch": {
+    "name": "Languid Touch"
+  },
+  "lethal-pursuer": {
+    "name": "Lethal Pursuer"
+  },
+  "leverage": {
+    "name": "Leverage"
+  },
+  "lightborn": {
+    "name": "Lightborn"
+  },
+  "machine-learning": {
+    "name": "Machine Learning"
+  },
+  "mad-grit": {
+    "name": "Mad Grit"
+  },
+  "make-your-choice": {
+    "name": "Make Your Choice"
+  },
+  "merciless-storm": {
+    "name": "Merciless Storm"
+  },
+  "mindbreaker": {
+    "name": "Mindbreaker"
+  },
+  "monitor-and-abuse": {
+    "name": "Monitor and Abuse"
+  },
+  "nemesis": {
+    "name": "Nemesis"
+  },
+  "no-holds-barred": {
+    "name": "No Holds Barred"
+  },
+  "no-quarter": {
+    "name": "No Quarter"
+  },
+  "no-way-out": {
+    "name": "No Way Out"
+  },
+  "none-are-free": {
+    "name": "None Are Free"
+  },
+  "nowhere-to-hide": {
+    "name": "Nowhere to Hide"
+  },
+  "oppression": {
+    "name": "Oppression"
+  },
+  "overcharge": {
+    "name": "Overcharge"
+  },
+  "overwhelming-presence": {
+    "name": "Overwhelming Presence"
+  },
+  "phantom-fear": {
+    "name": "Phantom Fear"
+  },
+  "pop-goes-the-weasel": {
+    "name": "Pop Goes the Weasel"
+  },
+  "predator": {
+    "name": "Predator"
+  },
+  "rampage": {
+    "name": "Rampage"
+  },
+  "rancor": {
+    "name": "Rancor"
+  },
+  "rapid-brutality": {
+    "name": "Rapid Brutality"
+  },
+  "ravenous": {
+    "name": "Ravenous"
+  },
+  "remember-me": {
+    "name": "Remember Me"
+  },
+  "scourge-hook-floods-of-rage": {
+    "name": "Scourge Hook: Floods of Rage"
+  },
+  "scourge-hook-hangman-s-trick": {
+    "name": "Scourge Hook: Hangman's Trick"
+  },
+  "scourge-hook-jagged-compass": {
+    "name": "Scourge Hook: Jagged Compass"
+  },
+  "scourge-hook-monstrous-shrine": {
+    "name": "Scourge Hook: Monstrous Shrine"
+  },
+  "scourge-hook-pain-resonance": {
+    "name": "Scourge Hook: Pain Resonance"
+  },
+  "scourge-hook-weeping-wounds": {
+    "name": "Scourge Hook: Weeping Wounds"
+  },
+  "secret-project": {
+    "name": "Secret Project"
+  },
+  "see-how-they-run": {
+    "name": "See How They Run"
+  },
+  "septic-touch": {
+    "name": "Septic Touch"
+  },
+  "shadowborn": {
+    "name": "Shadowborn"
+  },
+  "shattered-hope": {
+    "name": "Shattered Hope"
+  },
+  "silent-shadow": {
+    "name": "Silent Shadow"
+  },
+  "sloppy-butcher": {
+    "name": "Sloppy Butcher"
+  },
+  "spies-from-the-shadows": {
+    "name": "Spies from the Shadows"
+  },
+  "spirit-fury": {
+    "name": "Spirit Fury"
+  },
+  "starstruck": {
+    "name": "Starstruck"
+  },
+  "stridor": {
+    "name": "Stridor"
+  },
+  "superior-anatomy": {
+    "name": "Superior Anatomy"
+  },
+  "surge": {
+    "name": "Surge"
+  },
+  "surveillance": {
+    "name": "Surveillance"
+  },
+  "terminus": {
+    "name": "Terminus"
+  },
+  "territorial-imperative": {
+    "name": "Territorial Imperative"
+  },
+  "thanatophobia": {
+    "name": "Thanatophobia"
+  },
+  "thrilling-tremors": {
+    "name": "Thrilling Tremors"
+  },
+  "thwack": {
+    "name": "THWACK!"
+  },
+  "tinkerer": {
+    "name": "Tinkerer"
+  },
+  "trail-of-torment": {
+    "name": "Trail of Torment"
+  },
+  "turn-back-the-clock": {
+    "name": "Turn Back the Clock"
+  },
+  "ultimate-weapon": {
+    "name": "Ultimate Weapon"
+  },
+  "unbound": {
+    "name": "Unbound"
+  },
+  "undone": {
+    "name": "Undone"
+  },
+  "unforeseen": {
+    "name": "Unforeseen"
+  },
+  "unnerving-presence": {
+    "name": "Unnerving Presence"
+  },
+  "unrelenting": {
+    "name": "Unrelenting"
+  },
+  "wandering-eye": {
+    "name": "Wandering Eye"
+  },
+  "weave-attunement": {
+    "name": "Weave Attunement"
+  },
+  "whispers": {
+    "name": "Whispers"
+  },
+  "zanshin-tactics": {
+    "name": "Zanshin Tactics"
+  }
+}

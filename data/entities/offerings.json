@@ -1,0 +1,110 @@
+{
+  "annotated-blueprint": {
+    "name": "Annotated Blueprint",
+    "side": "killer"
+  },
+  "black-salt-statuette": {
+    "name": "Black Salt Statuette",
+    "side": "survivor"
+  },
+  "bloodied-blueprint": {
+    "name": "Bloodied Blueprint",
+    "side": "killer"
+  },
+  "chalk-pouch": {
+    "name": "Chalk Pouch",
+    "side": "survivor"
+  },
+  "clear-reagent": {
+    "name": "Clear Reagent",
+    "side": "killer"
+  },
+  "cream-chalk-pouch": {
+    "name": "Cream Chalk Pouch",
+    "side": "survivor"
+  },
+  "cut-coin": {
+    "name": "Cut Coin",
+    "side": "killer"
+  },
+  "cypress-memento-mori": {
+    "name": "Cypress Memento Mori",
+    "side": "killer"
+  },
+  "ebony-memento-mori": {
+    "name": "Ebony Memento Mori",
+    "side": "killer"
+  },
+  "faint-reagent": {
+    "name": "Faint Reagent",
+    "side": "killer"
+  },
+  "hazy-reagent": {
+    "name": "Hazy Reagent",
+    "side": "killer"
+  },
+  "ivory-chalk-pouch": {
+    "name": "Ivory Chalk Pouch",
+    "side": "survivor"
+  },
+  "ivory-memento-mori": {
+    "name": "Ivory Memento Mori",
+    "side": "killer"
+  },
+  "mouldy-oak": {
+    "name": "Mouldy Oak",
+    "side": "killer"
+  },
+  "murky-reagent": {
+    "name": "Murky Reagent",
+    "side": "killer"
+  },
+  "petrified-oak": {
+    "name": "Petrified Oak",
+    "side": "survivor"
+  },
+  "putrid-oak": {
+    "name": "Putrid Oak",
+    "side": "killer"
+  },
+  "rotten-oak": {
+    "name": "Rotten Oak",
+    "side": "killer"
+  },
+  "salt-pouch": {
+    "name": "Salt Pouch",
+    "side": "survivor"
+  },
+  "scratched-coin": {
+    "name": "Scratched Coin",
+    "side": "killer"
+  },
+  "shroud-of-separation": {
+    "name": "Shroud of Separation",
+    "side": "survivor"
+  },
+  "shroud-of-union": {
+    "name": "Shroud of Union",
+    "side": "survivor"
+  },
+  "shroud-of-vanishing": {
+    "name": "Shroud of Vanishing",
+    "side": "killer"
+  },
+  "torn-blueprint": {
+    "name": "Torn Blueprint",
+    "side": "killer"
+  },
+  "vigo-s-blueprint": {
+    "name": "Vigo's Blueprint",
+    "side": "killer"
+  },
+  "vigo-s-jar-of-salty-lips": {
+    "name": "Vigo's Jar of Salty Lips",
+    "side": "survivor"
+  },
+  "vigo-s-shroud": {
+    "name": "Vigo's Shroud",
+    "side": "survivor"
+  }
+}
