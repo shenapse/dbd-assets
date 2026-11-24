@@ -3574,11 +3574,6 @@
     "name": "Party Noisemaker",
     "rarity": 1
   },
-  "the-slasher/rabbit-remains": {
-    "killer": "the-slasher",
-    "name": "Rabbit Remains",
-    "rarity": 3
-  },
   "the-slasher/sauna-rock": {
     "killer": "the-slasher",
     "name": "Sauna Rock",
