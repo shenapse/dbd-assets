@@ -50,7 +50,7 @@ for side in ("killer", "survivor"):
 for k in ent["offerings"]: exp(f"offerings/{k}.webp", k)
 for k in ent["survivors"]: exp(f"survivors/portrait/{k}.webp", k)
 for k in ent["killers"]:
-    for kind in ("portrait", "lore"): exp(f"killers/{kind}/{k}.webp", k)
+    exp(f"killers/portrait/{k}.webp", k)
     exp(f"powers/{k}/icon.webp", k)
 for k in ent["addons-power"]: p, l = k.split("/"); exp(f"powers/{p}/addons/{l}.webp", k)
 for t, v in ent["items"].items():
@@ -83,7 +83,7 @@ for p in sorted(allow & missing): warns.append(f"missing image (known gap): {p}"
 # Minimums sit just under what the bulk of each category uses, so trimmed/cropped art does not trigger.
 # First matching rule wins.
 MIN_SIZES = [(r"^perks/", (256, 256)), (r"^offerings/", (256, 256)), (r"^powers/", (256, 256)), (r"^items/", (256, 256)),
-             (r"^(killers/(portrait|lore)|survivors/portrait)/", (400, 800))]
+             (r"^(killers/portrait|survivors/portrait)/", (400, 800))]
 for p in sorted(have):
     want = next((sz for rx, sz in MIN_SIZES if re.match(rx, p)), None)
     if want is None or not p.endswith(".webp"): continue
