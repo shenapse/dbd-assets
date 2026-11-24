@@ -32,6 +32,26 @@ for f in glob.glob(f"{ROOT}/data/aliases/*.json"):
     for k in json.load(open(f, encoding="utf-8")):
         if k not in ent[n]: errors.append(f"{os.path.relpath(f, ROOT)}: unknown key {k}")
 
+# perk aliases/abbreviations: non-empty strings; no alias may equal (normalized) another perk's name, renamed_from.name or alias on the same side
+norm = lambda s: re.sub(r"[\s\-_'.&\"]+", "", s.lower())
+for side in ("killer", "survivor"):
+    f, recs = f"{ROOT}/data/aliases/perks-{side}.json", ent[f"perks-{side}"]
+    if not os.path.exists(f): continue
+    rel, owner = os.path.relpath(f, ROOT), {}
+    for k, v in recs.items():
+        for nm in (v["name"], (v.get("renamed_from") or {}).get("name")):
+            if nm: owner.setdefault(norm(nm), set()).add(k)
+    for k, d in json.load(open(f, encoding="utf-8")).items():
+        for field, vals in d.items():
+            if field not in ("aliases", "abbreviations") or not isinstance(vals, list):
+                errors.append(f"{rel}: {k}: expected only list fields 'aliases'/'abbreviations', got {field!r}"); continue
+            for a in vals:
+                if not isinstance(a, str) or not a.strip(): errors.append(f"{rel}: {k}: empty/non-string {field} entry {a!r}"); continue
+                owner.setdefault(norm(a), set()).add(k)
+    # collisions: any normalized string claimed by more than one perk (own name/renamed_from/alias of a different slug)
+    for n, ks in sorted(owner.items()):
+        if len(ks) > 1: errors.append(f"{rel}: '{n}' is claimed by multiple perks: {sorted(ks)}")
+
 # images <-> records
 expected = {}
 def exp(path, label): expected[path] = label
