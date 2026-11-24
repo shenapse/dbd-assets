@@ -57,7 +57,11 @@
     "name": "Cruel Limits"
   },
   "cull-the-weak": {
-    "name": "Cull the Weak"
+    "name": "Cull the Weak",
+    "renamed_from": {
+      "slug": "dying-light",
+      "name": "Dying Light"
+    }
   },
   "dark-arrogance": {
     "name": "Dark Arrogance"
@@ -150,7 +154,11 @@
     "name": "Hex: Face the Darkness"
   },
   "hex-fortune-s-fool": {
-    "name": "Hex: Fortune's Fool"
+    "name": "Hex: Fortune's Fool",
+    "renamed_from": {
+      "slug": "hex-plaything",
+      "name": "Hex: Plaything"
+    }
   },
   "hex-haunted-grounds": {
     "name": "Hex: Haunted Grounds"
@@ -225,7 +233,11 @@
     "name": "Iron Maiden"
   },
   "keep-them-waiting": {
-    "name": "Keep Them Waiting"
+    "name": "Keep Them Waiting",
+    "renamed_from": {
+      "slug": "save-the-best-for-last",
+      "name": "Save the Best for Last"
+    }
   },
   "knockout": {
     "name": "Knockout"
@@ -264,7 +276,11 @@
     "name": "Nemesis"
   },
   "no-holds-barred": {
-    "name": "No Holds Barred"
+    "name": "No Holds Barred",
+    "renamed_from": {
+      "slug": "deadlock",
+      "name": "Deadlock"
+    }
   },
   "no-quarter": {
     "name": "No Quarter"
@@ -327,13 +343,21 @@
     "name": "Scourge Hook: Pain Resonance"
   },
   "scourge-hook-weeping-wounds": {
-    "name": "Scourge Hook: Weeping Wounds"
+    "name": "Scourge Hook: Weeping Wounds",
+    "renamed_from": {
+      "slug": "scourge-hook-gift-of-pain",
+      "name": "Scourge Hook: Gift of Pain"
+    }
   },
   "secret-project": {
     "name": "Secret Project"
   },
   "see-how-they-run": {
-    "name": "See How They Run"
+    "name": "See How They Run",
+    "renamed_from": {
+      "slug": "play-with-your-food",
+      "name": "Play with Your Food"
+    }
   },
   "septic-touch": {
     "name": "Septic Touch"

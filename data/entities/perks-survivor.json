@@ -27,7 +27,11 @@
     "name": "Autodidact"
   },
   "babysitter": {
-    "name": "Babysitter"
+    "name": "Babysitter",
+    "renamed_from": {
+      "slug": "guardian",
+      "name": "Guardian"
+    }
   },
   "background-player": {
     "name": "Background Player"
@@ -45,7 +49,11 @@
     "name": "Better than New"
   },
   "better-together": {
-    "name": "Better Together"
+    "name": "Better Together",
+    "renamed_from": {
+      "slug": "situational-awareness",
+      "name": "Situational Awareness"
+    }
   },
   "bite-the-bullet": {
     "name": "Bite the Bullet"
@@ -87,7 +95,11 @@
     "name": "Botany Knowledge"
   },
   "bound-by-obsession": {
-    "name": "Bound by Obsession"
+    "name": "Bound by Obsession",
+    "renamed_from": {
+      "slug": "object-of-obsession",
+      "name": "Object of Obsession"
+    }
   },
   "breakdown": {
     "name": "Breakdown"
@@ -105,7 +117,11 @@
     "name": "Calm Spirit"
   },
   "camaraderie": {
-    "name": "Camaraderie"
+    "name": "Camaraderie",
+    "renamed_from": {
+      "slug": "kinship",
+      "name": "Kinship"
+    }
   },
   "champion-of-light": {
     "name": "Champion of Light"
@@ -174,7 +190,11 @@
     "name": "Do No Harm"
   },
   "down-to-the-last": {
-    "name": "Down to the Last"
+    "name": "Down to the Last",
+    "renamed_from": {
+      "slug": "sole-survivor",
+      "name": "Sole Survivor"
+    }
   },
   "dramaturgy": {
     "name": "Dramaturgy"
@@ -207,7 +227,11 @@
     "name": "Five Moves Ahead"
   },
   "fixated": {
-    "name": "Fixated"
+    "name": "Fixated",
+    "renamed_from": {
+      "slug": "self-aware",
+      "name": "Self-aware"
+    }
   },
   "flashbang": {
     "name": "Flashbang"
@@ -246,7 +270,11 @@
     "name": "Inner Focus"
   },
   "inner-strength": {
-    "name": "Inner Strength"
+    "name": "Inner Strength",
+    "renamed_from": {
+      "slug": "inner-healing",
+      "name": "Inner Healing"
+    }
   },
   "invocation-treacherous-crows": {
     "name": "Invocation: Treacherous Crows"
@@ -396,7 +424,11 @@
     "name": "Scene Partner"
   },
   "second-wind": {
-    "name": "Second Wind"
+    "name": "Second Wind",
+    "renamed_from": {
+      "slug": "renewal",
+      "name": "Renewal"
+    }
   },
   "self-care": {
     "name": "Self-Care"
@@ -504,7 +536,11 @@
     "name": "Wicked"
   },
   "will-to-live": {
-    "name": "Will to Live"
+    "name": "Will to Live",
+    "renamed_from": {
+      "slug": "decisive-strike",
+      "name": "Decisive Strike"
+    }
   },
   "windows-of-opportunity": {
     "name": "Windows of Opportunity"
