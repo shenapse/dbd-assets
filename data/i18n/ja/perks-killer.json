@@ -1,0 +1,95 @@
+{
+  "agitation": "興奮",
+  "all-shaking-thunder": "天地を揺るがす雷",
+  "bamboozle": "まやかし",
+  "blood-echo": "血の共鳴",
+  "brutal-strength": "野蛮な力",
+  "call-of-brine": "海の呼び声",
+  "corrupt-intervention": "堕落の介入",
+  "coulrophobia": "ピエロ恐怖症",
+  "cull-the-weak": {
+    "aliases": [
+      "消えゆく灯"
+    ],
+    "name": "弱者を淘汰"
+  },
+  "dark-arrogance": "闇の慢心",
+  "deathbound": "デスバウンド",
+  "discordance": "不協和音",
+  "dominance": "支配",
+  "dragon-s-grip": "ドラゴンの掌握",
+  "eruption": "イラプション",
+  "fire-up": "ファイヤー・アップ",
+  "forced-hesitation": "躊躇の強制",
+  "forced-penance": "強制苦行",
+  "furtive-chase": "隠密の追跡",
+  "game-afoot": "執拗な狩り",
+  "genetic-limits": "遺伝的限界",
+  "grim-embrace": "不吉な包囲",
+  "hex-crowd-control": "呪術：クラウドコントロール",
+  "hex-devour-hope": "呪術：貪られる希望",
+  "hex-huntress-lullaby": "呪術：女狩人の子守唄",
+  "hex-pentimento": "呪術：ペンティメント",
+  "hex-ruin": "呪術：破滅",
+  "hex-the-third-seal": "呪術：第三の封印",
+  "hex-undying": "呪術：不死",
+  "hex-wretched-fate": "呪術：悲惨な運命",
+  "hysteria": "集団ヒステリー",
+  "infectious-fright": "伝播する怖気",
+  "iron-grasp": "鋼の握力",
+  "iron-maiden": "アイアンメイデン",
+  "keep-them-waiting": {
+    "aliases": [
+      "最後のお楽しみ"
+    ],
+    "name": "待たせておけ"
+  },
+  "knockout": "ノックアウト",
+  "leverage": "骨抜きの作用",
+  "machine-learning": "機械学習",
+  "make-your-choice": "選択は君次第だ",
+  "merciless-storm": "怒涛の嵐",
+  "mindbreaker": {
+    "aliases": [
+      "不安を煽るもの"
+    ],
+    "name": "マインドブレーカー"
+  },
+  "monitor-and-abuse": "観察＆虐待",
+  "no-holds-barred": {
+    "aliases": [
+      "デッドロック"
+    ],
+    "name": "禁じ手なし"
+  },
+  "oppression": "迫害",
+  "overcharge": "オーバーチャージ",
+  "pop-goes-the-weasel": "イタチが飛び出した",
+  "rapid-brutality": "素早い残虐行為",
+  "ravenous": "貪欲",
+  "scourge-hook-jagged-compass": "悶絶のフック：不規則なコンパス",
+  "scourge-hook-monstrous-shrine": "悶絶のフック：異形の祭壇",
+  "scourge-hook-pain-resonance": "悶絶のフック：共鳴する苦痛",
+  "scourge-hook-weeping-wounds": {
+    "aliases": [
+      "悶絶のフック：苦痛という名の賜り物"
+    ],
+    "name": "悶絶のフック：すすり泣く傷"
+  },
+  "secret-project": "極秘プロジェクト",
+  "sloppy-butcher": "ずさんな肉屋",
+  "superior-anatomy": "人体の超越",
+  "surge": {
+    "aliases": [
+      "景気づけ"
+    ],
+    "name": "サージ"
+  },
+  "surveillance": "監視",
+  "thanatophobia": "死恐怖症",
+  "thrilling-tremors": "戦慄",
+  "tinkerer": "ガラクタいじり",
+  "trail-of-torment": "煩悶のトレイル",
+  "turn-back-the-clock": "時間の逆行",
+  "whispers": "囁き"
+}

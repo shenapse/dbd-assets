@@ -1,0 +1,22 @@
+{
+  "flashlight/anniversary-flashlight": "기념일 손전등",
+  "flashlight/flashlight": "손전등",
+  "flashlight/sport-flashlight": "운동용 손전등",
+  "flashlight/utility-flashlight": "다용도 손전등",
+  "flashlight/will-o-wisp": "도깨비불",
+  "key/broken-key": "부숴진 열쇠",
+  "key/dull-key": "무뎌진 열쇠",
+  "key/skeleton-key": "만능열쇠",
+  "med-kit/all-hallows-eve-lunchbox": "할로윈 점심 도시락",
+  "med-kit/anniversary-med-kit": "기념일 구급상자",
+  "med-kit/camping-aid-kit": "캠핑용 구급상자",
+  "med-kit/emergency-med-kit": "비상용 구급상자",
+  "med-kit/first-aid-kit": "구급상자",
+  "med-kit/ranger-med-kit": "경관의 구급상자",
+  "toolbox/alex-s-toolbox": "알렉스의  공구상자",
+  "toolbox/commodious-toolbox": "대형 공구상자",
+  "toolbox/engineer-s-toolbox": "기술자의 공구상자",
+  "toolbox/mechanic-s-toolbox": "기계공의 공구상자",
+  "toolbox/toolbox": "공구상자",
+  "toolbox/worn-out-tools": "낡은 공구상자"
+}

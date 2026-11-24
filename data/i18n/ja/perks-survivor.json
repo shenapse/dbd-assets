@@ -1,0 +1,110 @@
+{
+  "adrenaline": "アドレナリン",
+  "aftercare": "アフターケア",
+  "any-means-necessary": "強硬手段",
+  "bada-bada-boom": "ジャ・ジャ・ジャ・ジャーン",
+  "balanced-landing": "スマートな着地",
+  "better-than-new": "みなぎる活力",
+  "bite-the-bullet": "忍苦の時",
+  "blood-pact": "血の協定",
+  "boil-over": "ボイルオーバー",
+  "bond": "絆",
+  "botany-knowledge": "植物学の知識",
+  "calm-spirit": "魂の平穏",
+  "champion-of-light": "光の闘士",
+  "chemical-trap": "化学的な罠",
+  "clean-break": "決別",
+  "corrective-action": "是正措置",
+  "counterforce": "カウンターフォース",
+  "cut-loose": "逃亡の飛躍",
+  "dance-with-me": "ダンス・ウィズ・ミー",
+  "dead-hard": "デッド・ハード",
+  "deadline": "締め切り",
+  "deception": "欺き",
+  "deliverance": "解放",
+  "desperate-measures": "苦肉の策",
+  "detective-s-hunch": "刑事の直感",
+  "distortion": "ディストーション",
+  "diversion": {
+    "aliases": [],
+    "name": "陽動"
+  },
+  "do-no-harm": "害をなすなかれ",
+  "dramaturgy": "劇作法",
+  "empathic-connection": "共感的つながり",
+  "empathy": "共感",
+  "finesse": "俊敏",
+  "five-moves-ahead": "先読み",
+  "fixated": {
+    "aliases": [
+      "自己認識"
+    ],
+    "name": "執着心"
+  },
+  "flashbang": "スタングレネード",
+  "flow-state": "フロー状態",
+  "for-the-people": "人々のために",
+  "friendly-competition": "切磋琢磨",
+  "head-on": "真っ向勝負",
+  "inner-strength": {
+    "aliases": [
+      "内なる回復"
+    ],
+    "name": "内なる力"
+  },
+  "iron-will": "鋼の意思",
+  "kindred": "血族",
+  "leader": "リーダー",
+  "lend-a-hand": "手助け",
+  "light-footed": "忍び足",
+  "lightweight": "身軽",
+  "lithe": "しなやか",
+  "lucky-star": "幸運の星",
+  "made-for-this": "状況適応能力",
+  "mettle-of-man": "英雄の奮起",
+  "mirrored-illusion": "幻影",
+  "no-mither": "弱音はナシだ",
+  "no-one-left-behind": "誰も見捨てはしない",
+  "open-handed": "手札公開",
+  "overcome": "打開策",
+  "parental-guidance": "父の助言",
+  "plot-twist": "予想外の展開",
+  "potential-energy": "位置エネルギー",
+  "quick-and-quiet": "素早く静かに",
+  "rapid-response": "迅速な対応",
+  "reactive-healing": "反射回復",
+  "red-herring": "おとり",
+  "repressed-alliance": "抑圧の同盟",
+  "residual-manifest": "残像の顕現",
+  "resilience": "逆境魂",
+  "road-life": "路上生活",
+  "rookie-spirit": "新人魂",
+  "saboteur": "サボタージュ",
+  "second-wind": {
+    "aliases": [
+      "リニューアル"
+    ],
+    "name": "セカンドウインド"
+  },
+  "self-care": "セルフケア",
+  "small-game": "小さな獲物",
+  "smash-hit": "大ヒット",
+  "solidarity": "連帯感",
+  "sprint-burst": "全力疾走",
+  "teamwork-collective-stealth": "チームワーク：共同ステルス",
+  "tenacity": "執念",
+  "unbreakable": "不滅",
+  "urban-evasion": "都会の逃走術",
+  "visionary": "透視家",
+  "we-ll-make-it": "きっとやり遂げる",
+  "will-to-live": {
+    "aliases": [
+      "決死の一撃"
+    ],
+    "name": "生きる意志"
+  },
+  "windows-of-opportunity": {
+    "aliases": [],
+    "name": "ウィンドウズ・オブ・オポチュニティ"
+  }
+}
