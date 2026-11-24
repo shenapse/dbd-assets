@@ -82,7 +82,12 @@ for t, v in ent["items"].items():
         else: exp(f"items/{t}/variants/{vs}.webp", f"{t}/{vs}")
 for k in ent["addons-item"]: p, l = k.split("/"); exp(f"items/{p}/addons/{l}.webp", k)
 have = {os.path.relpath(p, f"{ROOT}/images") for p in glob.glob(f"{ROOT}/images/**/*", recursive=True) if os.path.isfile(p)}
-for p in sorted(have - set(expected)): errors.append(f"images/{p}: no data record")
+# Generic UI art (not records): fixed allow-list, must exist, nothing else allowed under ui/.
+UI_IMAGES = {f"ui/empty-slot/{s}.webp" for s in ("perk", "item", "addon", "offering")}
+for p in sorted(UI_IMAGES - have): errors.append(f"images/{p}: expected UI image is missing")
+for p in sorted(have - set(expected)):
+    if p in UI_IMAGES: continue
+    errors.append(f"images/{p}: " + ("unexpected file under images/ui/ (allow-list in scripts/validate.py)" if p.startswith("ui/") else "no data record"))
 # Categories where record <-> image must match both ways: perks, power add-ons, items (+variants), item add-ons, offerings.
 STRICT = ("perks/", "offerings/", "items/")
 is_strict = lambda p: p.startswith(STRICT) or (p.startswith("powers/") and "/addons/" in p)

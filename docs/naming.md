@@ -27,6 +27,7 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 | killer / survivor perk | `perks-killer.json` / `perks-survivor.json` | `images/perks/{killer,survivor}/<slug>.webp` |
 | survivor | `survivors.json` | `images/survivors/portrait/<slug>.webp` |
 | offering | `offerings.json` | `images/offerings/<slug>.webp` |
+| empty-slot UI art | none (generic UI art, not a record) | `images/ui/empty-slot/<slot>.webp`, slot = `perk`\|`item`\|`addon`\|`offering`; fixed allow-list in `validate.py` |
 
 Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
 Aliases/abbreviations: `data/aliases/<type>.json` (currently `killers`, `maps`, `perks-killer`, `perks-survivor`), keyed by slug:
