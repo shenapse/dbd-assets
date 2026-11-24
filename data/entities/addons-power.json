@@ -3504,6 +3504,11 @@
     "name": "Bent Wheel",
     "rarity": 0
   },
+  "the-slasher/bloody-magazine": {
+    "killer": "the-slasher",
+    "name": "Bloody Magazine",
+    "rarity": 3
+  },
   "the-slasher/bloody-smile": {
     "killer": "the-slasher",
     "name": "Bloody Smile",

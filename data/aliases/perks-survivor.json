@@ -1,0 +1,67 @@
+{
+  "balanced-landing": {
+    "abbreviations": [
+      "BL"
+    ]
+  },
+  "boon-circle-of-healing": {
+    "abbreviations": [
+      "CoH"
+    ]
+  },
+  "borrowed-time": {
+    "abbreviations": [
+      "BT"
+    ]
+  },
+  "bound-by-obsession": {
+    "abbreviations": [
+      "OOO"
+    ]
+  },
+  "dead-hard": {
+    "abbreviations": [
+      "DH"
+    ]
+  },
+  "diversion": {
+    "aliases": [
+      "Pebble"
+    ]
+  },
+  "for-the-people": {
+    "abbreviations": [
+      "FTP"
+    ]
+  },
+  "made-for-this": {
+    "abbreviations": [
+      "MFT"
+    ]
+  },
+  "off-the-record": {
+    "abbreviations": [
+      "OTR"
+    ]
+  },
+  "sprint-burst": {
+    "abbreviations": [
+      "SB"
+    ]
+  },
+  "unbreakable": {
+    "abbreviations": [
+      "UB"
+    ]
+  },
+  "will-to-live": {
+    "abbreviations": [
+      "DS"
+    ]
+  },
+  "windows-of-opportunity": {
+    "aliases": [
+      "Run to Yellow"
+    ]
+  }
+}
