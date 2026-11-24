@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Checks: slug format, i18n/aliases keys exist, every image file maps to a record.
 Missing images are warnings (known gaps); everything else is an error. Exit 1 on errors."""
-import json, os, sys, glob
+import json, os, re, sys, glob
+from PIL import Image
 sys.path.insert(0, os.path.dirname(__file__))
 from lib.slug import SLUG_RE
 from lib.paths import ROOT
@@ -77,6 +78,18 @@ for p in sorted(set(expected) - have):
 for p in sorted(allow - missing):
     errors.append(f"scripts/known_missing_images.txt: '{p}' is listed but is no longer missing (or has no record); remove the line")
 for p in sorted(allow & missing): warns.append(f"missing image (known gap): {p}")
+
+# image dimensions (warnings only): larger is fine; warn only if width or height is below the minimum.
+# Minimums sit just under what the bulk of each category uses, so trimmed/cropped art does not trigger.
+# First matching rule wins.
+MIN_SIZES = [(r"^perks/", (256, 256)), (r"^offerings/", (256, 256)), (r"^powers/", (256, 256)), (r"^items/", (256, 256)),
+             (r"^(killers/(portrait|lore)|survivors/portrait)/", (400, 800))]
+for p in sorted(have):
+    want = next((sz for rx, sz in MIN_SIZES if re.match(rx, p)), None)
+    if want is None or not p.endswith(".webp"): continue
+    with Image.open(f"{ROOT}/images/{p}") as im: got = im.size
+    if got[0] < want[0] or got[1] < want[1]:
+        warns.append(f"image too small: images/{p} is {got[0]}x{got[1]}, minimum {want[0]}x{want[1]}")
 
 print(f"{len(errors)} errors, {len(warns)} warnings")
 for e in errors: print("ERROR", e)

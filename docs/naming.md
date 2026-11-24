@@ -38,5 +38,5 @@ When BHVR renames a perk, the record gets the new slug/`name` and keeps its old 
 Currently supported for killer/survivor perks only.
 
 ## Scripts
-- `scripts/validate.py` — slug format, referential integrity, image <-> record mapping (errors fail; missing images warn).
+- `scripts/validate.py` — slug format, referential integrity, image <-> record mapping, image dimensions (errors fail; known-gap missing images and images smaller than the per-category minimum warn). Run with `uv run python scripts/validate.py`.
 - `scripts/build_index.py` — writes `dist/index/*.json` and `dist/manifest.json` (slug path, size, sha1). Generated, git-ignored.
