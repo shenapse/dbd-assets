@@ -21,8 +21,8 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 | killer | `data/entities/killers.json` | `images/killers/{portrait,lore}/<slug>.webp` |
 | killer power | (same killer slug) | `images/powers/<killer>/icon.webp` |
 | power add-on `<killer>/<leaf>` | `data/entities/addons-power.json` | `images/powers/<killer>/addons/<leaf>.webp` |
-| item | `data/entities/items.json` (variants nested as a field) | `images/items/<item>/icon.webp` |
-| item variant `<item>/<variant>` | `items.json -> variants` | `images/items/<item>/variants/<variant>.webp` |
+| item | `data/entities/items.json` (variants nested as a field) | none (items have no representative icon) |
+| item variant `<item>/<variant>` | `items.json -> variants` | `images/items/<item>/variants/<variant>.webp`; a variant whose slug equals the item slug (flashlight, toolbox, firecracker) is `images/items/<item>/icon.webp` instead |
 | item add-on `<item>/<leaf>` | `data/entities/addons-item.json` | `images/items/<item>/addons/<leaf>.webp` |
 | killer / survivor perk | `perks-killer.json` / `perks-survivor.json` | `images/perks/{killer,survivor}/<slug>.webp` |
 | survivor | `survivors.json` | `images/survivors/portrait/<slug>.webp` |

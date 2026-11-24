@@ -1,6 +1,2 @@
 # Known gaps: records without an image in strict categories (perks, power/item add-ons, items, offerings).
 # Remove a line once the image is added; CI fails if a listed file is no longer missing.
-items/fog-vial/icon.webp
-items/key/icon.webp
-items/map/icon.webp
-items/med-kit/icon.webp

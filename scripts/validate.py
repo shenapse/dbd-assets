@@ -54,12 +54,15 @@ for k in ent["killers"]:
     exp(f"powers/{k}/icon.webp", k)
 for k in ent["addons-power"]: p, l = k.split("/"); exp(f"powers/{p}/addons/{l}.webp", k)
 for t, v in ent["items"].items():
-    exp(f"items/{t}/icon.webp", t)
-    for vs in v["variants"]: exp(f"items/{t}/variants/{vs}.webp", f"{t}/{vs}")
+    # An item has no representative icon of its own. Only the variant sharing the item's slug (flashlight, toolbox,
+    # firecracker) is stored as icon.webp; every other variant (incl. the uncommon one, e.g. artisan-s-fog-vial,
+    # dull-key, scribbled-map, first-aid-kit) lives in variants/.
+    for vs in v["variants"]:
+        if vs == t: exp(f"items/{t}/icon.webp", f"{t}/{vs}")
+        else: exp(f"items/{t}/variants/{vs}.webp", f"{t}/{vs}")
 for k in ent["addons-item"]: p, l = k.split("/"); exp(f"items/{p}/addons/{l}.webp", k)
 have = {os.path.relpath(p, f"{ROOT}/images") for p in glob.glob(f"{ROOT}/images/**/*", recursive=True) if os.path.isfile(p)}
 for p in sorted(have - set(expected)): errors.append(f"images/{p}: no data record")
-# a variant sharing its item's name uses icon.webp (e.g. flashlight); not a gap
 # Categories where record <-> image must match both ways: perks, power add-ons, items (+variants), item add-ons, offerings.
 STRICT = ("perks/", "offerings/", "items/")
 is_strict = lambda p: p.startswith(STRICT) or (p.startswith("powers/") and "/addons/" in p)
@@ -69,7 +72,6 @@ if os.path.exists(allow_f):
     allow = {l.strip() for l in open(allow_f, encoding="utf-8") if l.strip() and not l.startswith("#")}
 missing = set()
 for p in sorted(set(expected) - have):
-    if "/variants/" in p and f"items/{p.split('/')[1]}/icon.webp" in have and p.split("/")[1] == os.path.basename(p)[:-5]: continue
     missing.add(p)
     if not is_strict(p): warns.append(f"missing image: {p}")
     elif p not in allow:
