@@ -1,0 +1,516 @@
+{
+  "retrieved_on": "2026-11-24",
+  "source": "Official Dead by Daylight Wiki",
+  "target_size": [
+    512,
+    1024
+  ],
+  "processing": "Original artwork preserved at native resolution, bottom-centered on a transparent canvas; no resizing or cropping.",
+  "encoding": {
+    "format": "WebP",
+    "quality": 95,
+    "method": 6
+  },
+  "portraits": {
+    "ace-visconti": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Ace_Visconti",
+      "image_url": "https://deadbydaylight.wiki.gg/images/DS_AV_charPreview.png",
+      "source_size": [
+        502,
+        983
+      ],
+      "source_sha256": "e3e93e3d621c9da2b48d77b758bc14e07bc6b72fbd9ff013330bade49609633c",
+      "path": "images/survivors/portrait/ace-visconti.webp"
+    },
+    "ada-wong": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Ada_Wong",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S32_storeBackground.png",
+      "source_size": [
+        398,
+        991
+      ],
+      "source_sha256": "7f904d61988753ea0344c0bc7c5260b5e18151df7d07d1f84ecb40fb42f91b23",
+      "path": "images/survivors/portrait/ada-wong.webp"
+    },
+    "adam-francis": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Adam_Francis",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_HS.png",
+      "source_size": [
+        512,
+        1004
+      ],
+      "source_sha256": "be10dc816a541b22603882e5411175026903921cbab421c999603f1a3cf27701",
+      "path": "images/survivors/portrait/adam-francis.webp"
+    },
+    "aestri-yazar": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aestri_Yazar",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S42_storeBackground.png",
+      "source_size": [
+        512,
+        1003
+      ],
+      "source_sha256": "665019975e094ad0c0cbd7ab3a561c0398aaab1162ae94066b08b00059e07c0f",
+      "path": "images/survivors/portrait/aestri-yazar.webp"
+    },
+    "ashley-j-williams": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Ashley_J._Williams",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_AW.png",
+      "source_size": [
+        500,
+        1013
+      ],
+      "source_sha256": "247bdeadf51b9657cc2b1a4a554e80ddab953c7d2c219ffd81cad543f14952ae",
+      "path": "images/survivors/portrait/ashley-j-williams.webp"
+    },
+    "cheryl-mason": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Cheryl_Mason",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_WS.png",
+      "source_size": [
+        483,
+        970
+      ],
+      "source_sha256": "c9dd1f2c206c57c95ea42494d35bf1e05b5aa5d603702eac53b589cd59c951b7",
+      "path": "images/survivors/portrait/cheryl-mason.webp"
+    },
+    "claudette-morel": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Claudette_Morel",
+      "image_url": "https://deadbydaylight.wiki.gg/images/AS_CM_charPreview.png",
+      "source_size": [
+        512,
+        1005
+      ],
+      "source_sha256": "50a6dc1aba2abaceb66eef30913d5352c983b930d424ac1b8682c3caaafb1ebe",
+      "path": "images/survivors/portrait/claudette-morel.webp"
+    },
+    "david-king": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/David_King",
+      "image_url": "https://deadbydaylight.wiki.gg/images/DavidStore.png",
+      "source_size": [
+        512,
+        991
+      ],
+      "source_sha256": "9196bda6f2d7cd9014f25e51a8edd6b77bca0bc307e621b7b169e8841032c6fb",
+      "path": "images/survivors/portrait/david-king.webp"
+    },
+    "david-tapp": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/David_Tapp",
+      "image_url": "https://deadbydaylight.wiki.gg/images/FS_DT_charPreview.png",
+      "source_size": [
+        512,
+        998
+      ],
+      "source_sha256": "6063e7b08203070dd2f01479d017e1b75b4373ff8fc93605852a0726a8e13c3b",
+      "path": "images/survivors/portrait/david-tapp.webp"
+    },
+    "dustin-henderson": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Dustin_Henderson",
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S50_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "f762b26ce1be21547d714774ccbe8cb8d8152933d6c6845f90e05a16ea856505",
+      "path": "images/survivors/portrait/dustin-henderson.webp"
+    },
+    "dwight-fairfield": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Dwight_Fairfield",
+      "image_url": "https://deadbydaylight.wiki.gg/images/DwightStore.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "3d9d2f12daa87b9f02f90fd77cb1eb88c4a603afcc9a3938d0c932251947a7d5",
+      "path": "images/survivors/portrait/dwight-fairfield.webp"
+    },
+    "eleven": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Eleven",
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S51_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "73a95e66c611f898397ebc73aa7ffcdc56bd6e9cc1096286f51707c1c46456d8",
+      "path": "images/survivors/portrait/eleven.webp"
+    },
+    "ellen-ripley": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Ellen_Ripley",
+      "image_url": "https://deadbydaylight.wiki.gg/images/Store_Ellen.png",
+      "source_size": [
+        496,
+        980
+      ],
+      "source_sha256": "5273796279ac562e57689b3e5958f8c27e4543b8a887e2e5dc4eae01a617e81d",
+      "path": "images/survivors/portrait/ellen-ripley.webp"
+    },
+    "elodie-rakoto": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/%C3%89lodie_Rakoto",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_S24.png",
+      "source_size": [
+        500,
+        1021
+      ],
+      "source_sha256": "edb3a7327972b391a2e9e0d7c0f70ab1046aa09231a1541f4dc6b9c8f63fe143",
+      "path": "images/survivors/portrait/elodie-rakoto.webp"
+    },
+    "felix-richter": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Felix_Richter",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_YS.png",
+      "source_size": [
+        500,
+        1013
+      ],
+      "source_sha256": "304fa890c7afc27021ef71d286087e694219349d85ede94247b775223ef5a2ba",
+      "path": "images/survivors/portrait/felix-richter.webp"
+    },
+    "feng-min": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Feng_Min",
+      "image_url": "https://deadbydaylight.wiki.gg/images/FengStore.png",
+      "source_size": [
+        433,
+        963
+      ],
+      "source_sha256": "0dd1d537739d8f578ab1cbabe6f16cb39049d452194dad15e3c1f4b1c56e660c",
+      "path": "images/survivors/portrait/feng-min.webp"
+    },
+    "gabriel-soma": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Gabriel_Soma",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S37_storeBackground.png",
+      "source_size": [
+        464,
+        980
+      ],
+      "source_sha256": "7cd75bd62cb35e349b20d0dd217bb68daab29a5ab10b3dac18ea630048d222d8",
+      "path": "images/survivors/portrait/gabriel-soma.webp"
+    },
+    "haddie-kaur": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Haddie_Kaur",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S31_storeBackground.png",
+      "source_size": [
+        512,
+        990
+      ],
+      "source_sha256": "f83fa3dda91459b3ab45f1452d3db190fa811b5c6cfd2d841ae86f5ba058f378",
+      "path": "images/survivors/portrait/haddie-kaur.webp"
+    },
+    "jake-park": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Jake_Park",
+      "image_url": "https://deadbydaylight.wiki.gg/images/JakeStore.png",
+      "source_size": [
+        512,
+        1013
+      ],
+      "source_sha256": "9314592c417a52d87dbc3f88567029228d1126b3fc29dc6485e4215bcf69f747",
+      "path": "images/survivors/portrait/jake-park.webp"
+    },
+    "jane-romero": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Jane_Romero",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_MS.png",
+      "source_size": [
+        465,
+        998
+      ],
+      "source_sha256": "c4b5638f4e530d77e382c109b3b21573dbd6abb8be75908fa4c9cb592ceb2959",
+      "path": "images/survivors/portrait/jane-romero.webp"
+    },
+    "jeff-johansen": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Jeff_Johansen",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_KS.png",
+      "source_size": [
+        496,
+        987
+      ],
+      "source_sha256": "511a3ea6d6a8c1df64501d2cc7a5424c6b56796d063b4c8dbdc3c99588eb916c",
+      "path": "images/survivors/portrait/jeff-johansen.webp"
+    },
+    "jill-valentine": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Jill_Valentine",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S26_storeBackground.png",
+      "source_size": [
+        512,
+        975
+      ],
+      "source_sha256": "8b3630471694106d8220b7dbc42656de5d2fda54a85edf0cdad12a1da1c4928d",
+      "path": "images/survivors/portrait/jill-valentine.webp"
+    },
+    "jonah-vasquez": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Jonah_Vasquez",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S29_storeBackground.png",
+      "source_size": [
+        512,
+        1007
+      ],
+      "source_sha256": "2aa17f4d7ca0885433b8ba6cf7ffd6eda21dca704ffa2e08b3254f5b18ece983",
+      "path": "images/survivors/portrait/jonah-vasquez.webp"
+    },
+    "kate-denson": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Kate_Denson",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_GS.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "41a91b5d23be1e88f20d2db07679bea965fb5d930dd2c20912c55f9fc810775a",
+      "path": "images/survivors/portrait/kate-denson.webp"
+    },
+    "kwon-tae-young": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Kwon_Tae-young",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S52_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "f7d00e6e2eb38cebd49f7a86c36adf9d6e3e192742e6e3e3e178c466bb0d096f",
+      "path": "images/survivors/portrait/kwon-tae-young.webp"
+    },
+    "lara-croft": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Lara_Croft",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S43_storeBackground.png",
+      "source_size": [
+        512,
+        989
+      ],
+      "source_sha256": "bd774f625e8099ce5a33f89fb2185502bcc7b1837d69c92a3693e943fd031d15",
+      "path": "images/survivors/portrait/lara-croft.webp"
+    },
+    "laurie-strode": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Laurie_Strode",
+      "image_url": "https://deadbydaylight.wiki.gg/images/LaurieStore.png",
+      "source_size": [
+        482,
+        995
+      ],
+      "source_sha256": "3d97f07f2772a3ebbb38c41e848d281b0bee4ff8bbca473209a63a05546d4c5e",
+      "path": "images/survivors/portrait/laurie-strode.webp"
+    },
+    "leon-s-kennedy": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Leon_S._Kennedy",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S27_storeBackground.png",
+      "source_size": [
+        512,
+        995
+      ],
+      "source_sha256": "0c3251694d7b2dbe3bf9664d4048f8000975050550f1d88ad65b8e4354c9b09e",
+      "path": "images/survivors/portrait/leon-s-kennedy.webp"
+    },
+    "meg-thomas": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Meg_Thomas",
+      "image_url": "https://deadbydaylight.wiki.gg/images/AS_MT_charPreview.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "ff0570047486694e7aa9c9793284a3e713e57896acf497e8451d8c238d4c0195",
+      "path": "images/survivors/portrait/meg-thomas.webp"
+    },
+    "michonne-grimes": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Michonne_Grimes",
+      "image_url": "https://deadbydaylight.wiki.gg/images/MichonneStore.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "e82ef4449f5590e596485107f02cc90c0055341860189d587bdd1d3878796a6e",
+      "path": "images/survivors/portrait/michonne-grimes.webp"
+    },
+    "mikaela-reid": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Mikaela_Reid",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S28_storeBackground.png",
+      "source_size": [
+        512,
+        994
+      ],
+      "source_sha256": "6fdf08f274fba31220ced91de3e3ac58df1d64065fab6c78e6370fd3bb0abac6",
+      "path": "images/survivors/portrait/mikaela-reid.webp"
+    },
+    "nancy-wheeler": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Nancy_Wheeler",
+      "image_url": "https://deadbydaylight.wiki.gg/images/QF_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "4c5ae348158cbf2fed7a34c3800ebb156e308d76fc03095291cbf91d326ab41c",
+      "path": "images/survivors/portrait/nancy-wheeler.webp"
+    },
+    "nea-karlsson": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Nea_Karlsson",
+      "image_url": "https://deadbydaylight.wiki.gg/images/NeaStore.png",
+      "source_size": [
+        481,
+        993
+      ],
+      "source_sha256": "fe91151a39b674984dce0f752df78dcf8c8872363f0fe3950efc1a12c1e50d7b",
+      "path": "images/survivors/portrait/nea-karlsson.webp"
+    },
+    "orela-rose": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Orela_Rose",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S46_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "95718d635f65d4897322ff8b5f94a7aed7e6fed29d2d8f2248d4e1c1ef5006f3",
+      "path": "images/survivors/portrait/orela-rose.webp"
+    },
+    "quentin-smith": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Quentin_Smith",
+      "image_url": "https://deadbydaylight.wiki.gg/images/QuentinStore.png",
+      "source_size": [
+        512,
+        1008
+      ],
+      "source_sha256": "138fdf48f4c3ae90ff0e59dc65c0899dc4dba509be536a985b93f702df7fda1e",
+      "path": "images/survivors/portrait/quentin-smith.webp"
+    },
+    "rebecca-chambers": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Rebecca_Chambers",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S33_storeBackground.png",
+      "source_size": [
+        468,
+        977
+      ],
+      "source_sha256": "0d0687fbefa1a24507bc0895ded41e03388be79e09166245e97ab43e23bd44bb",
+      "path": "images/survivors/portrait/rebecca-chambers.webp"
+    },
+    "renato-lyra": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Renato_Lyra",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S36_storeBackground.png",
+      "source_size": [
+        490,
+        981
+      ],
+      "source_sha256": "aab5e6459c6ced161328bd755fcd1cbe99bd71f422c08c6da4a131102251e5f3",
+      "path": "images/survivors/portrait/renato-lyra.webp"
+    },
+    "rick-grimes": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Rick_Grimes",
+      "image_url": "https://deadbydaylight.wiki.gg/images/RickGrimesStore.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "ddedebd43e3253a6122bc7dbd032f4b668cf08931817264b200ddad8e36e59cd",
+      "path": "images/survivors/portrait/rick-grimes.webp"
+    },
+    "sable-ward": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sable_Ward",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S41_storeBackground.png",
+      "source_size": [
+        479,
+        969
+      ],
+      "source_sha256": "4e875ebdfd03700338daabc19f1b89b9d22eb0276e5bb2baa693be38deae12c1",
+      "path": "images/survivors/portrait/sable-ward.webp"
+    },
+    "steve-harrington": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Steve_Harrington",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_QM.png",
+      "source_size": [
+        500,
+        1023
+      ],
+      "source_sha256": "72e90b4f1b92591163cec194b1e6e0bd0932707a1fa6e93c50f6ccdcd4746a77",
+      "path": "images/survivors/portrait/steve-harrington.webp"
+    },
+    "taurie-cain": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Taurie_Cain",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S45_storeBackground.png",
+      "source_size": [
+        512,
+        996
+      ],
+      "source_sha256": "495d51aa819a7ee4ea71c8ae0ad8dc9d5f3285d8dfd6c25d447ad2c9964ab7b6",
+      "path": "images/survivors/portrait/taurie-cain.webp"
+    },
+    "thalita-lyra": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Thalita_Lyra",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S35_storeBackground.png",
+      "source_size": [
+        428,
+        980
+      ],
+      "source_sha256": "09154add946d62a5c5d6673d47856f7ce7ebc13089d7b987e41887b3cb9926ec",
+      "path": "images/survivors/portrait/thalita-lyra.webp"
+    },
+    "trevor-belmont": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Trevor_Belmont",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S44_storeBackground.png",
+      "source_size": [
+        512,
+        985
+      ],
+      "source_sha256": "3fceade134a3cb4bf1374bf9481cc00216a1925afd9273833e424a51146351ce",
+      "path": "images/survivors/portrait/trevor-belmont.webp"
+    },
+    "vee-boonyasak": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Vee_Boonyasak",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S49_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "8925229f8ab25ec6d3916dc492cfb10149fee25d12ed20340d1131bee816bce3",
+      "path": "images/survivors/portrait/vee-boonyasak.webp"
+    },
+    "vittorio-toscano": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Vittorio_Toscano",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S34_storeBackground.png",
+      "source_size": [
+        512,
+        1000
+      ],
+      "source_sha256": "67f16ac244dbad8d5d73f500e4e1bf077b920b1b81b3a41f5839534659600df6",
+      "path": "images/survivors/portrait/vittorio-toscano.webp"
+    },
+    "william-bill-overbeck": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/William_%22Bill%22_Overbeck",
+      "image_url": "https://deadbydaylight.wiki.gg/images/DS_BO_charPreview.png",
+      "source_size": [
+        472,
+        994
+      ],
+      "source_sha256": "62cabef1161e9959e23c56947a0e671896f6b891ffb5a2ef8588d7ebcac827b1",
+      "path": "images/survivors/portrait/william-bill-overbeck.webp"
+    },
+    "yoichi-asakawa": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Yoichi_Asakawa",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S30_storeBackground.png",
+      "source_size": [
+        512,
+        1020
+      ],
+      "source_sha256": "5dd2c6d9d98b46312286a7ba29c6b376e42b3ea92894c89301ff11e1429a21a1",
+      "path": "images/survivors/portrait/yoichi-asakawa.webp"
+    },
+    "yui-kimura": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Yui_Kimura",
+      "image_url": "https://deadbydaylight.wiki.gg/images/StoreBackground_SS.png",
+      "source_size": [
+        482,
+        998
+      ],
+      "source_sha256": "d3c99a8478e5cc953862acf8f5aeaef2acf20341415da5a6db85a14b85f699c7",
+      "path": "images/survivors/portrait/yui-kimura.webp"
+    },
+    "yun-jin-lee": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Yun-Jin_Lee",
+      "image_url": "https://deadbydaylight.wiki.gg/images/S25_storeBackground.png",
+      "source_size": [
+        505,
+        980
+      ],
+      "source_sha256": "f038c21e7b7deb28e33932b27066b5df103c69aea3a764dafbbdb2f6d72b264f",
+      "path": "images/survivors/portrait/yun-jin-lee.webp"
+    },
+    "zarina-kassir": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Zarina_Kassir",
+      "image_url": "https://deadbydaylight.wiki.gg/images/US_storeBackground.png",
+      "source_size": [
+        427,
+        1000
+      ],
+      "source_sha256": "a44fcb0d061afb52d311fb47ebb4797fbe62f0d1cfd9d454d7d7b98c53c9f0b1",
+      "path": "images/survivors/portrait/zarina-kassir.webp"
+    }
+  }
+}
