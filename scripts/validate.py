@@ -34,8 +34,18 @@ for f in glob.glob(f"{ROOT}/data/aliases/*.json"):
 # images <-> records
 expected = {}
 def exp(path, label): expected[path] = label
-for k in ent["perks-killer"]: exp(f"perks/killer/{k}.webp", k)
-for k in ent["perks-survivor"]: exp(f"perks/survivor/{k}.webp", k)
+# A renamed perk keeps its old file: "renamed_from": {"slug": <old slug>, "name": <old name>} -> image stored under the old slug.
+for side in ("killer", "survivor"):
+    recs = ent[f"perks-{side}"]
+    for k, v in recs.items():
+        r = v.get("renamed_from")
+        if r is None: exp(f"perks/{side}/{k}.webp", k); continue
+        old = r.get("slug", "") if isinstance(r, dict) else ""
+        if not SLUG_RE.match(old) or not r.get("name"): errors.append(f"perks-{side}: {k}: renamed_from needs valid 'slug' and 'name'"); continue
+        if old in recs: errors.append(f"perks-{side}: {k}: renamed_from slug '{old}' is also a live record")
+        path = f"perks/{side}/{old}.webp"
+        if path in expected: errors.append(f"perks-{side}: {k}: image {path} is already claimed by '{expected[path]}'")
+        exp(path, f"{k} (renamed from {old})")
 for k in ent["offerings"]: exp(f"offerings/{k}.webp", k)
 for k in ent["survivors"]: exp(f"survivors/portrait/{k}.webp", k)
 for k in ent["killers"]:
@@ -49,9 +59,24 @@ for k in ent["addons-item"]: p, l = k.split("/"); exp(f"items/{p}/addons/{l}.web
 have = {os.path.relpath(p, f"{ROOT}/images") for p in glob.glob(f"{ROOT}/images/**/*", recursive=True) if os.path.isfile(p)}
 for p in sorted(have - set(expected)): errors.append(f"images/{p}: no data record")
 # a variant sharing its item's name uses icon.webp (e.g. flashlight); not a gap
+# Categories where record <-> image must match both ways: perks, power add-ons, items (+variants), item add-ons, offerings.
+STRICT = ("perks/", "offerings/", "items/")
+is_strict = lambda p: p.startswith(STRICT) or (p.startswith("powers/") and "/addons/" in p)
+allow_f = os.path.join(os.path.dirname(os.path.abspath(__file__)), "known_missing_images.txt")
+allow = set()
+if os.path.exists(allow_f):
+    allow = {l.strip() for l in open(allow_f, encoding="utf-8") if l.strip() and not l.startswith("#")}
+missing = set()
 for p in sorted(set(expected) - have):
     if "/variants/" in p and f"items/{p.split('/')[1]}/icon.webp" in have and p.split("/")[1] == os.path.basename(p)[:-5]: continue
-    warns.append(f"missing image: {p}")
+    missing.add(p)
+    if not is_strict(p): warns.append(f"missing image: {p}")
+    elif p not in allow:
+        errors.append(f"images/{p}: record '{expected[p]}' exists in data/ but has no image file. "
+                      f"Add the image, or remove the record. (Known gaps: scripts/known_missing_images.txt)")
+for p in sorted(allow - missing):
+    errors.append(f"scripts/known_missing_images.txt: '{p}' is listed but is no longer missing (or has no record); remove the line")
+for p in sorted(allow & missing): warns.append(f"missing image (known gap): {p}")
 
 print(f"{len(errors)} errors, {len(warns)} warnings")
 for e in errors: print("ERROR", e)

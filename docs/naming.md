@@ -31,6 +31,12 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
 Aliases/abbreviations: `data/aliases/<type>.json`.
 
+## Renamed perks
+When BHVR renames a perk, the record gets the new slug/`name` and keeps its old image file untouched:
+`"renamed_from": {"slug": "decisive-strike", "name": "Decisive Strike"}` -> image stays at `images/perks/survivor/decisive-strike.webp`.
+`validate.py` resolves the image through `renamed_from.slug` and errors if that slug is also a live record or its file is claimed twice.
+Currently supported for killer/survivor perks only.
+
 ## Scripts
 - `scripts/validate.py` — slug format, referential integrity, image <-> record mapping (errors fail; missing images warn).
 - `scripts/build_index.py` — writes `dist/index/*.json` and `dist/manifest.json` (slug path, size, sha1). Generated, git-ignored.
