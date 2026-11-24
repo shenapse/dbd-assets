@@ -1,0 +1,36 @@
+# Naming rules
+
+The **slug** is the only ID. It is also the file/folder name.
+
+```
+slug    := segment | segment "/" segment      # second form only for add-ons: <parent>/<leaf>
+segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
+```
+
+- Source is the English display name: fold accents (NFKD), remove ™ ® ©, replace every other run of
+  non-alphanumerics with `-`, lowercase, trim `-`. (`Bonnie's` -> `bonnie-s`, `Matias'` -> `matias`.)
+  Implementation: `scripts/lib/slug.py`.
+- A slug is **frozen** once created. Renames change `name`, not the slug or the file.
+- Slugs are unique per type (killer perks, survivor perks, power add-ons, item add-ons are separate types).
+- Add-on identity includes its parent: `the-nurse/pocket-watch` != `the-dark-lord/pocket-watch`.
+
+## Where things live
+
+| Record | Data | Image |
+|---|---|---|
+| killer | `data/entities/killers.json` | `images/killers/{portrait,lore}/<slug>.webp` |
+| killer power | (same killer slug) | `images/powers/<killer>/icon.webp` |
+| power add-on `<killer>/<leaf>` | `data/entities/addons-power.json` | `images/powers/<killer>/addons/<leaf>.webp` |
+| item | `data/entities/items.json` (variants nested as a field) | `images/items/<item>/icon.webp` |
+| item variant `<item>/<variant>` | `items.json -> variants` | `images/items/<item>/variants/<variant>.webp` |
+| item add-on `<item>/<leaf>` | `data/entities/addons-item.json` | `images/items/<item>/addons/<leaf>.webp` |
+| killer / survivor perk | `perks-killer.json` / `perks-survivor.json` | `images/perks/{killer,survivor}/<slug>.webp` |
+| survivor | `survivors.json` | `images/survivors/portrait/<slug>.webp` |
+| offering | `offerings.json` | `images/offerings/<slug>.webp` |
+
+Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
+Aliases/abbreviations: `data/aliases/<type>.json`.
+
+## Scripts
+- `scripts/validate.py` — slug format, referential integrity, image <-> record mapping (errors fail; missing images warn).
+- `scripts/build_index.py` — writes `dist/index/*.json` and `dist/manifest.json` (slug path, size, sha1). Generated, git-ignored.
