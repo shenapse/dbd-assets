@@ -39,6 +39,10 @@
     "name": "Faint Reagent",
     "side": "killer"
   },
+  "hartshorne-rewards-tote": {
+    "name": "Hartshorne Rewards Tote",
+    "side": "both"
+  },
   "hazy-reagent": {
     "name": "Hazy Reagent",
     "side": "killer"

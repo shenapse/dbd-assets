@@ -1,5 +1,5 @@
 {
-  "retrieved_on": "2026-11-24",
+  "retrieved_on": "2026-11-25",
   "source": "Official Dead by Daylight Wiki",
   "target_size": [
     512,
@@ -61,6 +61,16 @@
       ],
       "source_sha256": "247bdeadf51b9657cc2b1a4a554e80ddab953c7d2c219ffd81cad543f14952ae",
       "path": "images/survivors/portrait/ashley-j-williams.webp"
+    },
+    "aurora-stardotter": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aurora_Stardotter",
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S54_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "91e9589ca3abfc1b37c58d69791df2902756f6c4515f8e5a48d542ccfa95af98",
+      "path": "images/survivors/portrait/aurora-stardotter.webp"
     },
     "cheryl-mason": {
       "page_url": "https://deadbydaylight.wiki.gg/wiki/Cheryl_Mason",
@@ -401,6 +411,16 @@
       ],
       "source_sha256": "4e875ebdfd03700338daabc19f1b89b9d22eb0276e5bb2baa693be38deae12c1",
       "path": "images/survivors/portrait/sable-ward.webp"
+    },
+    "sienna-shaw": {
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sienna_Shaw",
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S55_storeBackground.png",
+      "source_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "8e4586741c588ee195e557b49afa5215a2bcc936d400127d8e7d419a778cf23a",
+      "path": "images/survivors/portrait/sienna-shaw.webp"
     },
     "steve-harrington": {
       "page_url": "https://deadbydaylight.wiki.gg/wiki/Steve_Harrington",

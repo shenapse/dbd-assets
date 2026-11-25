@@ -45,6 +45,9 @@
   "bardic-inspiration": {
     "name": "Bardic Inspiration"
   },
+  "best-gift-ever": {
+    "name": "Best Gift Ever"
+  },
   "better-than-new": {
     "name": "Better than New"
   },
@@ -87,6 +90,9 @@
   },
   "boon-shadow-step": {
     "name": "Boon: Shadow Step"
+  },
+  "boon-steadfast": {
+    "name": "Boon: Steadfast"
   },
   "borrowed-time": {
     "name": "Borrowed Time"
@@ -250,6 +256,9 @@
   },
   "friendly-competition": {
     "name": "Friendly Competition"
+  },
+  "fruits-of-your-labor": {
+    "name": "Fruits of Your Labor"
   },
   "ghost-notes": {
     "name": "Ghost Notes"
@@ -417,6 +426,9 @@
   "saboteur": {
     "name": "Saboteur"
   },
+  "salvation-s-cry": {
+    "name": "Salvation's Cry"
+  },
   "scavenger": {
     "name": "Scavenger"
   },
@@ -435,6 +447,9 @@
   },
   "self-preservation": {
     "name": "Self-Preservation"
+  },
+  "shared-trauma": {
+    "name": "Shared Trauma"
   },
   "shoulder-the-burden": {
     "name": "Shoulder the Burden"
@@ -513,6 +528,9 @@
   },
   "urban-evasion": {
     "name": "Urban Evasion"
+  },
+  "valkyrie-s-rage": {
+    "name": "Valkyrie's Rage"
   },
   "vigil": {
     "name": "Vigil"
