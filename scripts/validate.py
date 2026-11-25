@@ -52,6 +52,11 @@ for k in ent["survivors"]: exp(f"survivors/portrait/{k}.webp", k)
 for k in ent["killers"]:
     exp(f"killers/portrait/{k}.webp", k)
     exp(f"powers/{k}/icon.webp", k)
+# Map icons and realm artwork are optional; validate any that are provided.
+for kind in ("maps", "realms"):
+    for k in ent[kind]:
+        path = f"{kind}/{k}.webp"
+        if os.path.isfile(f"{ROOT}/images/{path}"): exp(path, k)
 for k in ent["addons-power"]: p, l = k.split("/"); exp(f"powers/{p}/addons/{l}.webp", k)
 for t, v in ent["items"].items():
     # An item has no representative icon of its own. Only the variant sharing the item's slug (flashlight, toolbox,

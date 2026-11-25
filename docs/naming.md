@@ -27,6 +27,8 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 | killer / survivor perk | `perks-killer.json` / `perks-survivor.json` | `images/perks/{killer,survivor}/<slug>.webp` |
 | survivor | `survivors.json` | `images/survivors/portrait/<slug>.webp` |
 | offering | `offerings.json` | `images/offerings/<slug>.webp` |
+| map (optional icon) | `maps.json` | `images/maps/<slug>.webp` |
+| realm (optional artwork) | `realms.json` | `images/realms/<slug>.webp` |
 
 Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
 Aliases/abbreviations: `data/aliases/<type>.json`.
