@@ -1999,6 +1999,106 @@
     "name": "Yellowed Cloth",
     "rarity": 0
   },
+  "the-judgement/aurora-s-telereceptor": {
+    "killer": "the-judgement",
+    "name": "Aurora's Telereceptor",
+    "rarity": 1
+  },
+  "the-judgement/blindfold-of-the-devoted": {
+    "killer": "the-judgement",
+    "name": "Blindfold of the Devoted",
+    "rarity": 2
+  },
+  "the-judgement/chains-of-the-heretic": {
+    "killer": "the-judgement",
+    "name": "Chains of the Heretic",
+    "rarity": 3
+  },
+  "the-judgement/confessor-s-war-horn": {
+    "killer": "the-judgement",
+    "name": "Confessor's War Horn",
+    "rarity": 1
+  },
+  "the-judgement/crown-of-the-destroyer": {
+    "killer": "the-judgement",
+    "name": "Crown of the Destroyer",
+    "rarity": 3
+  },
+  "the-judgement/electric-torch": {
+    "killer": "the-judgement",
+    "name": "Electric Torch",
+    "rarity": 2
+  },
+  "the-judgement/eyes-of-gerhardt": {
+    "killer": "the-judgement",
+    "name": "Eyes of Gerhardt",
+    "rarity": 3
+  },
+  "the-judgement/heretic-s-mark": {
+    "killer": "the-judgement",
+    "name": "Heretic's Mark",
+    "rarity": 0
+  },
+  "the-judgement/holy-winged-icon": {
+    "killer": "the-judgement",
+    "name": "Holy Winged Icon",
+    "rarity": 2
+  },
+  "the-judgement/improvised-detonators": {
+    "killer": "the-judgement",
+    "name": "Improvised Detonators",
+    "rarity": 3
+  },
+  "the-judgement/koenrad-s-gauntlet": {
+    "killer": "the-judgement",
+    "name": "Koenrad's Gauntlet",
+    "rarity": 0
+  },
+  "the-judgement/magnetized-manacles": {
+    "killer": "the-judgement",
+    "name": "Magnetized Manacles",
+    "rarity": 1
+  },
+  "the-judgement/mark-of-the-adherent": {
+    "killer": "the-judgement",
+    "name": "Mark of the Adherent",
+    "rarity": 1
+  },
+  "the-judgement/mirror-of-the-creators": {
+    "killer": "the-judgement",
+    "name": "Mirror of the Creators",
+    "rarity": 4
+  },
+  "the-judgement/obsidian-feather": {
+    "killer": "the-judgement",
+    "name": "Obsidian Feather",
+    "rarity": 4
+  },
+  "the-judgement/order-of-inquisition": {
+    "killer": "the-judgement",
+    "name": "Order of Inquisition",
+    "rarity": 2
+  },
+  "the-judgement/prayer-kneeler": {
+    "killer": "the-judgement",
+    "name": "Prayer Kneeler",
+    "rarity": 0
+  },
+  "the-judgement/searcher-s-skull": {
+    "killer": "the-judgement",
+    "name": "Searcher's Skull",
+    "rarity": 0
+  },
+  "the-judgement/superheated-glass": {
+    "killer": "the-judgement",
+    "name": "Superheated Glass",
+    "rarity": 2
+  },
+  "the-judgement/undying-flame": {
+    "killer": "the-judgement",
+    "name": "Undying Flame",
+    "rarity": 1
+  },
   "the-knight/battle-axe-head": {
     "killer": "the-knight",
     "name": "Battle Axe Head",
@@ -3693,6 +3793,106 @@
     "killer": "the-spirit",
     "name": "Zori",
     "rarity": 0
+  },
+  "the-terrifier/allie-s-scalp": {
+    "killer": "the-terrifier",
+    "name": "Allie's Scalp",
+    "rarity": 0
+  },
+  "the-terrifier/art-crispies": {
+    "killer": "the-terrifier",
+    "name": "Art Crispies",
+    "rarity": 3
+  },
+  "the-terrifier/blackened-heart": {
+    "killer": "the-terrifier",
+    "name": "Blackened Heart",
+    "rarity": 0
+  },
+  "the-terrifier/bloodstained-bullet": {
+    "killer": "the-terrifier",
+    "name": "Bloodstained Bullet",
+    "rarity": 1
+  },
+  "the-terrifier/bottle-of-bleach": {
+    "killer": "the-terrifier",
+    "name": "Bottle of Bleach",
+    "rarity": 0
+  },
+  "the-terrifier/brooke-s-pustule": {
+    "killer": "the-terrifier",
+    "name": "Brooke's Pustule",
+    "rarity": 1
+  },
+  "the-terrifier/burnt-wings": {
+    "killer": "the-terrifier",
+    "name": "Burnt Wings",
+    "rarity": 1
+  },
+  "the-terrifier/candy-head-bowl": {
+    "killer": "the-terrifier",
+    "name": "Candy Head Bowl",
+    "rarity": 2
+  },
+  "the-terrifier/dead-opossum": {
+    "killer": "the-terrifier",
+    "name": "Dead Opossum",
+    "rarity": 2
+  },
+  "the-terrifier/duct-tape": {
+    "killer": "the-terrifier",
+    "name": "Duct Tape",
+    "rarity": 4
+  },
+  "the-terrifier/emily": {
+    "killer": "the-terrifier",
+    "name": "Emily",
+    "rarity": 2
+  },
+  "the-terrifier/explosive-gift": {
+    "killer": "the-terrifier",
+    "name": "Explosive Gift",
+    "rarity": 3
+  },
+  "the-terrifier/jonathan-s-skull": {
+    "killer": "the-terrifier",
+    "name": "Jonathan's Skull",
+    "rarity": 3
+  },
+  "the-terrifier/mike-s-phone": {
+    "killer": "the-terrifier",
+    "name": "Mike's Phone",
+    "rarity": 0
+  },
+  "the-terrifier/shiny-tricycle": {
+    "killer": "the-terrifier",
+    "name": "Shiny Tricycle",
+    "rarity": 1
+  },
+  "the-terrifier/sienna-s-flesh": {
+    "killer": "the-terrifier",
+    "name": "Sienna's Flesh",
+    "rarity": 1
+  },
+  "the-terrifier/the-ninth-circle": {
+    "killer": "the-terrifier",
+    "name": "The Ninth Circle",
+    "rarity": 4
+  },
+  "the-terrifier/thornton-salt": {
+    "killer": "the-terrifier",
+    "name": "Thornton Salt",
+    "rarity": 2
+  },
+  "the-terrifier/victoria-s-eye": {
+    "killer": "the-terrifier",
+    "name": "Victoria's Eye",
+    "rarity": 2
+  },
+  "the-terrifier/wacky-jacks": {
+    "killer": "the-terrifier",
+    "name": "Wacky Jacks",
+    "rarity": 3
   },
   "the-trapper/4-coil-spring-kit": {
     "killer": "the-trapper",
