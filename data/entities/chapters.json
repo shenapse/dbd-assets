@@ -263,6 +263,12 @@
     "name": "Stranger Things Chapter 2",
     "release_date": "2026-01-27"
   },
+  "terrifier": {
+    "dlc_type": "chapter",
+    "is_licensed": true,
+    "name": "Terrifier",
+    "release_date": "2026-11-24"
+  },
   "the-halloween-chapter": {
     "dlc_type": "chapter",
     "is_licensed": true,

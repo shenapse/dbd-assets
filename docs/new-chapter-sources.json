@@ -1,0 +1,2512 @@
+{
+  "retrieved_on": "2026-11-25",
+  "sources": {
+    "judgment_game_data": {
+      "url": "https://dbd.tricky.lol/api",
+      "details": "English, Korean (locale=ko), and Japanese (locale=ja) characters, perks, addons, and dlc endpoints; version 10.2.2. Only Judgment/Aurora records used. English game data spells Magnetized Manacles; the wiki spells it Magnetised Manacles."
+    },
+    "terrifier_ja_patch": {
+      "url": "https://support.deadbydaylight.com/hc/ja/articles/55705675383956",
+      "details": "Official live 10.3.0 Japanese notes: character, perk, map, and realm names."
+    },
+    "terrifier_ja_addons": {
+      "url": "https://kamigame.jp/dbd/page/442640471097921122.html",
+      "details": "Japanese add-on display names; community reference. Effects not imported."
+    },
+    "terrifier_ko": {
+      "url": "https://namu.moe/w/테리파이어(DEAD%20BY%20DAYLIGHT)",
+      "details": "Korean killer, perk and add-on names; community reference, not verified against live game strings."
+    },
+    "sienna_ko": {
+      "url": "https://www.namu.moe/w/DEAD%20BY%20DAYLIGHT/생존자/라이선스%20캐릭터",
+      "details": "Korean survivor name and Valkyrie's Rage name; community reference."
+    },
+    "sienna_ko_perks": {
+      "url": "https://doenda.com/news/1849827110447019/",
+      "details": "Korean Best Gift Ever and Shared Trauma names; translated patch notes, not verified against live game strings."
+    },
+    "map_ko": {
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=dbd&no=2771117&page=1",
+      "details": "Korean map name 하츠혼 몰; community translation, not verified against live game strings."
+    },
+    "offering_ja": {
+      "url": "https://w.atwiki.jp/deadbydaylight/pages/827.html",
+      "details": "Japanese offering name ハートショーンのノベルティトート; community reference."
+    },
+    "live_release": {
+      "url": "https://bugreport.deadbydaylight.com/projects/pr-5642738318/releases/7067",
+      "details": "10.3.0 live release, 2026-11-24 UTC (2026-11-25 in Japan)."
+    },
+    "chorus": {
+      "url": "https://deadbydaylight.wiki.gg/wiki/Chorus_of_Sin",
+      "details": "Existing chapter record retained. This chapter adds Judgment and Aurora, with no separate selectable map. Exile is part of the killer power, not a map/realm record."
+    },
+    "icon_frames": {
+      "url": "https://deadbydaylight.wiki.gg/MediaWiki:Base64Files.css?action=raw&ctype=text/css",
+      "details": "Original wiki CSS frame assets. Purple very-rare-perk-bg for perks; common/uncommon/rare/very-rare/visceral-addon-bg according to add-on rarity. Matches newer existing icons such as The Slasher add-ons."
+    }
+  },
+  "notes": [
+    "All new icons and artwork downloaded from the Official Dead by Daylight Wiki; no generated replacement art.",
+    "Korean realm and offering names are provisional translations, not confirmed in-game localization. Korean Terrifier content is sourced from community references because the game-data API still reports version 10.2.2.",
+    "Chapter records follow UTC release dates. The existing Japanese Chorus of Sin translation was preserved; the new Korean translation 죄의 합창 comes from the localized game-data DLC name 죄의 합창 챕터.",
+    "Map icons and realm artwork are optional categories. Powers follow the existing convention of an icon under the killer slug, without a separate powers entity file.",
+    "The 12 new perks and 40 new power add-ons use original rarity frames. Their foreground source URLs and hashes refer to the unframed original art; framing entries document the final render."
+  ],
+  "encoding": {
+    "format": "WebP",
+    "quality": 95,
+    "method": 6,
+    "processing": "Native resolution preserved; portraits bottom-centered on a transparent canvas at least 512x1024, without cropping or resizing. Framed icons override this encoding and processing as documented in each image framing entry."
+  },
+  "records": [
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/aurora-s-telereceptor",
+      "name": "Aurora's Telereceptor",
+      "translations": {
+        "ko": {
+          "name": "오로라의 원격수용기",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "オーロラのテレレセプター",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/blindfold-of-the-devoted",
+      "name": "Blindfold of the Devoted",
+      "translations": {
+        "ko": {
+          "name": "헌신자의 눈가리개",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "信奉者の目隠し",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/chains-of-the-heretic",
+      "name": "Chains of the Heretic",
+      "translations": {
+        "ko": {
+          "name": "이단자의 사슬",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "異端者の鎖",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/confessor-s-war-horn",
+      "name": "Confessor's War Horn",
+      "translations": {
+        "ko": {
+          "name": "고해자의 전쟁 나팔",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "告白者の角笛",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/crown-of-the-destroyer",
+      "name": "Crown of the Destroyer",
+      "translations": {
+        "ko": {
+          "name": "파괴자의 왕관",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "破壊者の冠",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/electric-torch",
+      "name": "Electric Torch",
+      "translations": {
+        "ko": {
+          "name": "전기 횃불",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "電気のトーチ",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/eyes-of-gerhardt",
+      "name": "Eyes of Gerhardt",
+      "translations": {
+        "ko": {
+          "name": "게르하르트의 눈",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "ゲルハルトの目玉",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/heretic-s-mark",
+      "name": "Heretic's Mark",
+      "translations": {
+        "ko": {
+          "name": "이단자의 표식",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "異端者の印",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/holy-winged-icon",
+      "name": "Holy Winged Icon",
+      "translations": {
+        "ko": {
+          "name": "성스러운 날개 아이콘",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "翼のある聖像",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/improvised-detonators",
+      "name": "Improvised Detonators",
+      "translations": {
+        "ko": {
+          "name": "즉석 폭발 장치",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "即席起爆装置",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/koenrad-s-gauntlet",
+      "name": "Koenrad's Gauntlet",
+      "translations": {
+        "ko": {
+          "name": "콘래드의 건틀릿",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "コエンラートの籠手",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/magnetized-manacles",
+      "name": "Magnetized Manacles",
+      "translations": {
+        "ko": {
+          "name": "자석 수갑",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "磁気の手錠",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/mark-of-the-adherent",
+      "name": "Mark of the Adherent",
+      "translations": {
+        "ko": {
+          "name": "복종자의 표식",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "支持者の印",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/mirror-of-the-creators",
+      "name": "Mirror of the Creators",
+      "translations": {
+        "ko": {
+          "name": "창조자의 거울",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "創造者の鏡",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/obsidian-feather",
+      "name": "Obsidian Feather",
+      "translations": {
+        "ko": {
+          "name": "흑요석 깃털",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "黒曜石の羽根",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/order-of-inquisition",
+      "name": "Order of Inquisition",
+      "translations": {
+        "ko": {
+          "name": "종교재판단",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "異端審問の命",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/prayer-kneeler",
+      "name": "Prayer Kneeler",
+      "translations": {
+        "ko": {
+          "name": "기도용 무릎의자",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "祈りの台",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/searcher-s-skull",
+      "name": "Searcher's Skull",
+      "translations": {
+        "ko": {
+          "name": "수색자의 해골",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "探求者の頭蓋骨",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/superheated-glass",
+      "name": "Superheated Glass",
+      "translations": {
+        "ko": {
+          "name": "초고열 유리",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "過熱したガラス",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-judgement/undying-flame",
+      "name": "Undying Flame",
+      "translations": {
+        "ko": {
+          "name": "불멸의 불꽃",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "不死の炎",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/allie-s-scalp",
+      "name": "Allie's Scalp",
+      "translations": {
+        "ko": {
+          "name": "앨리의 두피",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "アリーの頭皮",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/art-crispies",
+      "name": "Art Crispies",
+      "translations": {
+        "ko": {
+          "name": "아트 크리스피",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "アートクリスピー",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/blackened-heart",
+      "name": "Blackened Heart",
+      "translations": {
+        "ko": {
+          "name": "검게 그을린 심장",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "黒ずんだ心臓",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/bloodstained-bullet",
+      "name": "Bloodstained Bullet",
+      "translations": {
+        "ko": {
+          "name": "피로 얼룩진 총알",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "血まみれの弾丸",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/bottle-of-bleach",
+      "name": "Bottle of Bleach",
+      "translations": {
+        "ko": {
+          "name": "표백제가 담긴 병",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "漂白剤のボトル",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/brooke-s-pustule",
+      "name": "Brooke's Pustule",
+      "translations": {
+        "ko": {
+          "name": "브룩의 고름집",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ブルックの水膨れ",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/burnt-wings",
+      "name": "Burnt Wings",
+      "translations": {
+        "ko": {
+          "name": "타버린 날개",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "焦げた翼",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/candy-head-bowl",
+      "name": "Candy Head Bowl",
+      "translations": {
+        "ko": {
+          "name": "사탕 머리 그릇",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "頭部のキャンディボウル",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/dead-opossum",
+      "name": "Dead Opossum",
+      "translations": {
+        "ko": {
+          "name": "죽은 주머니쥐",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "オポッサムの死体",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/duct-tape",
+      "name": "Duct Tape",
+      "translations": {
+        "ko": {
+          "name": "덕트 테이프",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "粘着テープ",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/emily",
+      "name": "Emily",
+      "translations": {
+        "ko": {
+          "name": "에밀리",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "エミリー",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/explosive-gift",
+      "name": "Explosive Gift",
+      "translations": {
+        "ko": {
+          "name": "폭발물 선물",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "爆弾入りのプレゼント",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/jonathan-s-skull",
+      "name": "Jonathan's Skull",
+      "translations": {
+        "ko": {
+          "name": "조나단의 해골",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ジョナサンの頭蓋骨",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/mike-s-phone",
+      "name": "Mike's Phone",
+      "translations": {
+        "ko": {
+          "name": "마이크의 전화",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "マイクの携帯電話",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/shiny-tricycle",
+      "name": "Shiny Tricycle",
+      "translations": {
+        "ko": {
+          "name": "반짝이는 세발자전거",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ピカピカの三輪車",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/sienna-s-flesh",
+      "name": "Sienna's Flesh",
+      "translations": {
+        "ko": {
+          "name": "시에나의 살점",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "シエナの皮膚",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/the-ninth-circle",
+      "name": "The Ninth Circle",
+      "translations": {
+        "ko": {
+          "name": "제9층",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ナインス・サークル",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/thornton-salt",
+      "name": "Thornton Salt",
+      "translations": {
+        "ko": {
+          "name": "손튼 소금",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ソーントンの塩",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/victoria-s-eye",
+      "name": "Victoria's Eye",
+      "translations": {
+        "ko": {
+          "name": "빅토리아의 눈",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ヴィクトリアの目玉",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "addons-power",
+      "slug": "the-terrifier/wacky-jacks",
+      "name": "Wacky Jacks",
+      "translations": {
+        "ko": {
+          "name": "괴짜 잭",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ワッキージャックス",
+          "source": "terrifier_ja_addons",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "chapters",
+      "slug": "terrifier",
+      "name": "Terrifier",
+      "translations": {
+        "ko": {
+          "name": "테리파이어",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "テリファー",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "killers",
+      "slug": "the-judgement",
+      "name": "The Judgement",
+      "translations": {
+        "ko": {
+          "name": "심판",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "ジャッジメント",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "killers",
+      "slug": "the-terrifier",
+      "name": "The Terrifier",
+      "translations": {
+        "ko": {
+          "name": "테리파이어",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "テリファー",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "maps",
+      "slug": "hartshorne-mall",
+      "name": "Hartshorne Mall",
+      "translations": {
+        "ko": {
+          "name": "하츠혼 몰",
+          "source": "map_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "ハートショーンモール",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "offerings",
+      "slug": "hartshorne-rewards-tote",
+      "name": "Hartshorne Rewards Tote",
+      "translations": {
+        "ko": {
+          "name": "하츠혼 보상 토트백",
+          "source": null,
+          "status": "provisional-translation"
+        },
+        "ja": {
+          "name": "ハートショーンのノベルティトート",
+          "source": "offering_ja",
+          "status": "community-reference"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "celestial-witness",
+      "name": "Celestial Witness",
+      "translations": {
+        "ko": {
+          "name": "천상 존재의 목격",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "天界の証人",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "funny-business",
+      "name": "Funny Business",
+      "translations": {
+        "ko": {
+          "name": "장난질",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "悪ふざけ",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "hex-under-your-thumb",
+      "name": "Hex: Under Your Thumb",
+      "translations": {
+        "ko": {
+          "name": "주술: 손아귀에 있느니",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "呪術：支配下",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "kill-spree",
+      "name": "Kill Spree",
+      "translations": {
+        "ko": {
+          "name": "살육의 향연",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "連続殺人",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "laughingstock",
+      "name": "Laughingstock",
+      "translations": {
+        "ko": {
+          "name": "웃음거리",
+          "source": "terrifier_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "笑いもの",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "perks-killer",
+      "slug": "lay-waste",
+      "name": "Lay Waste",
+      "translations": {
+        "ko": {
+          "name": "초토화",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "損壊",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "best-gift-ever",
+      "name": "Best Gift Ever",
+      "translations": {
+        "ko": {
+          "name": "최고의 선물",
+          "source": "sienna_ko_perks",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "最高の贈り物",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "boon-steadfast",
+      "name": "Boon: Steadfast",
+      "translations": {
+        "ko": {
+          "name": "호재: 확고부동",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "恵み：着実",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "fruits-of-your-labor",
+      "name": "Fruits of Your Labor",
+      "translations": {
+        "ko": {
+          "name": "노력의 결실",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "努力の賜物",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "salvation-s-cry",
+      "name": "Salvation's Cry",
+      "translations": {
+        "ko": {
+          "name": "구원의 울음소리",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "救いの叫び",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "shared-trauma",
+      "name": "Shared Trauma",
+      "translations": {
+        "ko": {
+          "name": "공유된 트라우마",
+          "source": "sienna_ko_perks",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "トラウマの共有",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "perks-survivor",
+      "slug": "valkyrie-s-rage",
+      "name": "Valkyrie's Rage",
+      "translations": {
+        "ko": {
+          "name": "발키리의 분노",
+          "source": "sienna_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "戦乙女の怒り",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "realms",
+      "slug": "the-subdivisions",
+      "name": "The Subdivisions",
+      "translations": {
+        "ko": {
+          "name": "택지 지구",
+          "source": null,
+          "status": "provisional-translation"
+        },
+        "ja": {
+          "name": "新興住宅地",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    },
+    {
+      "type": "survivors",
+      "slug": "aurora-stardotter",
+      "name": "Aurora Stardotter",
+      "translations": {
+        "ko": {
+          "name": "오로라 스타도터",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        },
+        "ja": {
+          "name": "オーロラ・スタードッター",
+          "source": "judgment_game_data",
+          "status": "game-data"
+        }
+      }
+    },
+    {
+      "type": "survivors",
+      "slug": "sienna-shaw",
+      "name": "Sienna Shaw",
+      "translations": {
+        "ko": {
+          "name": "시에나 쇼",
+          "source": "sienna_ko",
+          "status": "community-reference"
+        },
+        "ja": {
+          "name": "シエナ・ショー",
+          "source": "terrifier_ja_patch",
+          "status": "official-release-notes"
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_K44_storeBackground.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/killers/portrait/the-judgement.webp",
+      "source_size": [
+        512,
+        1024
+      ],
+      "output_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "d29d4459220b280b6d9f41fdf0c77e82c24efb759a9697dce052c4d411ecc1bf"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_CelestialWitness.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/perks/killer/celestial-witness.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "6503afa38873e5c0c42331974f658df6ba4630a8f38e2f03379dc0588d1df32e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_HexUnderYourThumb.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/perks/killer/hex-under-your-thumb.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "39db0e99fae146be34f36450f91930afbdf49df6d2bd0656be2a347f935ea0ac",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_LayWaste.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/perks/killer/lay-waste.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "b7bc6816fba28c84492eea88fb5470b05d4e62af4a6b8e7067672668b521285d",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconPowers_ChargeRay.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/icon.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "fbcf97e3da20c112004c7c7341477141c5252013a63be480744dfb14626467df"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_HereticsMark.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/heretic-s-mark.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "505fb7f76cd24f1a462e44d54f6da77b504ed40da578567613db668cb7195edc",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_KoenradsGauntlet.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/koenrad-s-gauntlet.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "b2cd94ecfcc653e403610b53743d932a0a890ffaa65355d4999fb5bfb7e7636f",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_PrayerKneeler.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/prayer-kneeler.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "19fc58ef6f016083eb19e29ffda3326a2afd414aa7709953ba4c83a7065a0197",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_SearchersSkull.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/searcher-s-skull.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "1caed35ab9bd16b348569b174b728427242b071845372b2dccbb885b082c47c4",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_AurorasTelereceptor.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/aurora-s-telereceptor.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "9cc1ea90e9cc100519779a4cb6b3bf0e289b35bd5a806d2eefb6178dbb781bb1",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ConfessorsWarHorn.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/confessor-s-war-horn.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "e9e435dc0c4dd3375c699c8bdca76d5c80b399e9c278128f4342a2ee39d36301",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_MagnetisedManacles.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/magnetized-manacles.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "ae1ed17e9be53fa3a349b20ef57c99b96f9f3c81a5df74fe6d416139c88b1735",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_MarkOfTheAdherent.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/mark-of-the-adherent.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "545a1af350ebb4d0620b2ef4e6a28304cd1cbc0750798446d62ced3c25647e13",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_UndyingFlame.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/undying-flame.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "d66e12ee46b4502429c7121722e2c42c55d6e33446121eaf9536227e58a3e9e0",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BlindfoldOfTheDevoted.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/blindfold-of-the-devoted.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "68d73b8d1a0bb9382b2b1539a86eec921342669e963dc5e0da7fcb5b9fa1b40e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ElectricTorch.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/electric-torch.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "c161c261bda6ce1c18a7904c30096e555f1cd9d76e91b302dc154e20fae22c7f",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_HolyWingedIcon.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/holy-winged-icon.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "07629f5eaab654fba5982647438ea2cb3d9c8566bbdba682060a9193727232d2",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_OrderOfInquisition.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/order-of-inquisition.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "3616d1715df1ed2ea7e2f8a1300d89b8968d4f70c6eea150bc17fd2a8447eb5a",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_SuperheatedGlass.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/superheated-glass.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "f5977bcdeb5ee2678de2403101a950c9cc72aaedfe21d343203dbc478606c94e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ChainsOfTheHeretic.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/chains-of-the-heretic.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "49cb7d60d7a8b3217725e166000f97ed2676bf48d18dbbb1cc6ecb6acd06293e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_CrownOfTheDestroyer.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/crown-of-the-destroyer.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "ebf934c939c624fdd75bda12c8eaebc684ac384d831f77fb017293ec1bb3f6b9",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_EyesOfGerhardt.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/eyes-of-gerhardt.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "31ea20fa61f0fbff3f0a6fcdc634548e2b2d1e9e188af2e2bac75adc848c62c2",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ImprovisedDetonators.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/improvised-detonators.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "acd1dea8612e20b4469479304b0e32bc8ee20891279f0ccc89d671fa6ece7a1d",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_MirrorOfTheCreators.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/mirror-of-the-creators.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "89ebc4233d4976b34ebd08cadac3064bb3834f21372845cd72820f22b23b5d68",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--visceral-addon-bg",
+        "frame_sha256": "494083d6395da7c3f3ac0dbd1fecbbec16f9234c6bd5289206ee84b00e7ac3cb",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ObsidianFeather.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Judgment",
+      "path": "images/powers/the-judgement/addons/obsidian-feather.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "2b8c0bfb4c5f959eb9840ba679ca676f1498becba171f736baf7a703dd40a21a",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--visceral-addon-bg",
+        "frame_sha256": "494083d6395da7c3f3ac0dbd1fecbbec16f9234c6bd5289206ee84b00e7ac3cb",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_K45_storeBackground.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/killers/portrait/the-terrifier.webp",
+      "source_size": [
+        512,
+        1024
+      ],
+      "output_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "1a8eb9186af4cc2d9bdc0e0cc38b7366eb5ddea905e021026e8d21178fa54888"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_FunnyBusiness.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/perks/killer/funny-business.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "a03fb5ce2de6f87f5e42d1bba4353860136505334d33942d53445f39a3b25861",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_KillSpree.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/perks/killer/kill-spree.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "dba42e7b94efb1434ea16d84b4d6ffbab06bf16fc491c82e0296fe899e3dad0e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_Laughingstock.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/perks/killer/laughingstock.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "4b478cbe4fc1f47cab12fb31b22db9ad2837072f73a67cce33ceda2fd48731bd",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconPowers_GarbageBag.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/icon.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "f66f6995143fbda7e0a3565270c8d87528a30054890bd1e57d82333c346a7a6d"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_AlliesScalp.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/allie-s-scalp.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "511f88638fda6c3c54e9cfb413a287406f2107b7a7a4b3ffc72e5a80ed1dd972",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BlackenedHeart.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/blackened-heart.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "a8b23dbfc30375730ad1350bdaafb3318c165ea9c204e28ee3dfbddb656df8f3",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BottleOfBleach.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/bottle-of-bleach.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "f5e7b276b78051b6a2edc8ef23c2320916a92238b3a62d0eef7012e34f222eb8",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_MikesPhone.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/mike-s-phone.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "50ee3434edeafeefdca3d66ce2b28a7899b7fb9a2f1f9420b8de197a151e5e6c",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--common-addon-bg",
+        "frame_sha256": "743a018302973dd5f712fa71a5dfe4854991faaaa11121525d088e1034d5d6d0",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BloodstainedBullet.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/bloodstained-bullet.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "93273858ebbbb8d31ef3cb75a78c2f2ffd6420d0adcaf2f676e4d87de8069502",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BrooksPustule.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/brooke-s-pustule.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "b3ed87089d80d717ee1716fdd9d56efed468e70ef83aaf2f33c993a3cdd4042b",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_BurntWings.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/burnt-wings.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "02aa72a24393d314b2491388223f9eb5b0a17bab4de205eee1a8c5ff573b0747",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ShinyTricycle.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/shiny-tricycle.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "e525f042efdaa1f1b5f14234ae411adb8d0e8997b7233c5f4533b0166ddd7db8",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_SiennasFlesh.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/sienna-s-flesh.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "5eaacb153dcee486bbeb5773e7a0168318cab22c15aa442db757cdca7ed33a3b",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--uncommon-addon-bg",
+        "frame_sha256": "20c5402261851eaa4b50bfb3652ed7b9aa453f0082adc029a518593e636e0f43",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_CandyHeadBowl.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/candy-head-bowl.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "65b4d8290bd5163a73aa68c0a1b653fd7cc06b9bc4dd13363c87b23b8e8a70f3",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_DeadOpossum.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/dead-opossum.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "5d4cfe07423a55c4baf675df3bf7f9e341631303f6156ca1fbf6f1ab5bd850cd",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_Emily.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/emily.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "a6d8189aee23e2691b807b38f2fc7e60ce994d36b032eb7b8117a5f2f9252224",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ThorntonSalt.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/thornton-salt.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "51795f07878ea0aae1f31afe682765bb880ac2eff6fd24d45e87a85e712b386c",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_VictoriasEye.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/victoria-s-eye.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "5838567e107973b503d57b6c41af5d7a33c8da9644e6a23cc91005e04b150b30",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--rare-addon-bg",
+        "frame_sha256": "32c5fd56b21451ea1fce502fbe52275ab37dbe6e5adb5a46f25ec61fe17d6d06",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ArtCrispies.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/art-crispies.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "634a8d55d70fe8028c171db3fbfd49e63be327457f4596eb7dce2f1332519b5b",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_ExplosiveGift.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/explosive-gift.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "43024716aab073422b0bedd1d4904538c193da496a7f316a146f18bdd14c2450",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_JonathansSkull.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/jonathan-s-skull.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "e9ac1c4b68b55642b34e2480c370e53e940dfa9fd27f0944105cee3220591acb",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_WackyJacks.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/wacky-jacks.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "6d6980a2e96ca597be3359ae460fff0e5fb53d0d36912dd7d4294d5ae0eb1393",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-addon-bg",
+        "frame_sha256": "6c5aa2689568f40642e992126d0acce4964f9b540cfdd663ac1eb528253e4bc9",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_DuctTape.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/duct-tape.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "d0fc0953ea90e676a7bf21b688348410a3b2449c0c45b11bbc88b0b8df842f5e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--visceral-addon-bg",
+        "frame_sha256": "494083d6395da7c3f3ac0dbd1fecbbec16f9234c6bd5289206ee84b00e7ac3cb",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconAddon_TheNinthCircle.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Terrifier",
+      "path": "images/powers/the-terrifier/addons/the-ninth-circle.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        300,
+        300
+      ],
+      "source_sha256": "0f9fbcf4d56896f718424338b65240c68db4411afa0f8c52fb27717ba76a26c2",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--visceral-addon-bg",
+        "frame_sha256": "494083d6395da7c3f3ac0dbd1fecbbec16f9234c6bd5289206ee84b00e7ac3cb",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S54_storeBackground.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aurora_Stardotter",
+      "path": "images/survivors/portrait/aurora-stardotter.webp",
+      "source_size": [
+        512,
+        1024
+      ],
+      "output_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "91e9589ca3abfc1b37c58d69791df2902756f6c4515f8e5a48d542ccfa95af98"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_BoonSteadfast.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aurora_Stardotter",
+      "path": "images/perks/survivor/boon-steadfast.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "b3c0e4e2be00b7a01168269112ed3a4c771755a40df3bcb7d3459065801bd859",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_FruitsOfYourLabor.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aurora_Stardotter",
+      "path": "images/perks/survivor/fruits-of-your-labor.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "d16ee132ba675db8cee4745cf0a35834469dc65a9d79e79c66c307807deed2b9",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SalvationsCry.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Aurora_Stardotter",
+      "path": "images/perks/survivor/salvation-s-cry.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "1fa60aa36c78fa16a6f06a942332f5366cc5a773003eb36dac18fbba6a9f512e",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_S55_storeBackground.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sienna_Shaw",
+      "path": "images/survivors/portrait/sienna-shaw.webp",
+      "source_size": [
+        512,
+        1024
+      ],
+      "output_size": [
+        512,
+        1024
+      ],
+      "source_sha256": "8e4586741c588ee195e557b49afa5215a2bcc936d400127d8e7d419a778cf23a"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_BestGiftEver.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sienna_Shaw",
+      "path": "images/perks/survivor/best-gift-ever.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "cfcc12e40f44a5e130b213b832603682cd3c6beb98123ce7195dd8c608a3ae85",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SharedTrauma.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sienna_Shaw",
+      "path": "images/perks/survivor/shared-trauma.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "cf30956307d57814ec34a310bf5c71b24065c7366aa886540bf5bcdaa407a9be",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_ValkyriesRage.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Sienna_Shaw",
+      "path": "images/perks/survivor/valkyrie-s-rage.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "951c38e6cceed76c2bef27f10618bbadf5a28cc5ca60ade996561c67c74c154f",
+      "framing": {
+        "source": "icon_frames",
+        "css_variable": "--very-rare-perk-bg",
+        "frame_sha256": "8ab3d3de29700c472eb0f747a637a516fc8a43bc15160eb16d85d227db76ab2a",
+        "processing": "Original 256x256 frame and icon rendered at native size, centered on the canvas. Transparent outer margins retained, matching existing framed icons.",
+        "encoding": {
+          "format": "WebP",
+          "encoder": "Chromium Canvas",
+          "quality": 0.95
+        }
+      }
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconsFavors_HartshorneRewardsTote.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Hartshorne_Rewards_Tote",
+      "path": "images/offerings/hartshorne-rewards-tote.webp",
+      "source_size": [
+        256,
+        256
+      ],
+      "output_size": [
+        256,
+        256
+      ],
+      "source_sha256": "844b16f4182f7b7227814229d3317b016ed6edfd9b3840ff79c3afdd375f2861"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/T_UI_iconMap_Lm_Liminal.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/Hartshorne_Mall",
+      "path": "images/maps/hartshorne-mall.webp",
+      "source_size": [
+        1365,
+        683
+      ],
+      "output_size": [
+        1365,
+        683
+      ],
+      "source_sha256": "fa659fd98cd854531df81a53b24f4988e37dfffc2cc56cbec8408a2d34eb7f44"
+    },
+    {
+      "image_url": "https://deadbydaylight.wiki.gg/images/RealmKeyArt_22.png",
+      "page_url": "https://deadbydaylight.wiki.gg/wiki/The_Subdivisions",
+      "path": "images/realms/the-subdivisions.webp",
+      "source_size": [
+        526,
+        350
+      ],
+      "output_size": [
+        526,
+        350
+      ],
+      "source_sha256": "c25bb941ef3568cf59f9164a388ecb6c74bd12fcc30d68a1ced0efc3438c076a"
+    }
+  ]
+}
