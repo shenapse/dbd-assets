@@ -32,6 +32,26 @@ for f in glob.glob(f"{ROOT}/data/aliases/*.json"):
     for k in json.load(open(f, encoding="utf-8")):
         if k not in ent[n]: errors.append(f"{os.path.relpath(f, ROOT)}: unknown key {k}")
 
+# perk aliases/abbreviations: non-empty strings; no alias may equal (normalized) another perk's name, renamed_from.name or alias on the same side
+norm = lambda s: re.sub(r"[\s\-_'.&\"]+", "", s.lower())
+for side in ("killer", "survivor"):
+    f, recs = f"{ROOT}/data/aliases/perks-{side}.json", ent[f"perks-{side}"]
+    if not os.path.exists(f): continue
+    rel, owner = os.path.relpath(f, ROOT), {}
+    for k, v in recs.items():
+        for nm in (v["name"], (v.get("renamed_from") or {}).get("name")):
+            if nm: owner.setdefault(norm(nm), set()).add(k)
+    for k, d in json.load(open(f, encoding="utf-8")).items():
+        for field, vals in d.items():
+            if field not in ("aliases", "abbreviations") or not isinstance(vals, list):
+                errors.append(f"{rel}: {k}: expected only list fields 'aliases'/'abbreviations', got {field!r}"); continue
+            for a in vals:
+                if not isinstance(a, str) or not a.strip(): errors.append(f"{rel}: {k}: empty/non-string {field} entry {a!r}"); continue
+                owner.setdefault(norm(a), set()).add(k)
+    # collisions: any normalized string claimed by more than one perk (own name/renamed_from/alias of a different slug)
+    for n, ks in sorted(owner.items()):
+        if len(ks) > 1: errors.append(f"{rel}: '{n}' is claimed by multiple perks: {sorted(ks)}")
+
 # images <-> records
 expected = {}
 def exp(path, label): expected[path] = label
@@ -67,7 +87,12 @@ for t, v in ent["items"].items():
         else: exp(f"items/{t}/variants/{vs}.webp", f"{t}/{vs}")
 for k in ent["addons-item"]: p, l = k.split("/"); exp(f"items/{p}/addons/{l}.webp", k)
 have = {os.path.relpath(p, f"{ROOT}/images") for p in glob.glob(f"{ROOT}/images/**/*", recursive=True) if os.path.isfile(p)}
-for p in sorted(have - set(expected)): errors.append(f"images/{p}: no data record")
+# Generic UI art (not records): fixed allow-list, must exist, nothing else allowed under ui/.
+UI_IMAGES = {f"ui/empty-slot/{s}.webp" for s in ("perk", "item", "addon", "offering")}
+for p in sorted(UI_IMAGES - have): errors.append(f"images/{p}: expected UI image is missing")
+for p in sorted(have - set(expected)):
+    if p in UI_IMAGES: continue
+    errors.append(f"images/{p}: " + ("unexpected file under images/ui/ (allow-list in scripts/validate.py)" if p.startswith("ui/") else "no data record"))
 # Categories where record <-> image must match both ways: perks, power add-ons, items (+variants), item add-ons, offerings.
 STRICT = ("perks/", "offerings/", "items/")
 is_strict = lambda p: p.startswith(STRICT) or (p.startswith("powers/") and "/addons/" in p)

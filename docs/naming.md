@@ -29,9 +29,15 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 | offering | `offerings.json` | `images/offerings/<slug>.webp` |
 | map (optional icon) | `maps.json` | `images/maps/<slug>.webp` |
 | realm (optional artwork) | `realms.json` | `images/realms/<slug>.webp` |
+| empty-slot UI art | none (generic UI art, not a record) | `images/ui/empty-slot/<slot>.webp`, slot = `perk`\|`item`\|`addon`\|`offering`; fixed allow-list in `validate.py` |
 
 Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
-Aliases/abbreviations: `data/aliases/<type>.json`.
+Aliases/abbreviations: `data/aliases/<type>.json` (currently `killers`, `maps`, `perks-killer`, `perks-survivor`), keyed by slug:
+`{"<slug>": {"aliases": [...], "abbreviations": [...]}}` (either field optional). `abbreviations` are short capitalised tokens
+without spaces (`DS`, `CoH`); everything else (`Pebble`) is an `aliases` entry. Do not list a perk's own `name` or `renamed_from.name`
+as an alias: they already resolve. `validate.py` checks perk alias files: keys must be slugs of the matching perks file, entries must be
+non-empty strings, and no alias may collide (case/space/punctuation-insensitive: lowercase, strip `[\s\-_'.&"]`) with another perk's
+name, `renamed_from.name` or alias on the same side (killer and survivor perks are resolved separately).
 
 ## Renamed perks
 When BHVR renames a perk, the record gets the new slug/`name` and keeps its old image file untouched:
