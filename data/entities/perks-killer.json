@@ -44,6 +44,9 @@
   "call-of-brine": {
     "name": "Call of Brine"
   },
+  "celestial-witness": {
+    "name": "Celestial Witness"
+  },
   "corrupt-intervention": {
     "name": "Corrupt Intervention"
   },
@@ -119,6 +122,9 @@
   },
   "friends-til-the-end": {
     "name": "Friends 'til the End"
+  },
+  "funny-business": {
+    "name": "Funny Business"
   },
   "furtive-chase": {
     "name": "Furtive Chase"
@@ -199,6 +205,9 @@
   "hex-two-can-play": {
     "name": "Hex: Two can Play"
   },
+  "hex-under-your-thumb": {
+    "name": "Hex: Under Your Thumb"
+  },
   "hex-undying": {
     "name": "Hex: Undying"
   },
@@ -239,11 +248,20 @@
       "name": "Save the Best for Last"
     }
   },
+  "kill-spree": {
+    "name": "Kill Spree"
+  },
   "knockout": {
     "name": "Knockout"
   },
   "languid-touch": {
     "name": "Languid Touch"
+  },
+  "laughingstock": {
+    "name": "Laughingstock"
+  },
+  "lay-waste": {
+    "name": "Lay Waste"
   },
   "lethal-pursuer": {
     "name": "Lethal Pursuer"
