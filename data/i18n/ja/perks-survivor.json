@@ -1,28 +1,78 @@
 {
+  "a-place-for-us": "秘密の場所",
+  "ace-in-the-hole": "最後の切り札",
   "adrenaline": "アドレナリン",
   "aftercare": "アフターケア",
+  "alert": "警戒",
   "any-means-necessary": "強硬手段",
+  "apocalyptic-ingenuity": "終末世界の知恵",
+  "appraisal": "査定",
+  "autodidact": "独学者",
+  "babysitter": {
+    "aliases": [
+      "監視者"
+    ],
+    "name": "ベビーシッター"
+  },
+  "background-player": "陰の実力者",
   "bada-bada-boom": "ジャ・ジャ・ジャ・ジャーン",
   "balanced-landing": "スマートな着地",
+  "bardic-inspiration": "吟遊詩人の鼓舞",
   "best-gift-ever": "最高の贈り物",
   "better-than-new": "みなぎる活力",
+  "better-together": {
+    "aliases": [
+      "状況認識"
+    ],
+    "name": "一緒にいよう"
+  },
   "bite-the-bullet": "忍苦の時",
+  "blast-mine": "地雷爆破",
   "blood-pact": "血の協定",
+  "blood-rush": "血の騒ぎ",
   "boil-over": "ボイルオーバー",
   "bond": "絆",
+  "boon-circle-of-healing": "恵み：癒しの輪",
+  "boon-dark-theory": "恵み：霊界理論",
+  "boon-exponential": "恵み：指数関数",
+  "boon-illumination": "恵み：イルミネーション",
+  "boon-shadow-step": "恵み：シャドウステップ",
   "boon-steadfast": "恵み：着実",
+  "borrowed-time": "与えられた猶予",
   "botany-knowledge": "植物学の知識",
+  "bound-by-obsession": {
+    "aliases": [
+      "執念の対象"
+    ],
+    "name": "執念の束縛"
+  },
+  "breakdown": "ブレイクダウン",
+  "breakout": "突破",
+  "buckle-up": "ベルトを締めろ！",
+  "built-to-last": "耐久設計",
   "calm-spirit": "魂の平穏",
+  "camaraderie": {
+    "aliases": [
+      "親近感"
+    ],
+    "name": "仲間意識"
+  },
   "champion-of-light": "光の闘士",
+  "change-of-plan": "作戦変更",
   "chemical-trap": "化学的な罠",
+  "clairvoyance": "千里眼",
   "clean-break": "決別",
+  "come-and-get-me": "捕まえてみろ！",
+  "conviction": "信念",
   "corrective-action": "是正措置",
   "counterforce": "カウンターフォース",
   "cut-loose": "逃亡の飛躍",
   "dance-with-me": "ダンス・ウィズ・ミー",
+  "dark-sense": "闇の感覚",
   "dead-hard": "デッド・ハード",
   "deadline": "締め切り",
   "deception": "欺き",
+  "deja-vu": "デジャヴ",
   "deliverance": "解放",
   "desperate-measures": "苦肉の策",
   "detective-s-hunch": "刑事の直感",
@@ -32,9 +82,20 @@
     "name": "陽動"
   },
   "do-no-harm": "害をなすなかれ",
+  "down-to-the-last": {
+    "aliases": [
+      "唯一の生存者"
+    ],
+    "name": "最後の一人"
+  },
   "dramaturgy": "劇作法",
+  "duty-of-care": "救助義務",
   "empathic-connection": "共感的つながり",
   "empathy": "共感",
+  "extrasensory-perception": "ESP",
+  "exultation": "歓喜",
+  "eyes-of-belmont": "ベルモンドの目",
+  "fast-track": "出世街道",
   "finesse": "俊敏",
   "five-moves-ahead": "先読み",
   "fixated": {
@@ -44,46 +105,74 @@
     "name": "執着心"
   },
   "flashbang": "スタングレネード",
+  "flip-flop": "フリップ・フロップ",
   "flow-state": "フロー状態",
+  "fogwise": "霧の作法",
   "for-the-people": "人々のために",
   "friendly-competition": "切磋琢磨",
   "fruits-of-your-labor": "努力の賜物",
+  "ghost-notes": "ゴーストノート",
+  "hardened": "強靭",
   "head-on": "真っ向勝負",
+  "hope": "希望",
+  "hyperfocus": "全集中",
+  "inner-focus": "インナーフォーカス",
   "inner-strength": {
     "aliases": [
       "内なる回復"
     ],
     "name": "内なる力"
   },
+  "invocation-treacherous-crows": "呼び出し：裏切り者のカラス",
+  "invocation-weaving-spiders": "呼び出し：網を張る蜘蛛",
   "iron-will": "鋼の意思",
   "kindred": "血族",
+  "last-stand": "最後の抵抗",
   "leader": "リーダー",
+  "left-behind": "置き去りにされた者",
   "lend-a-hand": "手助け",
   "light-footed": "忍び足",
   "lightweight": "身軽",
   "lithe": "しなやか",
+  "low-profile": "雲隠れ",
+  "lucky-break": "怪我の功名",
   "lucky-star": "幸運の星",
   "made-for-this": "状況適応能力",
   "mettle-of-man": "英雄の奮起",
   "mirrored-illusion": "幻影",
+  "moment-of-glory": "栄光の瞬間",
   "no-mither": "弱音はナシだ",
   "no-one-left-behind": "誰も見捨てはしない",
+  "off-the-record": "オフレコ",
+  "one-two-three-four": "ワンツースリーフォー！",
   "open-handed": "手札公開",
   "overcome": "打開策",
+  "overzealous": "過剰な熱意",
   "parental-guidance": "父の助言",
+  "pharmacy": "調剤学",
   "plot-twist": "予想外の展開",
+  "plunderer-s-instinct": "コソ泥の本能",
+  "poised": "平常心",
   "potential-energy": "位置エネルギー",
+  "power-struggle": "勢力争い",
+  "premonition": "予感",
+  "prove-thyself": "有能の証明",
   "quick-and-quiet": "素早く静かに",
+  "quick-gambit": "加速の策略",
   "rapid-response": "迅速な対応",
   "reactive-healing": "反射回復",
+  "reassurance": "安心感",
   "red-herring": "おとり",
   "repressed-alliance": "抑圧の同盟",
   "residual-manifest": "残像の顕現",
   "resilience": "逆境魂",
+  "resurgence": "起死回生",
   "road-life": "路上生活",
   "rookie-spirit": "新人魂",
   "saboteur": "サボタージュ",
   "salvation-s-cry": "救いの叫び",
+  "scavenger": "ゴミ漁りの名人",
+  "scene-partner": "シーンの相手役",
   "second-wind": {
     "aliases": [
       "リニューアル"
@@ -91,18 +180,42 @@
     "name": "セカンドウインド"
   },
   "self-care": "セルフケア",
+  "self-preservation": "自己防衛",
   "shared-trauma": "トラウマの共有",
+  "shoulder-the-burden": "重責の引き受け",
+  "slippery-meat": "ツルツルとした肉体",
   "small-game": "小さな獲物",
   "smash-hit": "大ヒット",
   "solidarity": "連帯感",
+  "soul-guard": "ソウルガード",
+  "specialist": "スペシャリスト",
+  "spine-chill": "凍りつく背筋",
   "sprint-burst": "全力疾走",
+  "stake-out": "張り込み",
+  "still-sight": "不動の視力",
+  "streetwise": "都会の生存術",
+  "strength-in-shadows": "影に潜む強み",
   "teamwork-collective-stealth": "チームワーク：共同ステルス",
+  "teamwork-full-circuit": "チームワーク：つながった回路",
+  "teamwork-power-of-two": "チームワーク：二人の力",
+  "teamwork-soft-spoken": "チームワーク：小さな声",
+  "teamwork-throw-down": "チームワーク：挑戦",
+  "teamwork-toughen-up": "チームワーク：強化",
+  "technician": "テクニシャン",
   "tenacity": "執念",
+  "this-is-not-happening": "痛みも気から",
+  "troubleshooter": "修理担当者",
   "unbreakable": "不滅",
+  "up-the-ante": "賭け金のレイズ",
   "urban-evasion": "都会の逃走術",
   "valkyrie-s-rage": "戦乙女の怒り",
+  "vigil": "寝ずの番",
   "visionary": "透視家",
+  "wake-up": "目を覚ませ！",
   "we-ll-make-it": "きっとやり遂げる",
+  "we-re-gonna-live-forever": "ずっと一緒だ",
+  "we-see-you": "みんなに見える",
+  "wicked": "邪気",
   "will-to-live": {
     "aliases": [
       "決死の一撃"
@@ -112,5 +225,6 @@
   "windows-of-opportunity": {
     "aliases": [],
     "name": "ウィンドウズ・オブ・オポチュニティ"
-  }
+  },
+  "wiretap": "盗聴"
 }
