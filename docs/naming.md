@@ -31,6 +31,8 @@ segment := [a-z0-9]+ ( "-" [a-z0-9]+ )*
 | realm (optional artwork) | `realms.json` | `images/realms/<slug>.webp` |
 | empty-slot UI art | none (generic UI art, not a record) | `images/ui/empty-slot/<slot>.webp`, slot = `perk`\|`item`\|`addon`\|`offering`; fixed allow-list in `validate.py` |
 
+Map artwork import sources, dimensions, and SHA-256 checksums are recorded in `docs/map-image-sources.json`.
+
 Translations: `data/i18n/<lang>/<type>.json`, keyed by the same slugs (`item-variants` keyed `<item>/<variant>`).
 Aliases/abbreviations: `data/aliases/<type>.json` (currently `killers`, `maps`, `perks-killer`, `perks-survivor`), keyed by slug:
 `{"<slug>": {"aliases": [...], "abbreviations": [...]}}` (either field optional). `abbreviations` are short capitalised tokens
